@@ -1,11 +1,6 @@
 # Jmeter Resources
-<<<<<<< HEAD
 A collection of resources covering Jmeter and related issues and activities: plugins, integrations, ci, devops etc.
 This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com/a/2552/1842) and [this jmeter-related links collection](https://delicious.com/veslefrik/jmeter).
-=======
-A collection of resources covering Jmeter and related issues and activities: plugins, integrations, etc.
-
->>>>>>> a13838554f6cbad0c3aadf2f02398cf38d55808f
 
 ## Books
 
@@ -14,7 +9,6 @@ A collection of resources covering Jmeter and related issues and activities: plu
 - [Performance Testing with JMeter, 2nd Edition](https://books.google.by/books?id=6ditCAAAQBAJ) by Bayo Erinle ([Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-second-edition))
 - [JMeter Cookbook](https://books.google.by/books?id=gJUeBQAAQBAJ) by Bayo Erinle ([Packt Publishing](https://www.packtpub.com/application-development/jmeter-cookbook))
 
-<<<<<<< HEAD
 ## Blogs
 
 - [BlazeMeter Blog](https://blazemeter.com/blog)
@@ -60,15 +54,11 @@ A collection of resources covering Jmeter and related issues and activities: plu
 - [AtlantBH Custom JMeter Components](https://github.com/ATLANTBH/jmeter-components/)
 
 ## Cloud Services / SaaS
-=======
-## Cloud Services
->>>>>>> a13838554f6cbad0c3aadf2f02398cf38d55808f
 
 - [flood IO](http://flood.io/)
 - [BlazeMeter](http://blazemeter.com/)
 - [RedLine13](http://redline13.com/)
 - [Beatsoo!](https://beatsoo.org/)
-<<<<<<< HEAD
 - [Jellly.io](https://jellly.io/)
 - [CA App Synthetic Monitor](https://cloudmonitor.ca.com/en/feature/transaction-monitoring-web-application-testing.html)
 - [HP StormRunner Load](https://saas.hp.com/software/stormrunner-load)
@@ -104,7 +94,3 @@ A collection of resources covering Jmeter and related issues and activities: plu
 - [JMeter Performance](http://wiki.apache.org/jmeter/JMeterPerformance)
 - [JMeter Performance and Tuning Tips](http://www.ubik-ingenierie.com/blog/jmeter_performance_tuning_tips/)
 - [Beanshell vs JSR223 vs Java JMeter Scripting](http://blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance)
-=======
-- [CA App Synthetic Monitor](https://cloudmonitor.ca.com/en/feature/transaction-monitoring-web-application-testing.html)
-- [HP StormRunner Load](https://saas.hp.com/software/stormrunner-load)
->>>>>>> a13838554f6cbad0c3aadf2f02398cf38d55808f
