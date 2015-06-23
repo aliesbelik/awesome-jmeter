@@ -18,6 +18,11 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [Quants: JMeter](http://alexandru-ersenie.com/category/jmeter/)
 - [RedLine13 Blog](https://www.redline13.com/blog/recent-posts/)
 
+## Forums
+
+- [JMeter Nabble Forum](http://jmeter.512774.n5.nabble.com/)
+- [JMEter SQAforums](http://www.sqaforums.com/postlist.php?Cat=0&Board=UBB54)
+
 ## Getting Started
 
 - [A Simple Load Test with JMeter](https://www.urbaninsight.com/2011/07/18/simple-load-test-with-jmeter)
