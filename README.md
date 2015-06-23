@@ -60,6 +60,10 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [Testing with Groovy: Using JMeter and Groovy for load testing](https://www.packtpub.com/sites/default/files/downloads/Testingwithgroovy.pdf)
 - [JMeter: забудьте про BeanShell Sampler](http://habrahabr.ru/post/250731/)
 
+## DSL
+
+- [A Ruby based DSL for building JMeter test plans](https://github.com/flood-io/ruby-jmeter)
+
 ## Plugins
 
 - [JMeter Plugins: Custom Plugins for Apache JMeter](http://jmeter-plugins.org/)
