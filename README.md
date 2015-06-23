@@ -126,3 +126,10 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 
 - [JMeter tips and tricks scratchpad @ WebWob](http://www.webwob.com/html/jmeter_tips.html)
 - [Advanced JMeter Tips @ informIT](http://www.informit.com/guides/printerfriendly.aspx?g=java&seqNum=520)
+
+## IDE Integration
+
+- [Intellij IDEA IDE Plugin](https://github.com/ponomandr/jmeter-idea-plugin)
+- [JMeter + Eclipse HOWTO](http://people.apache.org/~mkostrze/jmeter-eclipse/index.html)
+- [NetBeans JMeter Kit](http://plugins.netbeans.org/plugin/49923/jmeter)
+- [Using a Load Generator in NetBeans IDE](https://netbeans.org/kb/docs/java/profile-loadgenerator.html)
