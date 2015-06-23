@@ -121,3 +121,8 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [JMeter Performance](http://wiki.apache.org/jmeter/JMeterPerformance)
 - [JMeter Performance and Tuning Tips](http://www.ubik-ingenierie.com/blog/jmeter_performance_tuning_tips/)
 - [Beanshell vs JSR223 vs Java JMeter Scripting](http://blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance)
+
+## Tips & Tricks
+
+- [JMeter tips and tricks scratchpad @ WebWob](http://www.webwob.com/html/jmeter_tips.html)
+- [Advanced JMeter Tips @ informIT](http://www.informit.com/guides/printerfriendly.aspx?g=java&seqNum=520)
