@@ -14,6 +14,9 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 
 - [BlazeMeter Blog](https://blazemeter.com/blog)
 - [Ubik Load Pack Blog](http://www.ubik-ingenierie.com/blog/)
+- [JMeter Tips](http://jmeter-tips.blogspot.com/)
+- [Quants: JMeter](http://alexandru-ersenie.com/category/jmeter/)
+- [RedLine13 Blog](https://www.redline13.com/blog/recent-posts/)
 
 ## Getting Started
 
@@ -35,11 +38,15 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [JMeter Resources @ InfoSec Institute](http://resources.infosecinstitute.com/search/?s=jmeter)
 - [JMeter Tutorial @ tutorialspoint.com ](http://www.tutorialspoint.com/jmeter/)
 - [JMeter Tutorial @ jmeter.net](http://www.jmeter.net/)
+- [JMeter Tutorial for Load Testing: The ULTIMATE Guide](http://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
 - [RESTful API testing with JMeter](http://www.ibm.com/developerworks/cloud/library/cl-jmeter-restful/)
+- [How to Hit Your RESTful Web Service Using JMeter](http://crunchify.com/how-to-hit-your-restful-web-service-using-jmeter-perform-a-simple-load-test/)
+- [API Testing with JMeter](http://www.gcdtech.com/blog/api-testing-with-jmeter/)
 
 ## Best Practices
 
 - [JMeter Official Best Practices](http://jmeter.apache.org/usermanual/best-practices.html)
+- [JMeter Best Practices @ BlazeMeter](https://docs.blazemeter.com/customer/portal/articles/1932776-jmeter-best-practices)
 
 ## Scripting
 
@@ -54,6 +61,16 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [UBIK Load Pack: Productivity extensions for Apache JMeter](http://ubikloadpack.com/)
 - [AtlantBH Custom JMeter Components](https://github.com/ATLANTBH/jmeter-components/)
 
+## CI
+
+- [JMeter Maven Plugin](http://jmeter.lazerycode.com/)
+- [Jenkins Performance Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin)
+- [Sonar JMeter Plugin](https://github.com/SonarCommunity/sonar-jmeter)
+- [Bamboo JMeter Aggregator Plugin](https://github.com/diegomansua/Bamboo-JMeter-Aggregator-Plugin)
+- [Automated performance testing using JMeter and Maven](http://blogs.atlassian.com/2009/10/automated_performance_testing_using_jmeter_and_maven/)
+- [Performance Tests with JMeter, Maven and Hudson](http://www.theserverlabs.com/blog/2009/04/23/performance-tests-with-jmeter-maven-and-hudson/)
+- [CI with Jenkins, Git, Maven, Grunt, and JMeter](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
+
 ## Cloud Services / SaaS
 
 - [flood IO](http://flood.io/)
@@ -63,15 +80,6 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [Jellly.io](https://jellly.io/)
 - [CA App Synthetic Monitor](https://cloudmonitor.ca.com/en/feature/transaction-monitoring-web-application-testing.html)
 - [HP StormRunner Load](https://saas.hp.com/software/stormrunner-load)
-
-## CI
-
-- [JMeter Maven Plugin](http://jmeter.lazerycode.com/)
-- [Jenkins Performance Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin)
-- [Sonar JMeter Plugin](https://github.com/SonarCommunity/sonar-jmeter)
-- [Bamboo JMeter Aggregator Plugin](https://github.com/diegomansua/Bamboo-JMeter-Aggregator-Plugin)
-- [Automated performance testing using JMeter and Maven](http://blogs.atlassian.com/2009/10/automated_performance_testing_using_jmeter_and_maven/)
-- [CI with Jenkins, Git, Maven, Grunt, and JMeter](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
 
 ## Result Analysis
 
@@ -83,12 +91,13 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [JMeter Result Analysis Plugin](https://github.com/afranken/jmeter-analysis-maven-plugin)
 - [JMeter Results Analyser](http://sourceforge.net/projects/jmstats/)
 - DB Result Collectors: [JMeter DBCollector Plugin](http://sourceforge.net/projects/jmeterdbcollect/), [JMeter MySQLCollector Plugin](http://wiki.apache.org/jmeter/MysqlCollectorPlugin)
-- [JChav: JMeter Chart History And Visualisation](https://github.com/d6y/jchav)
+- [Export to Excel and Analyse JMeter Results using Pivot Tables](http://alexandru-ersenie.com/2009/08/28/jmeter-results-analysis-using-pivot-tables-in-excel/)
 
 ## JMeter Graphs
 
-- [Better JMeter Graphs](http://rubenlaguna.com/wp/better-jmeter-graphs/)
+- [Better JMeter Graphs: Statistical Aggregate Report](http://rubenlaguna.com/wp/better-jmeter-graphs/)
 - [Plotting your load test with JMeter](http://www.metaltoad.com/blog/plotting-your-load-test-jmeter)
+- [JChav: JMeter Chart History And Visualisation](https://github.com/d6y/jchav)
 
 ## JMeter Performance
 
