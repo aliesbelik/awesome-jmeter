@@ -80,6 +80,14 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [Performance Tests with JMeter, Maven and Hudson](http://www.theserverlabs.com/blog/2009/04/23/performance-tests-with-jmeter-maven-and-hudson/)
 - [CI with Jenkins, Git, Maven, Grunt, and JMeter](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
 
+## Distributed Testing
+
+- [JMeter Distributed Testing Step-by-step](http://jmeter.apache.org/usermanual/jmeter_distributed_testing_step_by_step.pdf)
+- [How to do remote testing the 'proper way'?](http://wiki.apache.org/jmeter/JMeterFAQ#How_to_do_remote_testing_the_.27proper_way.27.3F)
+- [JMeter Remote Testing](http://jmeter.apache.org/usermanual/remote-test.html)
+- [jmeter-ec2: Run JMeter on Amazon’s ec2 Cloud](http://www.http503.com/2012/run-jmeter-on-amazon-ec2-cloud/)
+- [Distributed JMeter testing using Docker](http://srivaths.blogspot.com/2014/08/distrubuted-jmeter-testing-using-docker.html)
+
 ## Cloud Services / SaaS
 
 - [flood IO](http://flood.io/)
