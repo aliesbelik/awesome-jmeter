@@ -1,5 +1,5 @@
-# Jmeter Resources
-A collection of resources covering Jmeter and related issues and activities: plugins, integrations, ci, devops etc.
+# JMeter Resources
+A collection of resources covering JMeter and related issues and activities: plugins, integrations, ci, devops etc.
 
 This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com/a/2552/1842) and [this jmeter-related links collection](https://delicious.com/veslefrik/jmeter).
 
@@ -21,7 +21,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 ## Forums
 
 - [JMeter Nabble Forum](http://jmeter.512774.n5.nabble.com/)
-- [JMEter SQAforums](http://www.sqaforums.com/postlist.php?Cat=0&Board=UBB54)
+- [JMeter SQAforums](http://www.sqaforums.com/postlist.php?Cat=0&Board=UBB54)
 
 ## Getting Started
 
