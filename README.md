@@ -47,6 +47,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [RESTful API testing with JMeter](http://www.ibm.com/developerworks/cloud/library/cl-jmeter-restful/)
 - [How to Hit Your RESTful Web Service Using JMeter](http://crunchify.com/how-to-hit-your-restful-web-service-using-jmeter-perform-a-simple-load-test/)
 - [API Testing with JMeter](http://www.gcdtech.com/blog/api-testing-with-jmeter/)
+- [JMeter: Load Development LifeCycle] (http://gerardnico.com/wiki/jmeter/lifecycle)
 
 ## Best Practices
 
@@ -119,7 +120,8 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 ## JMeter Performance
 
 - [JMeter Performance](http://wiki.apache.org/jmeter/JMeterPerformance)
-- [JMeter Performance and Tuning Tips](http://www.ubik-ingenierie.com/blog/jmeter_performance_tuning_tips/)
+- [JMeter Performance and Tuning Tips @ UBIK Ingenierie](http://www.ubik-ingenierie.com/blog/jmeter_performance_tuning_tips/)
+- [JMeter Performance and Tuning Tips @ BlazeMeter](https://blazemeter.com/blog/jmeter-performance-and-tuning-tips)
 - [Beanshell vs JSR223 vs Java JMeter Scripting](http://blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance)
 
 ## Tips & Tricks
