@@ -67,6 +67,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 
 ## Plugins
 
+- [JMeter Plugins list](https://docs.google.com/spreadsheets/d/1FYMw3zCMr2Y37QCG_vOyC3HyrLxxi7x5I3khWLj3isU/edit?usp=sharing)
 - [JMeter Plugins: Custom Plugins for Apache JMeter](http://jmeter-plugins.org/)
 - [UBIK Load Pack: Productivity extensions for Apache JMeter](http://ubikloadpack.com/)
 - [AtlantBH Custom JMeter Components](https://github.com/ATLANTBH/jmeter-components/)
