@@ -100,6 +100,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [Jellly.io](https://jellly.io/)
 - [CA App Synthetic Monitor](https://cloudmonitor.ca.com/en/feature/transaction-monitoring-web-application-testing.html)
 - [HP StormRunner Load](https://saas.hp.com/software/stormrunner-load)
+- [Loadster](http://www.loadsterperformance.com/)
 
 ## Result Analysis
 
