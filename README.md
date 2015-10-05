@@ -81,6 +81,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [Automated performance testing using JMeter and Maven](http://blogs.atlassian.com/2009/10/automated_performance_testing_using_jmeter_and_maven/)
 - [Performance Tests with JMeter, Maven and Hudson](http://www.theserverlabs.com/blog/2009/04/23/performance-tests-with-jmeter-maven-and-hudson/)
 - [CI with Jenkins, Git, Maven, Grunt, and JMeter](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
+- [Lightning: JMeter performance testing integration with CI infrastructure](https://github.com/automatictester/lightning)
 
 ## Distributed Testing
 
