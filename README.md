@@ -97,7 +97,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [BlazeMeter](http://blazemeter.com/)
 - [RedLine13](http://redline13.com/)
 - [Beatsoo!](https://beatsoo.org/)
-- [Jellly.io](https://jellly.io/)
+- [OctoPerf](https://octoperf.com/)
 - [CA App Synthetic Monitor](https://cloudmonitor.ca.com/en/feature/transaction-monitoring-web-application-testing.html)
 - [HP StormRunner Load](https://saas.hp.com/software/stormrunner-load)
 - [Loadster](http://www.loadsterperformance.com/)
