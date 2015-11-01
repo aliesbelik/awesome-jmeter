@@ -9,6 +9,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [Performance Testing With JMeter 2.9](http://books.google.by/books?id=fpWmv3wPT64C) by Bayo Erinle ([Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-29))
 - [Performance Testing with JMeter, 2nd Edition](https://books.google.by/books?id=6ditCAAAQBAJ) by Bayo Erinle ([Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-second-edition))
 - [JMeter Cookbook](https://books.google.by/books?id=gJUeBQAAQBAJ) by Bayo Erinle ([Packt Publishing](https://www.packtpub.com/application-development/jmeter-cookbook))
+- [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) by Antonio Gomes Rodrigues, Milamber (Apache JMeter PMC Member and commiter) and Philippe M. (Apache JMeter PMC Member and commiter) ([Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops))
 
 ## Blogs
 
