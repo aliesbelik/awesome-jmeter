@@ -9,7 +9,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [Performance Testing With JMeter 2.9](http://books.google.by/books?id=fpWmv3wPT64C) by Bayo Erinle ([Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-29))
 - [Performance Testing with JMeter, 2nd Edition](https://books.google.by/books?id=6ditCAAAQBAJ) by Bayo Erinle ([Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-second-edition))
 - [JMeter Cookbook](https://books.google.by/books?id=gJUeBQAAQBAJ) by Bayo Erinle ([Packt Publishing](https://www.packtpub.com/application-development/jmeter-cookbook))
-- [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) by Antonio Gomes Rodrigues, Milamber (Apache JMeter PMC Member and commiter) and Philippe M. (Apache JMeter PMC Member and commiter) ([Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops))
+- [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) by Antonio Gomes Rodrigues, Bruno Demion (Milamber) and Philippe Mouawad ([Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops))
 
 ## Blogs
 
@@ -60,11 +60,16 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [Beanshell vs JSR223 vs Java JMeter Scripting](http://blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance)
 - [Using Groovy in JMeter](http://jroller.com/isaaclevin/entry/using_groovy_in_jmeter)
 - [Testing with Groovy: Using JMeter and Groovy for load testing](https://www.packtpub.com/sites/default/files/downloads/Testingwithgroovy.pdf)
-- [JMeter: забудьте про BeanShell Sampler](http://habrahabr.ru/post/250731/)
+- [JMeter: forget about BeanShell Sampler](http://habrahabr.ru/post/250731/)
 
 ## DSL
 
 - [A Ruby based DSL for building JMeter test plans](https://github.com/flood-io/ruby-jmeter)
+
+## Distributions
+
+- [Apache JMeter: Official downloads](http://jmeter.apache.org/download_jmeter.cgi)
+- [JMeter for Windows: Package for installation JMeter with Plug-Ins](http://sourceforge.net/projects/jmeterforwindows/)
 
 ## Plugins
 
