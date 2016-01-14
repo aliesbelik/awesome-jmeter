@@ -59,7 +59,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 ## Q&A
 
 - [JMeter on stackoverflow](http://stackoverflow.com/questions/tagged/jmeter)
-- [Russian-language chat of JMeter enthusiasts](skype:?chat&blob=IbRXLXn3vMTz0_HHNSdMSl3F5dBghpkaYANu1hO51k6Ezsvnm7z1wBJQOLa_0ULE3y-IL_W_2EsOgUAQ5yOV8mFwcz7h6lvmXZaRGuPtr-VJvHdLmKJ2HXu4xVsNCN8lGebTKYOop-t-pE9p14v4ZZOIvTWkinMymAYOIIMto4i1sZUazODeWb7aAW3yejZZ5PwsFGFfgwU)
+- [Russian-language chat of JMeter enthusiasts](http://is.gd/jmeterchat)
 
 ## Scripting
 
