@@ -11,18 +11,6 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [JMeter Cookbook](https://books.google.by/books?id=gJUeBQAAQBAJ) by Bayo Erinle ([Packt Publishing](https://www.packtpub.com/application-development/jmeter-cookbook))
 - [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) by Antonio Gomes Rodrigues, Bruno Demion (Milamber) and Philippe Mouawad ([Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops))
 
-## Blogs
-
-- [BlazeMeter Blog](https://blazemeter.com/blog)
-- [Ubik Load Pack Blog](http://www.ubik-ingenierie.com/blog/)
-- [JMeter Tips](http://jmeter-tips.blogspot.com/)
-- [Quants: JMeter](http://alexandru-ersenie.com/category/jmeter/)
-- [RedLine13 Blog](https://www.redline13.com/blog/recent-posts/)
-
-## Forums
-
-- [JMeter Nabble Forum](http://jmeter.512774.n5.nabble.com/)
-- [JMeter SQAforums](http://www.sqaforums.com/postlist.php?Cat=0&Board=UBB54)
 
 ## Getting Started
 
@@ -54,6 +42,24 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 
 - [JMeter Official Best Practices](http://jmeter.apache.org/usermanual/best-practices.html)
 - [JMeter Best Practices @ BlazeMeter](https://docs.blazemeter.com/customer/portal/articles/1932776-jmeter-best-practices)
+
+## Blogs
+
+- [BlazeMeter Blog](https://blazemeter.com/blog)
+- [Ubik Load Pack Blog](http://www.ubik-ingenierie.com/blog/)
+- [JMeter Tips](http://jmeter-tips.blogspot.com/)
+- [Quants: JMeter](http://alexandru-ersenie.com/category/jmeter/)
+- [RedLine13 Blog](https://www.redline13.com/blog/recent-posts/)
+
+## Forums
+
+- [JMeter Nabble Forum](http://jmeter.512774.n5.nabble.com/)
+- [JMeter SQAforums](http://www.sqaforums.com/postlist.php?Cat=0&Board=UBB54)
+
+## Q&A
+
+- [JMeter on stackoverflow](http://stackoverflow.com/questions/tagged/jmeter)
+- [Russian-language chat of JMeter enthusiasts](skype:?chat&blob=IbRXLXn3vMTz0_HHNSdMSl3F5dBghpkaYANu1hO51k6Ezsvnm7z1wBJQOLa_0ULE3y-IL_W_2EsOgUAQ5yOV8mFwcz7h6lvmXZaRGuPtr-VJvHdLmKJ2HXu4xVsNCN8lGebTKYOop-t-pE9p14v4ZZOIvTWkinMymAYOIIMto4i1sZUazODeWb7aAW3yejZZ5PwsFGFfgwU)
 
 ## Scripting
 
