@@ -115,7 +115,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [HP StormRunner Load](https://saas.hp.com/software/stormrunner-load)
 - [Loadster](http://www.loadsterperformance.com/)
 
-## Result Analysis
+## Results Analysis
 
 - [JMeter Result Analysis](http://artoftesting.com/performanceTesting/resultAnaysis.html)
 - [Suggestions and Recipes for Log Analysis](http://wiki.apache.org/jmeter/LogAnalysis)
@@ -151,3 +151,10 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [JMeter + Eclipse HOWTO](http://people.apache.org/~mkostrze/jmeter-eclipse/index.html)
 - [NetBeans JMeter Kit](http://plugins.netbeans.org/plugin/49923/jmeter)
 - [Using a Load Generator in NetBeans IDE](https://netbeans.org/kb/docs/java/profile-loadgenerator.html)
+
+## Streaming Protocols
+
+- [Easy and realistic Load Testing of HTTP Live Streaming (HLS) with Apache JMeter](http://www.ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
+- [Using JMeter to Load Test Live HLS Concurrency of Wowza Streaming Engine](http://www.realeyes.com/blog/2015/08/26/using-jmeter-to-load-test-live-hls-concurrency-of-wowza-streaming-engine/)
+- [How to Load Test HTTP Live Media Streaming (HLS) with JMeter](https://www.blazemeter.com/blog/how-load-test-http-live-media-streaming-hls-jmeter)
+- [Load testing HLS with Ruby JMeter](https://blog.flood.io/load-testing-hls-with-ruby-jmeter/)
