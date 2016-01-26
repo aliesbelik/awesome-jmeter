@@ -50,6 +50,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [JMeter Tips](http://jmeter-tips.blogspot.com/)
 - [Quants: JMeter](http://alexandru-ersenie.com/category/jmeter/)
 - [RedLine13 Blog](https://www.redline13.com/blog/recent-posts/)
+- [Flood.io Blog](https://blog.flood.io/)
 
 ## Forums
 
