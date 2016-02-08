@@ -182,6 +182,14 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [How to Load Test HTTP Live Media Streaming (HLS) with JMeter](https://www.blazemeter.com/blog/how-load-test-http-live-media-streaming-hls-jmeter)
 - [Load testing HLS with Ruby JMeter](https://blog.flood.io/load-testing-hls-with-ruby-jmeter/)
 
+## Extending JMeter
+
+- [JMeter Developer Manual](http://wiki.apache.org/jmeter/DeveloperManual)
+- [How to write a plugin for JMeter](https://jmeter.apache.org/extending/jmeter_tutorial.pdf)
+- [How to build a JMeter plugin utilising groovy](http://artur.ejsmont.org/blog/content/how-to-build-a-jmeter-plugin-utilising-groovy)
+- [How to create a plugin in JMeter](http://stackoverflow.com/questions/20422640/how-to-create-a-plugin-in-jmeter)
+- [Custom JMeter Samplers and Config Elements](http://codyaray.com/2014/07/custom-jmeter-samplers-and-config-elements)
+
 # Contributing
 
 Contributions are welcome!
