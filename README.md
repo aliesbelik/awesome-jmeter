@@ -1,5 +1,5 @@
 # JMeter Resources
-A collection of resources covering JMeter and related issues and activities: plugins, integrations, ci, devops etc.
+A curated collection of resources covering JMeter and related issues and activities: plugins, integrations, ci, devops etc.
 
 This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com/a/2552/1842) and [this jmeter-related links collection](https://delicious.com/veslefrik/jmeter).
 
@@ -8,9 +8,6 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
     - [Getting Started](#getting-started)
     - [Tutorials](#tutorials)
     - [Best Practices](#best-practices)
-    - [Blogs](#blogs)
-    - [Forums](#forums)
-    - [Q&A](#qa)
     - [Scripting](#scripting)
     - [DSL](#dsl)
     - [Distributions](#distributions)
@@ -23,7 +20,13 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
     - [JMeter Performance](#jmeter-performance)
     - [Tips & Tricks](#tips--tricks)
     - [IDE Integration](#ide-integration)
-    - [Streaming Protocols](#streaming-protocols)    
+    - [Streaming Protocols](#streaming-protocols)
+    - [Community](#community)
+        - [Blogs](#blogs)
+        - [Forums](#forums)
+        - [News & Updates](#news--updates)
+        - [Twitter](#twitter)
+        - [Q&A](#qa)
 - [Contributing](#contributing)
 
 ## Books
@@ -66,25 +69,6 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [JMeter Official Best Practices](http://jmeter.apache.org/usermanual/best-practices.html)
 - [JMeter Best Practices @ BlazeMeter](https://docs.blazemeter.com/customer/portal/articles/1932776-jmeter-best-practices)
 
-## Blogs
-
-- [BlazeMeter Blog](https://blazemeter.com/blog)
-- [Ubik Load Pack Blog](http://www.ubik-ingenierie.com/blog/)
-- [JMeter Tips](http://jmeter-tips.blogspot.com/)
-- [Quants: JMeter](http://alexandru-ersenie.com/category/jmeter/)
-- [RedLine13 Blog](https://www.redline13.com/blog/recent-posts/)
-- [Flood.io Blog](https://blog.flood.io/)
-
-## Forums
-
-- [JMeter Nabble Forum](http://jmeter.512774.n5.nabble.com/)
-- [JMeter SQAforums](http://www.sqaforums.com/postlist.php?Cat=0&Board=UBB54)
-
-## Q&A
-
-- [JMeter on stackoverflow](http://stackoverflow.com/questions/tagged/jmeter)
-- [Russian-language chat of JMeter enthusiasts](http://is.gd/jmeterchat)
-
 ## Scripting
 
 - [Beanshell vs JSR223 vs Java JMeter Scripting](http://blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance)
@@ -118,6 +102,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [Performance Tests with JMeter, Maven and Hudson](http://www.theserverlabs.com/blog/2009/04/23/performance-tests-with-jmeter-maven-and-hudson/)
 - [CI with Jenkins, Git, Maven, Grunt, and JMeter](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
 - [Lightning: JMeter performance testing integration with CI infrastructure](https://github.com/automatictester/lightning)
+- [Continuous automated web tests using Jenkins and JMeter](https://www.linkedin.com/pulse/continuous-automated-web-tests-using-jenkins-jmeter-mahanta)
 
 ## Distributed Testing
 
@@ -134,6 +119,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [RedLine13](http://redline13.com/)
 - [Beatsoo!](https://beatsoo.org/)
 - [OctoPerf](https://octoperf.com/)
+- [CloudLoad.io](http://cloudload.io/)
 - [CA App Synthetic Monitor](https://cloudmonitor.ca.com/en/feature/transaction-monitoring-web-application-testing.html)
 - [HP StormRunner Load](https://saas.hp.com/software/stormrunner-load)
 - [Loadster](http://www.loadsterperformance.com/)
@@ -189,6 +175,37 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [How to build a JMeter plugin utilising groovy](http://artur.ejsmont.org/blog/content/how-to-build-a-jmeter-plugin-utilising-groovy)
 - [How to create a plugin in JMeter](http://stackoverflow.com/questions/20422640/how-to-create-a-plugin-in-jmeter)
 - [Custom JMeter Samplers and Config Elements](http://codyaray.com/2014/07/custom-jmeter-samplers-and-config-elements)
+
+## Community
+
+### Blogs
+
+- [BlazeMeter Blog](https://blazemeter.com/blog)
+- [Ubik Load Pack Blog](http://www.ubik-ingenierie.com/blog/)
+- [JMeter Tips](http://jmeter-tips.blogspot.com/)
+- [Quants: JMeter](http://alexandru-ersenie.com/category/jmeter/)
+- [RedLine13 Blog](https://www.redline13.com/blog/recent-posts/)
+- [Flood.io Blog](https://blog.flood.io/)
+
+### Forums
+
+- [JMeter Nabble Forum](http://jmeter.512774.n5.nabble.com/)
+- [JMeter SQAforums](http://www.sqaforums.com/postlist.php?Cat=0&Board=UBB54)
+
+### News & Updates
+
+- [JMeter @ Linkedin](https://www.linkedin.com/topic/jmeter)
+
+### Twitter
+
+- [@ApacheJMeter](https://twitter.com/apachejmeter)
+- [@jmeter_plugins](https://twitter.com/jmeter_plugins)
+- [@BlazeMeter](https://twitter.com/BlazeMeterhttps://twitter.com/BlazeMeter)
+
+### Q&A
+
+- [JMeter on stackoverflow](http://stackoverflow.com/questions/tagged/jmeter)
+- [Russian-language chat of JMeter enthusiasts](http://is.gd/jmeterchat)
 
 # Contributing
 
