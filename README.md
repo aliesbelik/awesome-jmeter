@@ -13,8 +13,6 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
     - [Distributions](#distributions)
     - [Plugins](#plugins)
     - [CI](#ci)
-        - [Tools & Plugins](tools--plugins)
-        - [Tutorials & Demo](tutorials--demo)
     - [Distributed Testing](#distributed-testing)
     - [Cloud Services / SaaS](#cloud-services--saas)
     - [Results Analysis](#results-analysis)
@@ -22,7 +20,9 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
     - [JMeter Performance](#jmeter-performance)
     - [Tips & Tricks](#tips--tricks)
     - [IDE Integration](#ide-integration)
-    - [Streaming Protocols](#streaming-protocols)
+    - [Performance Testing](#performance-testing)
+        - [Streaming Protocols](#streaming-protocols)
+        - [Mobile Apps](#mobile-apps)
     - [Community](#community)
         - [Blogs](#blogs)
         - [Forums](#forums)
@@ -140,8 +140,10 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [JAnalyser: browser based results analysis tool](http://janalyser.com/)
 - [JMeter Result Analysis Plugin](https://github.com/afranken/jmeter-analysis-maven-plugin)
 - [JMeter Results Analyser](http://sourceforge.net/projects/jmstats/)
-- DB Result Collectors: [JMeter DBCollector Plugin](http://sourceforge.net/projects/jmeterdbcollect/), [JMeter MySQLCollector Plugin](http://wiki.apache.org/jmeter/MysqlCollectorPlugin)
 - [Export to Excel and Analyse JMeter Results using Pivot Tables](http://alexandru-ersenie.com/2009/08/28/jmeter-results-analysis-using-pivot-tables-in-excel/)
+- DB Result Collectors
+    - [JMeter DBCollector Plugin](http://sourceforge.net/projects/jmeterdbcollect/)
+    - [JMeter MySQLCollector Plugin](http://wiki.apache.org/jmeter/MysqlCollectorPlugin)
 
 ## Results Visualisation
 
@@ -169,12 +171,20 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [NetBeans JMeter Kit](http://plugins.netbeans.org/plugin/49923/jmeter)
 - [Using a Load Generator in NetBeans IDE](https://netbeans.org/kb/docs/java/profile-loadgenerator.html)
 
-## Streaming Protocols
+## Performance Testing
+
+### Streaming Protocols
 
 - [Easy and realistic Load Testing of HTTP Live Streaming (HLS) with Apache JMeter](http://www.ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
 - [Using JMeter to Load Test Live HLS Concurrency of Wowza Streaming Engine](http://www.realeyes.com/blog/2015/08/26/using-jmeter-to-load-test-live-hls-concurrency-of-wowza-streaming-engine/)
 - [How to Load Test HTTP Live Media Streaming (HLS) with JMeter](https://www.blazemeter.com/blog/how-load-test-http-live-media-streaming-hls-jmeter)
 - [Load testing HLS with Ruby JMeter](https://blog.flood.io/load-testing-hls-with-ruby-jmeter/)
+
+### Mobile Apps
+
+- [Record iOS application HTTP requests](http://www.testautomationguru.com/jmeter-record-ios-application-http-requests/)
+- [BlazeMeter Mobile Recorder](https://guide.blazemeter.com/hc/en-us/articles/207420545-BlazeMeter-Recorder-Mobile-Recorder-)
+- [Performance Testing for Native Mobile Apps @ Blazemeter](https://www.blazemeter.com/blog/view-webcast-performance-testing-native-mobile-apps)
 
 ## Extending JMeter
 
