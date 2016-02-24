@@ -13,10 +13,12 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
     - [Distributions](#distributions)
     - [Plugins](#plugins)
     - [CI](#ci)
+        - [Tools & Plugins](tools--plugins)
+        - [Tutorials & Demo](tutorials--demo)
     - [Distributed Testing](#distributed-testing)
     - [Cloud Services / SaaS](#cloud-services--saas)
     - [Results Analysis](#results-analysis)
-    - [JMeter Graphs](#jmeter-graphs)
+    - [Results Visualisation](#results-visualisation)
     - [JMeter Performance](#jmeter-performance)
     - [Tips & Tricks](#tips--tricks)
     - [IDE Integration](#ide-integration)
@@ -94,15 +96,20 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 
 ## CI
 
-- [JMeter Maven Plugin](http://jmeter.lazerycode.com/)
-- [Jenkins Performance Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin)
-- [Sonar JMeter Plugin](https://github.com/SonarCommunity/sonar-jmeter)
-- [Bamboo JMeter Aggregator Plugin](https://github.com/diegomansua/Bamboo-JMeter-Aggregator-Plugin)
-- [Automated performance testing using JMeter and Maven](http://blogs.atlassian.com/2009/10/automated_performance_testing_using_jmeter_and_maven/)
-- [Performance Tests with JMeter, Maven and Hudson](http://www.theserverlabs.com/blog/2009/04/23/performance-tests-with-jmeter-maven-and-hudson/)
-- [CI with Jenkins, Git, Maven, Grunt, and JMeter](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
-- [Lightning: JMeter performance testing integration with CI infrastructure](https://github.com/automatictester/lightning)
-- [Continuous automated web tests using Jenkins and JMeter](https://www.linkedin.com/pulse/continuous-automated-web-tests-using-jenkins-jmeter-mahanta)
+- Tools & Plugins
+    - [JMeter Ant Task](http://www.programmerplanet.org/projects/jmeter-ant-task/)
+    - [JMeter Maven Plugin](http://jmeter.lazerycode.com/)
+    - [Jenkins Performance Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin)
+    - [Sonar JMeter Plugin](https://github.com/SonarCommunity/sonar-jmeter)
+    - [Bamboo JMeter Aggregator Plugin](https://github.com/diegomansua/Bamboo-JMeter-Aggregator-Plugin)
+    - [Lightning: JMeter performance testing integration with CI infrastructure](https://github.com/automatictester/lightning)
+- Tutorials & Demo
+    - [Automated performance testing using JMeter and Maven](http://blogs.atlassian.com/2009/10/automated_performance_testing_using_jmeter_and_maven/)
+    - [Performance Tests with JMeter, Maven and Hudson](http://www.theserverlabs.com/blog/?p=280)
+    - [CI with Jenkins, Git, Maven, Grunt, and JMeter](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
+    - [Continuous automated web tests using Jenkins and JMeter](https://www.linkedin.com/pulse/continuous-automated-web-tests-using-jenkins-jmeter-mahanta)
+    - How to automate JMeter tests with Maven and Jenkins: [part 1](https://ribblescode.wordpress.com/2012/04/16/how-to-run-jmeter-tests-with-maven/), [part 2](https://ribblescode.wordpress.com/2012/04/16/how-to-automate-jmeter-tests-with-maven-and-jenkins-hudson-8/)
+    - JMeter Continuous Performance Testing (JMeter + Ant + Jenkins): [part 1](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part1/), [part 2](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part2/)
 
 ## Distributed Testing
 
@@ -136,11 +143,12 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - DB Result Collectors: [JMeter DBCollector Plugin](http://sourceforge.net/projects/jmeterdbcollect/), [JMeter MySQLCollector Plugin](http://wiki.apache.org/jmeter/MysqlCollectorPlugin)
 - [Export to Excel and Analyse JMeter Results using Pivot Tables](http://alexandru-ersenie.com/2009/08/28/jmeter-results-analysis-using-pivot-tables-in-excel/)
 
-## JMeter Graphs
+## Results Visualisation
 
 - [Better JMeter Graphs: Statistical Aggregate Report](http://rubenlaguna.com/wp/better-jmeter-graphs/)
 - [Plotting your load test with JMeter](http://www.metaltoad.com/blog/plotting-your-load-test-jmeter)
-- [JChav: JMeter Chart History And Visualisation](https://github.com/d6y/jchav)
+- [JChav: JMeter Chart History and Visualisation](https://github.com/d6y/jchav)
+- [Real Time Results with InfluxDB & Grafana](http://www.testautomationguru.com/jmeter-real-time-results-influxdb-grafana/)
 
 ## JMeter Performance
 
