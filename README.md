@@ -39,13 +39,13 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [JMeter Cookbook](https://books.google.by/books?id=gJUeBQAAQBAJ) by Bayo Erinle ([Packt Publishing](https://www.packtpub.com/application-development/jmeter-cookbook))
 - [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) by Antonio Gomes Rodrigues, Bruno Demion (Milamber) and Philippe Mouawad ([Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops))
 
-
 ## Getting Started
 
 - [A Simple Load Test with JMeter](https://www.urbaninsight.com/2011/07/18/simple-load-test-with-jmeter)
 - [Load Testing with Apache JMeter @ DevX.com](http://www.devx.com/webdev/Article/17950)
 - [Your First JMeter Test @ InformIT.com](http://www.informit.com/guides/content.aspx?g=java&seqNum=269)
 - [Performance testing with JMeter @ Atlassian Blogs](http://blogs.atlassian.com/2008/10/performance_testing_with_jmete/)
+- [Getting Started With Apache JMeter @ DZone](https://dzone.com/refcardz/getting-started-with-apache-jmeter)
 
 ## Tutorials
 
