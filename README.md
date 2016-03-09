@@ -151,6 +151,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [Plotting your load test with JMeter](http://www.metaltoad.com/blog/plotting-your-load-test-jmeter)
 - [JChav: JMeter Chart History and Visualisation](https://github.com/d6y/jchav)
 - [Real Time Results with InfluxDB & Grafana](http://www.testautomationguru.com/jmeter-real-time-results-influxdb-grafana/)
+- [Create JMeter graphs with CMDRunner with powershell parallel execution](http://performancewebautoamtionother.blogspot.com.by/2015/12/jmeter-create-graphs-with-cmdrunner.html)
 
 ## JMeter Performance
 
