@@ -41,7 +41,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 
 ## Getting Started
 
-- [A Simple Load Test with JMeter](https://www.urbaninsight.com/2011/07/18/simple-load-test-with-jmeter)
+- [A Simple Load Test with JMeter @ Urban Insight](https://www.urbaninsight.com/2011/07/18/simple-load-test-with-jmeter)
 - [Load Testing with Apache JMeter @ DevX.com](http://www.devx.com/webdev/Article/17950)
 - [Your First JMeter Test @ InformIT.com](http://www.informit.com/guides/content.aspx?g=java&seqNum=269)
 - [Performance testing with JMeter @ Atlassian Blogs](http://blogs.atlassian.com/2008/10/performance_testing_with_jmete/)
@@ -65,6 +65,8 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [How to Hit Your RESTful Web Service Using JMeter](http://crunchify.com/how-to-hit-your-restful-web-service-using-jmeter-perform-a-simple-load-test/)
 - [JMeter: Load Development LifeCycle] (http://gerardnico.com/wiki/jmeter/lifecycle)
 - Load Testing with Apache JMeter @ DigitalOcean: [part 1](https://www.digitalocean.com/community/tutorials/how-to-use-apache-jmeter-to-perform-load-testing-on-a-web-server), [part 2](https://www.digitalocean.com/community/tutorials/how-to-use-jmeter-to-record-test-scenarios)
+- [JMeter Tutorial @ Guru99](http://www.guru99.com/jmeter-tutorials.html)
+- [JMeter Course @ udemy](https://www.udemy.com/learn-jmeter-from-scratch-performance-load-testing-tool/)
 
 ## Best Practices
 
@@ -108,6 +110,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
     - [Performance Tests with JMeter, Maven and Hudson](http://www.theserverlabs.com/blog/?p=280)
     - [CI with Jenkins, Git, Maven, Grunt, and JMeter](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
     - [Continuous automated web tests using Jenkins and JMeter](https://www.linkedin.com/pulse/continuous-automated-web-tests-using-jenkins-jmeter-mahanta)
+    - [Automating JMeter tests with Maven and Jenkins](https://blog.codecentric.de/en/2014/01/automating-jmeter-tests-maven-jenkins/)
     - How to automate JMeter tests with Maven and Jenkins: [part 1](https://ribblescode.wordpress.com/2012/04/16/how-to-run-jmeter-tests-with-maven/), [part 2](https://ribblescode.wordpress.com/2012/04/16/how-to-automate-jmeter-tests-with-maven-and-jenkins-hudson-8/)
     - JMeter Continuous Performance Testing (JMeter + Ant + Jenkins): [part 1](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part1/), [part 2](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part2/)
 
@@ -116,8 +119,18 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [JMeter Distributed Testing Step-by-step](http://jmeter.apache.org/usermanual/jmeter_distributed_testing_step_by_step.pdf)
 - [How to do remote testing the 'proper way'?](http://wiki.apache.org/jmeter/JMeterFAQ#How_to_do_remote_testing_the_.27proper_way.27.3F)
 - [JMeter Remote Testing](http://jmeter.apache.org/usermanual/remote-test.html)
-- [jmeter-ec2: Run JMeter on Amazon’s ec2 Cloud](http://www.http503.com/2012/run-jmeter-on-amazon-ec2-cloud/)
-- [Distributed JMeter testing using Docker](http://srivaths.blogspot.com/2014/08/distrubuted-jmeter-testing-using-docker.html)
+- Dockerized
+    - [Dockerized JMeter: A Distributed Load Testing Workflow](https://gist.github.com/hhcordero/abd1dcaf6654cfe51d0b)
+    - [JMeter Docker Images](https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=jmeter&starCount=0)
+    - [Distributed JMeter testing using Docker](http://srivaths.blogspot.com/2014/08/distrubuted-jmeter-testing-using-docker.html)
+- Testing in Cloud
+    - Amazon
+        - [jmeter-ec2: Run JMeter on Amazon’s EC2 Cloud](http://web.archive.org/web/20120209090437/http://www.http503.com/2012/jmeter-ec2/)
+        - [Load Testing with JMeter and Amazon EC2](https://medium.com/@alttaf_untangl/load-testing-with-jmeter-and-amazon-ec2-e143a7350596)
+        - [Performance Testing in the Cloud with JMeter & AWS](http://www.artofsoftwaredevelopment.com/performance/performance-testing-in-the-cloud-with-jmeter-aws)
+        - [JMeter distributed testing with Amazon EC2](https://vedovini.net/2009/08/jmeter-distributed-testing-with-amazon-ec2/)
+    - DigitalOcean
+        - [Building your own JMeter Cloud using Digital Ocean, JMeter and Docker](https://docs.google.com/presentation/d/1Yi5C27C3Q0AnT-uw9SRnMeEqXSKLQ8h9O9Jqo1gQiyI/)
 
 ## Cloud Services / SaaS
 
@@ -205,6 +218,8 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [Quants: JMeter](http://alexandru-ersenie.com/category/jmeter/)
 - [RedLine13 Blog](https://www.redline13.com/blog/recent-posts/)
 - [Flood.io Blog](https://blog.flood.io/)
+- [JMeter Blog @ Shantonu Sarker](http://shantonusarker.blogspot.com.by/p/jmeter.html)
+- [JMeter Expert Blog](http://jmeter-expert.blogspot.com/)
 
 ### Forums
 
