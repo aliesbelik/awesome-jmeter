@@ -7,6 +7,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
     - [Books](#books)
     - [Getting Started](#getting-started)
     - [Tutorials](#tutorials)
+    - [Trainings & Courses](#trainings--courses)
     - [Best Practices](#best-practices)
     - [Scripting](#scripting)
     - [DSL](#dsl)
@@ -66,8 +67,14 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [JMeter: Load Development LifeCycle] (http://gerardnico.com/wiki/jmeter/lifecycle)
 - Load Testing with Apache JMeter @ DigitalOcean: [part 1](https://www.digitalocean.com/community/tutorials/how-to-use-apache-jmeter-to-perform-load-testing-on-a-web-server), [part 2](https://www.digitalocean.com/community/tutorials/how-to-use-jmeter-to-record-test-scenarios)
 - [JMeter Tutorial @ Guru99](http://www.guru99.com/jmeter-tutorials.html)
-- [JMeter Course @ udemy](https://www.udemy.com/learn-jmeter-from-scratch-performance-load-testing-tool/)
 - [JMeter Series @ Sourcepole](http://blog.sourcepole.com/2011/01/04/jmeter-series/)
+
+## Trainings & Courses
+
+- [JMeter Training Courses @ NobleProg](http://www.nobleprog.co.uk/jmeter/training)
+- [JMeter Training Course @ ABSoft Trainings](http://www.absofttrainings.com/jmeter-training-course-and-tutorials/)
+- [JMeter Training Course @ BlazeMeter](http://info.blazemeter.com/jmeter-training-course)
+- [JMeter Course @ udemy](https://www.udemy.com/learn-jmeter-from-scratch-performance-load-testing-tool/)
 
 ## Best Practices
 
