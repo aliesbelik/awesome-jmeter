@@ -67,6 +67,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - Load Testing with Apache JMeter @ DigitalOcean: [part 1](https://www.digitalocean.com/community/tutorials/how-to-use-apache-jmeter-to-perform-load-testing-on-a-web-server), [part 2](https://www.digitalocean.com/community/tutorials/how-to-use-jmeter-to-record-test-scenarios)
 - [JMeter Tutorial @ Guru99](http://www.guru99.com/jmeter-tutorials.html)
 - [JMeter Course @ udemy](https://www.udemy.com/learn-jmeter-from-scratch-performance-load-testing-tool/)
+- [JMeter Series @ Sourcepole](http://blog.sourcepole.com/2011/01/04/jmeter-series/)
 
 ## Best Practices
 
@@ -137,7 +138,6 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [flood IO](http://flood.io/)
 - [BlazeMeter](http://blazemeter.com/)
 - [RedLine13](http://redline13.com/)
-- [Beatsoo!](https://beatsoo.org/)
 - [OctoPerf](https://octoperf.com/)
 - [CloudLoad.io](http://cloudload.io/)
 - [CA App Synthetic Monitor](https://cloudmonitor.ca.com/en/feature/transaction-monitoring-web-application-testing.html)
@@ -148,7 +148,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 
 - [JMeter Result Analysis](http://artoftesting.com/performanceTesting/resultAnaysis.html)
 - [Suggestions and Recipes for Log Analysis](http://wiki.apache.org/jmeter/LogAnalysis)
-- [Performance Testing: Analyzing JMeter Results](http://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results/)
+- [Performance Testing: Analyzing JMeter Results](http://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results)
 - [Loadosophia: service for storing and analysing performance test results](http://loadosophia.org/)
 - [JAnalyser: browser based results analysis tool](http://janalyser.com/)
 - [JMeter Result Analysis Plugin](https://github.com/afranken/jmeter-analysis-maven-plugin)
@@ -181,7 +181,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 ## IDE Integration
 
 - [Intellij IDEA IDE Plugin](https://github.com/ponomandr/jmeter-idea-plugin)
-- [JMeter + Eclipse HOWTO](http://people.apache.org/~mkostrze/jmeter-eclipse/index.html)
+- [JMeter + Eclipse HOWTO](https://wiki.apache.org/jmeter/JMeterAndEclipseHowTo)
 - [NetBeans JMeter Kit](http://plugins.netbeans.org/plugin/49923/jmeter)
 - [Using a Load Generator in NetBeans IDE](https://netbeans.org/kb/docs/java/profile-loadgenerator.html)
 
