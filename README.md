@@ -64,7 +64,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - [JMeter Tutorial for Load Testing: The ULTIMATE Guide](http://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
 - [RESTful API testing with JMeter](http://www.ibm.com/developerworks/cloud/library/cl-jmeter-restful/)
 - [How to Hit Your RESTful Web Service Using JMeter](http://crunchify.com/how-to-hit-your-restful-web-service-using-jmeter-perform-a-simple-load-test/)
-- [JMeter: Load Development LifeCycle] (http://gerardnico.com/wiki/jmeter/lifecycle)
+- [JMeter: Load Development LifeCycle](http://gerardnico.com/wiki/jmeter/lifecycle)
 - Load Testing with Apache JMeter @ DigitalOcean: [part 1](https://www.digitalocean.com/community/tutorials/how-to-use-apache-jmeter-to-perform-load-testing-on-a-web-server), [part 2](https://www.digitalocean.com/community/tutorials/how-to-use-jmeter-to-record-test-scenarios)
 - [JMeter Tutorial @ Guru99](http://www.guru99.com/jmeter-tutorials.html)
 - [JMeter Series @ Sourcepole](http://blog.sourcepole.com/2011/01/04/jmeter-series/)
@@ -121,6 +121,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
     - [Automating JMeter tests with Maven and Jenkins](https://blog.codecentric.de/en/2014/01/automating-jmeter-tests-maven-jenkins/)
     - How to automate JMeter tests with Maven and Jenkins: [part 1](https://ribblescode.wordpress.com/2012/04/16/how-to-run-jmeter-tests-with-maven/), [part 2](https://ribblescode.wordpress.com/2012/04/16/how-to-automate-jmeter-tests-with-maven-and-jenkins-hudson-8/)
     - JMeter Continuous Performance Testing (JMeter + Ant + Jenkins): [part 1](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part1/), [part 2](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part2/)
+    - [How to Run JMeter in a Continuous Integration Environment with Bamboo](https://www.blazemeter.com/blog/how-run-jmeter-continuous-integration-environment-bamboo)
 
 ## Distributed Testing
 
@@ -245,7 +246,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 
 ### Q&A
 
-- [JMeter on stackoverflow](http://stackoverflow.com/questions/tagged/jmeter)
+- [JMeter @ stackoverflow](http://stackoverflow.com/questions/tagged/jmeter)
 - [Russian-language chat of JMeter enthusiasts](http://is.gd/jmeterchat)
 
 # Contributing
