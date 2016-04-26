@@ -109,9 +109,10 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 - Tools & Plugins
     - [JMeter Ant Task](http://www.programmerplanet.org/projects/jmeter-ant-task/)
     - [JMeter Maven Plugin](http://jmeter.lazerycode.com/)
-    - [Jenkins Performance Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin)
+    - Jenkins Performance Plugin: [documentation](https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin), [sources](https://github.com/jenkinsci/performance-plugin)
+    - [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin)
+    - Bamboo JMeter Aggregator Plugin: [documentation](https://marketplace.atlassian.com/plugins/jmeterAggregator/server/overview), [sources](https://github.com/diegomansua/Bamboo-JMeter-Aggregator-Plugin)
     - [Sonar JMeter Plugin](https://github.com/SonarCommunity/sonar-jmeter)
-    - [Bamboo JMeter Aggregator Plugin](https://github.com/diegomansua/Bamboo-JMeter-Aggregator-Plugin)
     - [Lightning: JMeter performance testing integration with CI infrastructure](https://github.com/automatictester/lightning)
 - Tutorials & Demo
     - [Automated performance testing using JMeter and Maven](http://blogs.atlassian.com/2009/10/automated_performance_testing_using_jmeter_and_maven/)
