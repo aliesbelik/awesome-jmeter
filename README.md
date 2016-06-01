@@ -169,11 +169,14 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 
 ## Results Visualisation
 
+- [JMeter: Generating Report Dashboard](http://jmeter.apache.org/usermanual/generating-dashboard.html)
 - [Better JMeter Graphs: Statistical Aggregate Report](http://rubenlaguna.com/wp/better-jmeter-graphs/)
 - [Plotting your load test with JMeter](http://www.metaltoad.com/blog/plotting-your-load-test-jmeter)
 - [JChav: JMeter Chart History and Visualisation](https://github.com/d6y/jchav)
 - [Real Time Results with InfluxDB & Grafana](http://www.testautomationguru.com/jmeter-real-time-results-influxdb-grafana/)
+- [Using Elasticsearch, Logstash, and Kibana to visualize Apache JMeter test results](http://ecmarchitect.com/archives/2014/09/09/3932)
 - [Create JMeter graphs with CMDRunner with powershell parallel execution](http://performancewebautoamtionother.blogspot.com.by/2015/12/jmeter-create-graphs-with-cmdrunner.html)
+- JMeter Dashboard - Realtime monitoring of your JMeter load test: [howto](http://seangkuan.blogspot.com.by/2015/06/jmeter-dashboard-realtime-monitoring-of.html), [sources](https://github.com/vincentskooi/JMeterDashboard)
 
 ## JMeter Performance
 
