@@ -114,7 +114,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
     - [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin)
     - Bamboo JMeter Aggregator Plugin: [documentation](https://marketplace.atlassian.com/plugins/jmeterAggregator/server/overview), [sources](https://github.com/diegomansua/Bamboo-JMeter-Aggregator-Plugin)
     - [Sonar JMeter Plugin](https://github.com/SonarCommunity/sonar-jmeter)
-    - [Lightning: JMeter performance testing integration with CI infrastructure](https://github.com/automatictester/lightning)
+    - [Lightning: Integrate JMeter non-functional tests with CI/CD server](http://automatictester.github.io/lightning/)
 - Tutorials & Demo
     - [Automated performance testing using JMeter and Maven](http://blogs.atlassian.com/2009/10/automated_performance_testing_using_jmeter_and_maven/)
     - [Performance Tests with JMeter, Maven and Hudson](http://www.theserverlabs.com/blog/?p=280)
