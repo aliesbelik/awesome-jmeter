@@ -253,6 +253,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 
 - [JMeter @ stackoverflow](http://stackoverflow.com/questions/tagged/jmeter)
 - [Russian-language chat of JMeter enthusiasts](http://is.gd/jmeterchat)
+- JMeter @ gitter: [![Have questions\issues\problems, join the chat at https://gitter.im/aliesbelik/jmeter-chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aliesbelik/jmeter-chat)
 
 # Contributing
 
