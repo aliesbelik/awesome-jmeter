@@ -1,5 +1,5 @@
-# JMeter Resources
-A curated collection of resources covering JMeter and related issues and activities: plugins, integrations, ci, devops etc.
+# Awesome JMeter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A curated collection of resources covering JMeter and related issues and activities: plugins, integrations, testing techniques, ci, devops etc.
 
 This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com/a/2552/1842) and [this jmeter-related links collection](https://delicious.com/veslefrik/jmeter).
 
@@ -31,6 +31,8 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
         - [Twitter](#twitter)
         - [Q&A](#qa)
 - [Contributing](#contributing)
+- [License](#license)
+
 
 ## Books
 
@@ -259,3 +261,8 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 # Contributing
 
 Contributions are welcome!
+Please take a look at the [contribution guidelines](https://github.com/aliesbelik/jmeter-resources/blob/master/CONTRIBUTING.md) first.
+
+# License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
