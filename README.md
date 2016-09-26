@@ -156,11 +156,12 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 
 ## Results Analysis
 
+- [JMeter Report Dashboard](http://jmeter.apache.org/usermanual/generating-dashboard.html)
 - [JMeter Result Analysis](http://artoftesting.com/performanceTesting/resultAnaysis.html)
 - [Suggestions and Recipes for Log Analysis](http://wiki.apache.org/jmeter/LogAnalysis)
 - [Performance Testing: Analyzing JMeter Results](http://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results)
-- [Loadosophia: service for storing and analysing performance test results](http://loadosophia.org/)
-- [JAnalyser: browser based results analysis tool](http://janalyser.com/)
+- [BlazeMeter Sense](https://sense.blazemeter.com/)
+- [JAnalyser: browser-based results analysis tool](http://epireum.com/page-section/janalyser/)
 - [JMeter Result Analysis Plugin](https://github.com/afranken/jmeter-analysis-maven-plugin)
 - [JMeter Results Analyser](http://sourceforge.net/projects/jmstats/)
 - [Export to Excel and Analyse JMeter Results using Pivot Tables](http://alexandru-ersenie.com/2009/08/28/jmeter-results-analysis-using-pivot-tables-in-excel/)
