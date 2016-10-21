@@ -1,7 +1,9 @@
 # Awesome JMeter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated collection of resources covering JMeter and related issues and activities: plugins, integrations, testing techniques, ci, devops etc.
+A curated collection of resources covering JMeter and related  resources and shiny things: plugins, integrations, testing techniques, ci, devops etc.
 
 This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com/a/2552/1842) and [this jmeter-related links collection](https://delicious.com/veslefrik/jmeter).
+
+## Contents
 
 - [JMeter Resources](#jmeter-resources)
     - [Books](#books)
@@ -114,18 +116,21 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
     - [JMeter Maven Plugin](http://jmeter.lazerycode.com/)
     - Jenkins Performance Plugin: [documentation](https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin), [sources](https://github.com/jenkinsci/performance-plugin)
     - [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin)
-    - Bamboo JMeter Aggregator Plugin: [documentation](https://marketplace.atlassian.com/plugins/jmeterAggregator/server/overview), [sources](https://github.com/diegomansua/Bamboo-JMeter-Aggregator-Plugin)
+    - Bamboo JMeter Aggregator Plugin: [documentation](https://marketplace.atlassian.com/plugins/jmeterAggregator/server/overview), [sources](https://bitbucket.org/atlassian/bamboo-jmeter-plugin)
     - [Sonar JMeter Plugin](https://github.com/SonarCommunity/sonar-jmeter)
     - [Lightning: Integrate JMeter non-functional tests with CI/CD server](http://automatictester.github.io/lightning/)
 - Tutorials & Demo
-    - [Automated performance testing using JMeter and Maven](http://blogs.atlassian.com/2009/10/automated_performance_testing_using_jmeter_and_maven/)
-    - [Performance Tests with JMeter, Maven and Hudson](http://www.theserverlabs.com/blog/?p=280)
-    - [CI with Jenkins, Git, Maven, Grunt, and JMeter](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
-    - [Continuous automated web tests using Jenkins and JMeter](https://www.linkedin.com/pulse/continuous-automated-web-tests-using-jenkins-jmeter-mahanta)
-    - [Automating JMeter tests with Maven and Jenkins](https://blog.codecentric.de/en/2014/01/automating-jmeter-tests-maven-jenkins/)
-    - How to automate JMeter tests with Maven and Jenkins: [part 1](https://ribblescode.wordpress.com/2012/04/16/how-to-run-jmeter-tests-with-maven/), [part 2](https://ribblescode.wordpress.com/2012/04/16/how-to-automate-jmeter-tests-with-maven-and-jenkins-hudson-8/)
-    - JMeter Continuous Performance Testing (JMeter + Ant + Jenkins): [part 1](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part1/), [part 2](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part2/)
-    - [How to Run JMeter in a Continuous Integration Environment with Bamboo](https://www.blazemeter.com/blog/how-run-jmeter-continuous-integration-environment-bamboo)
+    - Jenkins
+        - [Automated performance testing using JMeter and Maven](http://blogs.atlassian.com/2009/10/automated_performance_testing_using_jmeter_and_maven/)
+        - [Performance Tests with JMeter, Maven and Hudson](http://www.theserverlabs.com/blog/?p=280)
+        - [CI with Jenkins, Git, Maven, Grunt, and JMeter](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
+        - [Continuous automated web tests using Jenkins and JMeter](https://www.linkedin.com/pulse/continuous-automated-web-tests-using-jenkins-jmeter-mahanta)
+        - [Automating JMeter tests with Maven and Jenkins](https://blog.codecentric.de/en/2014/01/automating-jmeter-tests-maven-jenkins/)
+        - How to automate JMeter tests with Maven and Jenkins: [part 1](https://ribblescode.wordpress.com/2012/04/16/how-to-run-jmeter-tests-with-maven/), [part 2](https://ribblescode.wordpress.com/2012/04/16/how-to-automate-jmeter-tests-with-maven-and-jenkins-hudson-8/)
+        - JMeter Continuous Performance Testing (JMeter + Ant + Jenkins): [part 1](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part1/), [part 2](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part2/)
+        - [Continuous Integration 101: How to Run JMeter with Jenkins](https://www.blazemeter.com/blog/continuous-integration-101-how-run-jmeter-jenkins)
+    - Bamboo
+        - [How to Run JMeter in a Continuous Integration Environment with Bamboo](https://www.blazemeter.com/blog/how-run-jmeter-continuous-integration-environment-bamboo)
 
 ## Distributed Testing
 
@@ -254,7 +259,7 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 
 ### Q&A
 
-- [JMeter @ stackoverflow](http://stackoverflow.com/questions/tagged/jmeter)
+- [JMeter @ Stack Overflow](http://stackoverflow.com/questions/tagged/jmeter)
 - [Russian-language chat of JMeter enthusiasts](http://is.gd/jmeterchat)
 - JMeter @ gitter: [![Have questions\issues\problems, join the chat at https://gitter.im/aliesbelik/jmeter-chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aliesbelik/jmeter-chat)
 
@@ -265,4 +270,4 @@ Please take a look at the [contribution guidelines](https://github.com/aliesbeli
 
 # License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
