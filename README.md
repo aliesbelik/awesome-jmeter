@@ -1,37 +1,38 @@
 # Awesome JMeter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated collection of resources covering [Apache JMeter](http://jmeter.apache.org/) and related resources and shiny things: plugins, integrations, testing techniques, ci, devops etc.
 
-This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com/a/2552/1842) and [this jmeter-related links collection](https://delicious.com/veslefrik/jmeter) and got further inspiration from [awesome](https://github.com/sindresorhus/awesome) project.
+The [Apache JMeter](http://jmeter.apache.org/) is open source, pure Java application designed to load test functional behavior and measure performance.
+
+This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.com/a/2552/1842) and [this jmeter-related links collection](https://delicious.com/veslefrik/jmeter) and got further inspiration from [awesome](https://github.com/sindresorhus/awesome) project.
 
 ## Contents
 
-- [JMeter Resources](#jmeter-resources)
-    - [Getting Started](#getting-started)
-    - [Tutorials](#tutorials)
-    - [Books](#books)    
-    - [Trainings & Courses](#trainings--courses)
-    - [Best Practices](#best-practices)
-    - [Scripting](#scripting)
-    - [DSL](#dsl)
-    - [Distributions](#distributions)
-    - [Plugins](#plugins)
-    - [CI](#ci)
-    - [Distributed Testing](#distributed-testing)
-    - [Cloud Services / SaaS](#cloud-services--saas)
-    - [Results Analysis](#results-analysis)
-    - [Results Visualisation](#results-visualisation)
-    - [JMeter Performance](#jmeter-performance)
-    - [Tips & Tricks](#tips--tricks)
-    - [IDE Integration](#ide-integration)
-    - [Performance Testing](#performance-testing)
-        - [Streaming Protocols](#streaming-protocols)
-        - [Mobile Apps](#mobile-apps)
-    - [Community](#community)
-        - [Blogs](#blogs)
-        - [Forums](#forums)
-        - [News & Updates](#news--updates)
-        - [Twitter](#twitter)
-        - [Q&A](#qa)
+- [Getting Started](#getting-started)
+- [Tutorials](#tutorials)
+- [Books](#books)    
+- [Trainings & Courses](#trainings--courses)
+- [Best Practices](#best-practices)
+- [Scripting](#scripting)
+- [DSL](#dsl)
+- [Distributions](#distributions)
+- [Plugins](#plugins)
+- [CI](#ci)
+- [Distributed Testing](#distributed-testing)
+- [Cloud Services / SaaS](#cloud-services--saas)
+- [Results Analysis](#results-analysis)
+- [Results Visualisation](#results-visualisation)
+- [JMeter Performance](#jmeter-performance)
+- [Tips & Tricks](#tips--tricks)
+- [IDE Integration](#ide-integration)
+- [Performance Testing](#performance-testing)
+    - [Streaming Protocols](#streaming-protocols)
+    - [Mobile Apps](#mobile-apps)
+- [Community](#community)
+    - [Blogs](#blogs)
+    - [Forums](#forums)
+    - [News & Updates](#news--updates)
+    - [Twitter](#twitter)
+    - [Q&A](#qa)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -152,14 +153,13 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 
 *List of cloud-based load testing services with support of JMeter test plans execution.*
 
-- [flood IO](http://flood.io/)
-- [BlazeMeter](http://blazemeter.com/)
-- [RedLine13](http://redline13.com/)
-- [OctoPerf](https://octoperf.com/)
-- [CloudLoad.io](http://cloudload.io/)
-- [CA App Synthetic Monitor](https://cloudmonitor.ca.com/en/feature/transaction-monitoring-web-application-testing.html)
-- [HP StormRunner Load](https://saas.hp.com/software/stormrunner-load)
-- [Loadster](http://www.loadsterperformance.com/)
+- [flood IO](http://flood.io/) - Load testing service with JMeter, Gatling and Selenium scenarios support.
+- [BlazeMeter](http://blazemeter.com/) - Performance engineering platform with JMeter and Selenium support.
+- [RedLine13](http://redline13.com/) - AWS-based load testing service with JMeter, Gatling and Selenium scenarios support.
+- [OctoPerf](https://octoperf.com/) - Performance testing solution with possibility to import JMeter test-plans.
+- [CA App Synthetic Monitor](https://cloudmonitor.ca.com/en/feature/transaction-monitoring-web-application-testing.html) - Transaction monitoring & testing solution with JMeter support.
+- [HP StormRunner Load](https://saas.hpe.com/en-us/software/stormrunner-load) - HP cloud-based solution for web and mobile performance testing with JMeter and Gatling support.
+- [Loadster](http://www.loadsterperformance.com/) - Solution for distributes load testing of web applications and services.
 
 ## Results Analysis
 
@@ -230,13 +230,13 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 
 ### Blogs
 
-- [BlazeMeter Blog](https://www.blazemeter.com/jmeter)
-- [Ubik Load Pack Blog](http://www.ubik-ingenierie.com/blog/category/jmeter/)
-- [JMeter Tips](http://jmeter-tips.blogspot.com/)
-- [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/)
-- [Flood.io Blog](https://blog.flood.io/)
-- [JMeter Blog @ Shantonu Sarker](http://shantonusarker.blogspot.com.by/p/jmeter.html)
-- [JMeter Expert Blog](http://jmeter-expert.blogspot.com/)
+- [BlazeMeter Blog](https://www.blazemeter.com/jmeter) - BlazeMeter blog about JMeter and performance testing.
+- [Ubik Load Pack Blog](http://www.ubik-ingenierie.com/blog/category/jmeter/) - UBIK INGENIERIE blog.
+- [JMeter Tips](http://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications.
+- [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) - JMeter articles in RedLine13 blog.
+- [Flood.io Blog](https://blog.flood.io/) - Load testing thoughts, stories and ideas from Flood IO.
+- [JMeter Blog @ Shantonu Sarker](http://shantonusarker.blogspot.com.by/p/jmeter.html) - Another blog for performance & automation testing using JMeter.
+- [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert blog (not updated).
 
 ### Forums
 
@@ -249,9 +249,9 @@ This list grew up from [my answer on stackexchange](http://sqa.stackexchange.com
 
 ### Twitter
 
-- [@ApacheJMeter](https://twitter.com/apachejmeter)
-- [@jmeter_plugins](https://twitter.com/jmeter_plugins)
-- [@BlazeMeter](https://twitter.com/BlazeMeter)
+- [@ApacheJMeter](https://twitter.com/apachejmeter) - Official Twitter account of the Apache JMeter load testing tool.
+- [@jmeter_plugins](https://twitter.com/jmeter_plugins) - Twitter account of custom plugins project for JMeter load testing tool.
+- [@BlazeMeter](https://twitter.com/BlazeMeter) - Official Twitter account of Blazemeter, performance engineering platform for DevOps, based on JMeter.
 
 ### Q&A
 
