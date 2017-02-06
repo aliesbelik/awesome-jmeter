@@ -3,7 +3,7 @@ A curated collection of resources covering [Apache JMeter](http://jmeter.apache.
 
 The [Apache JMeter](http://jmeter.apache.org/) is open source, pure Java application designed to load test functional behavior and measure performance.
 
-This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.com/a/2552/1842) and [this jmeter-related links collection](https://delicious.com/veslefrik/jmeter) and got further inspiration from [awesome](https://github.com/sindresorhus/awesome) project.
+This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.com/a/2552/1842) and [this jmeter-related links collection](https://del.icio.us/veslefrik/jmeter) and got further inspiration from [awesome](https://github.com/sindresorhus/awesome) project.
 
 ## Contents
 
@@ -47,7 +47,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 
 - [JMeter Tutorials @ ArtOfTesting.com](http://artoftesting.com/jMeterTutorials.html)
 - [Load Testing your Applications with Apache JMeter by Keld H. Hansen @ jGuru.com](http://www.jguru.com/article/server-side/load-testing-with-apache-jmeter.html)
-- [Using JMeter @ OnJava.com](http://www.onjava.com/lpt/a/3066)
+- [Using JMeter @ OnJava.com](http://archive.oreilly.com/pub/a/onjava/2003/01/15/jmeter.html)
 - [Effective load testing with Apache JMeter](http://www.davegardner.me.uk/blog/2010/09/23/effective-load-testing-with-apache-jmeter/)
 - Load Testing with JMeter: [part 1](https://lincolnloop.com/blog/2011/sep/21/load-testing-jmeter-part-1-getting-started/), [part 2](https://lincolnloop.com/blog/2011/oct/12/load-testing-jmeter-part-2-headless-testing-and-je/), [part 3](https://lincolnloop.com/blog/2012/sep/19/load-testing-jmeter-part-3-replaying-apache-logs/)
 - [Concurrent, High Throughput Performance Testing with JMeter](http://planet.jboss.org/post/concurrent_high_throughput_performance_testing_with_jmeter)
@@ -116,7 +116,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
     - [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin)
     - Bamboo JMeter Aggregator Plugin: [documentation](https://marketplace.atlassian.com/plugins/jmeterAggregator/server/overview), [sources](https://bitbucket.org/atlassian/bamboo-jmeter-plugin) - Bamboo plugin to collect, assert and graph JMeter test results.
     - [Sonar JMeter Plugin](https://github.com/SonarCommunity/sonar-jmeter) - Plugin to collect JMeter performance tests results and display in Sonar dashboard.
-    - [Lightning](http://automatictester.github.io/lightning/) - Framework to integrate JMeter non-functional tests with CI/CD server.
+    - [Lightning](http://deliverymind.github.io/lightning/) - Framework to integrate JMeter non-functional tests with CI/CD server.
 - Tutorials & Demo
     - Jenkins
         - [Automated performance testing using JMeter and Maven](http://blogs.atlassian.com/2009/10/automated_performance_testing_using_jmeter_and_maven/)
