@@ -45,7 +45,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 
 ## Tutorials
 
-- [JMeter Tutorials @ ArtOfTesting.com](http://artoftesting.com/jMeterTutorials.html)
+- [JMeter Tutorials @ ArtOfTesting.com](http://artoftesting.com/jmeter-tutorials.html)
 - [Load Testing your Applications with Apache JMeter by Keld H. Hansen @ jGuru.com](http://www.jguru.com/article/server-side/load-testing-with-apache-jmeter.html)
 - [Using JMeter @ OnJava.com](http://archive.oreilly.com/pub/a/onjava/2003/01/15/jmeter.html)
 - [Effective load testing with Apache JMeter](http://www.davegardner.me.uk/blog/2010/09/23/effective-load-testing-with-apache-jmeter/)
@@ -210,7 +210,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - [Easy and realistic Load Testing of HTTP Live Streaming (HLS) with Apache JMeter](http://www.ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
 - [Using JMeter to Load Test Live HLS Concurrency of Wowza Streaming Engine](http://www.realeyes.com/blog/2015/08/26/using-jmeter-to-load-test-live-hls-concurrency-of-wowza-streaming-engine/)
 - [How to Load Test HTTP Live Media Streaming (HLS) with JMeter](https://www.blazemeter.com/blog/how-load-test-http-live-media-streaming-hls-jmeter)
-- [Load testing HLS with Ruby JMeter](https://blog.flood.io/load-testing-hls-with-ruby-jmeter/)
+- [Load testing HLS with Ruby JMeter](https://smoothscaling.com/load-testing-hls-with-ruby-jmeter-85b9b1e6db72)
 
 ### Mobile Apps
 
@@ -232,9 +232,10 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 
 - [BlazeMeter Blog](https://www.blazemeter.com/jmeter) - BlazeMeter blog about JMeter and performance testing.
 - [Ubik Load Pack Blog](http://www.ubik-ingenierie.com/blog/category/jmeter/) - UBIK INGENIERIE blog.
+- [TestAutomationGuru Blog](http://www.testautomationguru.com/category/jmeter/) - Technical blog on test automation.
 - [JMeter Tips](http://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications.
 - [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) - JMeter articles in RedLine13 blog.
-- [Flood.io Blog](https://blog.flood.io/) - Load testing thoughts, stories and ideas from Flood IO.
+- [Smooth Scaling (Flood.io) Blog](https://smoothscaling.com/tagged/tutorial) - Load testing thoughts, stories and ideas from Flood IO.
 - [JMeter Blog @ Shantonu Sarker](http://shantonusarker.blogspot.com.by/p/jmeter.html) - Another blog for performance & automation testing using JMeter.
 - [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert blog (not updated).
 
