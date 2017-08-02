@@ -19,6 +19,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - [CI](#ci)
 - [Distributed Testing](#distributed-testing)
 - [Cloud Services / SaaS](#cloud-services--saas)
+- [Monitoring](#monitoring)
 - [Results Analysis](#results-analysis)
 - [Results Visualisation](#results-visualisation)
 - [JMeter Performance](#jmeter-performance)
@@ -153,13 +154,18 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 
 *List of cloud-based load testing services with support of JMeter test plans execution.*
 
-- [flood IO](http://flood.io/) - Load testing service with JMeter, Gatling and Selenium scenarios support.
-- [BlazeMeter](http://blazemeter.com/) - Performance engineering platform with JMeter and Selenium support.
+- [CA BlazeMeter](http://blazemeter.com/) - Performance engineering platform with JMeter and Selenium support.
+- [OctoPerf](https://octoperf.com/) - Saas and On-Premise Load Testing Tool with JMeter and Selenium support.
+- [Tricentis Flood](http://flood.io/) - Load testing service with JMeter, Gatling and Selenium scenarios support.
 - [RedLine13](http://redline13.com/) - AWS-based load testing service with JMeter, Gatling and Selenium scenarios support.
-- [OctoPerf](https://octoperf.com/) - Performance testing solution with possibility to import JMeter test-plans.
-- [CA App Synthetic Monitor](https://cloudmonitor.ca.com/en/feature/transaction-monitoring-web-application-testing.html) - Transaction monitoring & testing solution with JMeter support.
 - [HP StormRunner Load](https://saas.hpe.com/en-us/software/stormrunner-load) - HP cloud-based solution for web and mobile performance testing with JMeter and Gatling support.
 - [Loadster](http://www.loadsterperformance.com/) - Solution for distributes load testing of web applications and services.
+
+## Monitoring
+
+- [CA App Synthetic Monitor](https://cloudmonitor.ca.com/en/feature/transaction-monitoring-web-application-testing.html) - Transaction monitoring & testing solution with JMeter support.
+- [Dynatrace JMeter Integration](https://community.dynatrace.com/community/display/DOCDT65/Integrate+Web+API+Performance+Monitoring+in+JMeter) - Saas Monitoring solution with JMeter support.
+- [AppDynamics JMeter Integration](https://community.appdynamics.com/appdynamics/attachments/appdynamics/appdynamics-discussions/8314/1/JMeter%20integration%20with%20AppDynamics.pdf) - Saas Monitoring solution with JMeter integration.
 
 ## Results Analysis
 
@@ -238,6 +244,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - [Smooth Scaling (Flood.io) Blog](https://smoothscaling.com/tagged/tutorial) - Load testing thoughts, stories and ideas from Flood IO.
 - [JMeter Blog @ Shantonu Sarker](http://shantonusarker.blogspot.com.by/p/jmeter.html) - Another blog for performance & automation testing using JMeter.
 - [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert blog (not updated).
+- [OctoPerf Blog](https://octoperf.com/blog) - OctoPerf blog about JMeter and load testing.
 
 ### Forums
 
