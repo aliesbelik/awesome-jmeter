@@ -172,6 +172,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - [JMeter Report Dashboard](http://jmeter.apache.org/usermanual/generating-dashboard.html)
 - [JMeter Log Analysis](http://wiki.apache.org/jmeter/LogAnalysis) - Suggestions and recipes for JMeter log analysis.
 - [Analyzing JMeter Results](http://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results)
+- [JMeter Result Analysis: The Ultimate Guide](https://octoperf.com/blog/2017/10/19/how-to-analyze-jmeter-results/)
 - [BlazeMeter Sense](https://sense.blazemeter.com/) - Service for storing and analysing performance test results.
 - [JAnalyser](http://epireum.com/page-section/janalyser/) - Browser-based results analysis tool.
 - [JMeter Result Analysis Plugin](https://github.com/afranken/jmeter-analysis-maven-plugin) - Maven plugin that parses JMeter test results and generates detailed reports with charts.
@@ -184,6 +185,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 
 - [JMeter Report Dashboard](http://jmeter.apache.org/usermanual/generating-dashboard.html) - JMeter supports dashboard report generation to get graphs and statistics from a test plan.
 - [Using InfluxDB & Grafana](http://www.testautomationguru.com/jmeter-real-time-results-influxdb-grafana/) - Real-time results with InfluxDB & Grafana.
+    - [JMeter Load Test Dashboard](https://grafana.com/dashboards/1152)
 - [Using ELK](http://ecmarchitect.com/archives/2014/09/09/3932) - Using Elasticsearch, Logstash, and Kibana to visualize JMeter test results.
 - [Using Matplotlib & Python](http://www.metaltoad.com/blog/plotting-your-load-test-jmeter) - Plotting JMeter load test results with Matplotlib plotting tool and Python.
 - [Statistical Aggregate Report](http://rubenlaguna.com/wp/better-jmeter-graphs/) - Custom Statistical Aggregate Report listener for enhanced results visualization.
