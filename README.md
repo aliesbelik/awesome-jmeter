@@ -160,6 +160,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - [RedLine13](http://redline13.com/) - AWS-based load testing service with JMeter, Gatling and Selenium scenarios support.
 - [HP StormRunner Load](https://saas.hpe.com/en-us/software/stormrunner-load) - HP cloud-based solution for web and mobile performance testing with JMeter and Gatling support.
 - [Loadster](http://www.loadsterperformance.com/) - Solution for distributes load testing of web applications and services.
+- [Loadium](http://loadium.io/) - AWS-based load testing service with JMeter support.
 
 ## Monitoring
 
