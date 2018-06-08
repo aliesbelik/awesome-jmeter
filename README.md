@@ -63,6 +63,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - Load Testing with Apache JMeter @ DigitalOcean: [part 1](https://www.digitalocean.com/community/tutorials/how-to-use-apache-jmeter-to-perform-load-testing-on-a-web-server), [part 2](https://www.digitalocean.com/community/tutorials/how-to-use-jmeter-to-record-test-scenarios)
 - [JMeter Tutorial @ Guru99](http://www.guru99.com/jmeter-tutorials.html)
 - [JMeter Series @ Sourcepole](http://blog.sourcepole.com/2011/01/04/jmeter-series/)
+- [Performance testing with JMeter and Blazemeter - Abstracta Academy](https://www.udemy.com/performance-testing-course-with-jmeter-and-blazemeter/learn/v4/)
 
 ## Books
 
