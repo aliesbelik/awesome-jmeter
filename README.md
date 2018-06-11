@@ -249,6 +249,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - [JMeter Blog @ Shantonu Sarker](http://shantonusarker.blogspot.com.by/p/jmeter.html) - Another blog for performance & automation testing using JMeter.
 - [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert blog (not updated).
 - [OctoPerf Blog](https://octoperf.com/blog) - OctoPerf blog about JMeter and load testing.
+- [Abstracta](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
 
 ### Forums
 
