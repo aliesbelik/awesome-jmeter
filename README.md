@@ -79,7 +79,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - [JMeter Training Course @ ABSoft Trainings](http://www.absofttrainings.com/jmeter-training-course-and-tutorials/)
 - [JMeter Training Course @ BlazeMeter](http://info.blazemeter.com/jmeter-training-course)
 - [JMeter Training Academy @ Blazemeter](https://www.blazemeter.com/jmeter-tutorial)
-- [JMeter Course @ udemy](https://www.udemy.com/learn-jmeter-from-scratch-performance-load-testing-tool/)
+- [JMeter Courses collection @ Udemy](https://www.udemy.com/courses/search/?q=jmeter)
 
 ## Best Practices
 
