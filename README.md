@@ -194,6 +194,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - [JChav](https://github.com/d6y/jchav) - JMeter Chart History and Visualisation library.
 - [Using CMDRunner & Powershell](http://performancewebautoamtionother.blogspot.com.by/2015/12/jmeter-create-graphs-with-cmdrunner.html) - Create JMeter graphs with CMDRunner with powershell parallel execution.
 - JMeter Dashboard: [howto](http://seangkuan.blogspot.com.by/2015/06/jmeter-dashboard-realtime-monitoring-of.html), [sources](https://github.com/vincentskooi/JMeterDashboard) - Realtime monitoring of JMeter load test.
+- [Using ElasticSearch backend listener + Grafana/Kibana](https://github.com/delirius325/jmeter-elasticsearch-backend-listener) - Using the ElasticSearch backend listener and Grafana/Kibana to monitor results in realtime.
 
 ## JMeter Performance
 
