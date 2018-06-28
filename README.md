@@ -3,7 +3,7 @@ A curated collection of resources covering [Apache JMeter](http://jmeter.apache.
 
 The [Apache JMeter](http://jmeter.apache.org/) is open source, pure Java application designed to load test functional behavior and measure performance.
 
-This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.com/a/2552/1842) and [this jmeter-related links collection](https://del.icio.us/veslefrik/jmeter) and got further inspiration from [awesome](https://github.com/sindresorhus/awesome) project.
+This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.com/a/2552/1842) and personal jmeter-related links collection and got further inspiration from [awesome](https://github.com/sindresorhus/awesome) project.
 
 ## Contents
 
@@ -194,7 +194,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - [JChav](https://github.com/d6y/jchav) - JMeter Chart History and Visualisation library.
 - [Using CMDRunner & Powershell](http://performancewebautoamtionother.blogspot.com.by/2015/12/jmeter-create-graphs-with-cmdrunner.html) - Create JMeter graphs with CMDRunner with powershell parallel execution.
 - JMeter Dashboard: [howto](http://seangkuan.blogspot.com.by/2015/06/jmeter-dashboard-realtime-monitoring-of.html), [sources](https://github.com/vincentskooi/JMeterDashboard) - Realtime monitoring of JMeter load test.
-- [Using ElasticSearch backend listener + Grafana/Kibana](https://github.com/delirius325/jmeter-elasticsearch-backend-listener) - Using the ElasticSearch backend listener and Grafana/Kibana to monitor results in realtime.
+- [JMeter + ElasticSearch Live Monitoring](https://medium.com/@anthony.gauthier325/jmeter-elasticsearch-live-monitoring-c895c843c51e), [sources](https://github.com/delirius325/jmeter-elasticsearch-backend-listener) - Using the ElasticSearch Backend listener and Grafana/Kibana to monitor results in realtime.
 
 ## JMeter Performance
 
