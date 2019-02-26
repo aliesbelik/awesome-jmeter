@@ -1,9 +1,12 @@
 # Awesome JMeter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+[<img src="jmeter-logo.svg" align="right" width="260">](http://jmeter.apache.org/)
+
 A curated collection of resources covering [Apache JMeter](http://jmeter.apache.org/) and related resources and shiny things: plugins, integrations, testing techniques, ci, devops etc.
 
 The [Apache JMeter](http://jmeter.apache.org/) is open source, pure Java application designed to load test functional behavior and measure performance.
 
-This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.com/a/2552/1842) and personal jmeter-related links collection and got further inspiration from [awesome](https://github.com/sindresorhus/awesome) project.
+This list grew up from [my answer on Stack Exchange](https://sqa.stackexchange.com/a/2552/1842) and personal jmeter-related links collection and got further inspiration from [awesome](https://github.com/sindresorhus/awesome) project.
 
 ## Contents
 
@@ -272,7 +275,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 ### Q&A
 
 - [JMeter @ Stack Overflow](http://stackoverflow.com/questions/tagged/jmeter)
-- [Russian-language chat of JMeter enthusiasts](http://is.gd/jmeterchat)
+- [Skype chat of JMeter enthusiasts](http://is.gd/jmeterchat) *(Russian)*
 - JMeter @ gitter: [![Have questions\issues\problems, join the chat at https://gitter.im/aliesbelik/jmeter-chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aliesbelik/jmeter-chat)
 - [JMeter Slack workspace](http://jmeterusers.slack.com/)
 
@@ -280,7 +283,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 # Contributing
 
 Contributions are welcome!
-Please take a look at the [contribution guidelines](https://github.com/aliesbelik/jmeter-resources/blob/master/CONTRIBUTING.md) first.
+Please take a look at the [contribution guidelines](https://github.com/aliesbelik/jmeter-resources/blob/master/contributing.md) first.
 
 # License
 
