@@ -265,6 +265,7 @@ This list grew up from [my answer on Stack Exchange](https://sqa.stackexchange.c
 ### News & Updates
 
 - [JMeter @ Linkedin](https://www.linkedin.com/topic/jmeter)
+- [JMeter @ Reddit](https://www.reddit.com/r/jmeter)
 
 ### Twitter
 
