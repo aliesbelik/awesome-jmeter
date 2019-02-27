@@ -1,12 +1,13 @@
-# Awesome JMeter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome JMeter 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="jmeter-logo.svg" align="right" width="260">](http://jmeter.apache.org/)
 
-A curated collection of resources covering [Apache JMeter](http://jmeter.apache.org/) and related resources and shiny things: plugins, integrations, testing techniques, ci, devops etc.
+> A curated collection of resources covering [Apache JMeter](http://jmeter.apache.org/) and related resources and shiny things: plugins, integrations, testing techniques, devops practicies, etc.
 
 The [Apache JMeter](http://jmeter.apache.org/) is open source, pure Java application designed to load test functional behavior and measure performance.
 
-This list grew up from [my answer on Stack Exchange](https://sqa.stackexchange.com/a/2552/1842) and personal jmeter-related links collection and got further inspiration from [awesome](https://github.com/sindresorhus/awesome) project.
+This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange.com/a/2552/1842) and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) project and improved by these [amazing contributors](https://github.com/aliesbelik/awesome-jmeter/graphs/contributors).
 
 ## Contents
 
