@@ -1,5 +1,5 @@
 # Awesome JMeter 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/aliesbelik/awesome-jmeter/blob/master/contributing.md)
 
 [<img src="jmeter-logo.svg" align="right" width="260">](http://jmeter.apache.org/)
 
@@ -35,7 +35,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [Community](#community)
     - [Blogs](#blogs)
     - [Forums](#forums)
-    - [News & Updates](#news--updates)
+    - [Newsletters](#newsletters)
     - [Twitter](#twitter)
     - [Q&A](#qa)
 - [Contributing](#contributing)
@@ -52,9 +52,11 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 
 - [JMeter Tutorials @ ArtOfTesting.com](http://artoftesting.com/jmeter-tutorials.html)
 - [Load Testing your Applications with Apache JMeter by Keld H. Hansen @ jGuru.com](http://www.jguru.com/article/server-side/load-testing-with-apache-jmeter.html)
-- [Using JMeter @ OnJava.com](http://archive.oreilly.com/pub/a/onjava/2003/01/15/jmeter.html)
-- [Effective load testing with Apache JMeter](http://www.davegardner.me.uk/blog/2010/09/23/effective-load-testing-with-apache-jmeter/)
-- Load Testing with JMeter: [part 1](https://lincolnloop.com/blog/2011/sep/21/load-testing-jmeter-part-1-getting-started/), [part 2](https://lincolnloop.com/blog/2011/oct/12/load-testing-jmeter-part-2-headless-testing-and-je/), [part 3](https://lincolnloop.com/blog/2012/sep/19/load-testing-jmeter-part-3-replaying-apache-logs/)
+- [Using JMeter @ OnJava.com](https://web.archive.org/web/20161129220747/http://archive.oreilly.com/pub/a/onjava/2003/01/15/jmeter.html)
+- Load Testing with JMeter:
+    - [part 1](https://lincolnloop.com/blog/2011/sep/21/load-testing-jmeter-part-1-getting-started/) - Getting started.
+    - [part 2](https://lincolnloop.com/blog/2011/oct/12/load-testing-jmeter-part-2-headless-testing-and-je/) - Headless testing and Jenkins integration.
+    - [part 3](https://lincolnloop.com/blog/2012/sep/19/load-testing-jmeter-part-3-replaying-apache-logs/) - Replaying Apache logs.
 - [Concurrent, High Throughput Performance Testing with JMeter](http://planet.jboss.org/post/concurrent_high_throughput_performance_testing_with_jmeter)
 - [Functional Testing with JMeter](https://www.packtpub.com/books/content/functional-testing-jmeter)
 - [JMeter Resources @ InfoSec Institute](http://resources.infosecinstitute.com/search/?s=jmeter)
@@ -64,7 +66,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [RESTful API testing with JMeter](http://www.ibm.com/developerworks/cloud/library/cl-jmeter-restful/)
 - [How to Hit Your RESTful Web Service Using JMeter](http://crunchify.com/how-to-hit-your-restful-web-service-using-jmeter-perform-a-simple-load-test/)
 - [JMeter: Load Development LifeCycle](http://gerardnico.com/wiki/jmeter/lifecycle)
-- Load Testing with Apache JMeter @ DigitalOcean: [part 1](https://www.digitalocean.com/community/tutorials/how-to-use-apache-jmeter-to-perform-load-testing-on-a-web-server), [part 2](https://www.digitalocean.com/community/tutorials/how-to-use-jmeter-to-record-test-scenarios)
+- [Load Testing with Apache JMeter @ DigitalOcean](https://www.digitalocean.com/community/tutorial_series/load-testing-with-apache-jmeter)
 - [JMeter Tutorial @ Guru99](http://www.guru99.com/jmeter-tutorials.html)
 - [JMeter Series @ Sourcepole](http://blog.sourcepole.com/2011/01/04/jmeter-series/)
 
@@ -76,8 +78,8 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [Performance Testing with JMeter 3, 3rd Edition](https://books.google.by/books?id=BedDDwAAQBAJ) by Bayo Erinle ([Packt Publishing](https://www.packtpub.com/web-development/performance-testing-jmeter-3-third-edition))
 - [JMeter Cookbook](https://books.google.by/books?id=gJUeBQAAQBAJ) by Bayo Erinle ([Packt Publishing](https://www.packtpub.com/application-development/jmeter-cookbook)) - 70 insightful and practical recipes to help successfully use Apache JMeter.
 - [JMeter by Example](https://leanpub.com/jmeterbyexample) by Sai Matam and Jagdeep Jain ([Leanpub](https://leanpub.com/jmeterbyexample)) - A simple, practical, step-by-step tutorial to measure the performance of websites.
-- [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) by Antonio Gomes Rodrigues, Bruno Demion (Milamber) and Philippe Mouawad ([Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops)) - french version
-- [Master Apache JMeter: From load testing to DevOps](https://leanpub.com/master-jmeter-from-load-test-to-devops) by Antonio Gomes Rodrigues, Bruno Demion (Milamber) and Philippe Mouawad ([Leanpub](https://leanpub.com/master-jmeter-from-load-test-to-devops)) - english version
+- [Master Apache JMeter: From load testing to DevOps](https://leanpub.com/master-jmeter-from-load-test-to-devops) by Antonio Gomes Rodrigues, Bruno Demion (Milamber) and Philippe Mouawad ([Leanpub](https://leanpub.com/master-jmeter-from-load-test-to-devops))
+- [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) by Antonio Gomes Rodrigues, Bruno Demion (Milamber) and Philippe Mouawad ([Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops)) *(French)*
 
 ## Trainings & Courses
 
@@ -263,7 +265,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [JMeter Nabble Forum](http://jmeter.512774.n5.nabble.com/)
 - [JMeter SQAforums](http://www.sqaforums.com/postlist.php?Cat=0&Board=UBB54)
 
-### News & Updates
+### Newsletters
 
 - [JMeter @ Linkedin](https://www.linkedin.com/topic/jmeter)
 - [JMeter @ Reddit](https://www.reddit.com/r/jmeter)
