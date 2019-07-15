@@ -88,6 +88,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [JMeter Training Course @ BlazeMeter](http://info.blazemeter.com/jmeter-training-course)
 - [JMeter Training Academy @ Blazemeter](https://www.blazemeter.com/jmeter-tutorial)
 - [JMeter Courses collection @ Udemy](https://www.udemy.com/courses/search/?q=jmeter)
+- [JMeter: Performance and Load Testing @ Michael Smith on LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing)
 
 ## Best Practices
 
