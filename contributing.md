@@ -15,4 +15,4 @@ Your contributions are always welcome!
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
 
-Thank you for your suggestions.
+Thank you for suggestions.
