@@ -285,8 +285,8 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 # Contributing
 
 Contributions are welcome!<br />
-Please take a look at the [contribution guidelines](https://github.com/aliesbelik/jmeter-resources/blob/master/contributing.md) first.
+Please take a look at the [contribution guidelines](https://github.com/aliesbelik/awesome-jmeter/blob/master/contributing.md) first.
 
 # License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://github.com/aliesbelik/awesome-jmeter/blob/master/LICENSE.md">CC-BY-4.0</a>.
