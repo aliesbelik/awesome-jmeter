@@ -13,8 +13,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 
 - [Getting Started](#getting-started)
 - [Tutorials](#tutorials)
-- [Books](#books)    
-- [Trainings & Courses](#trainings--courses)
+- [Books](#books)
 - [Best Practices](#best-practices)
 - [Scripting](#scripting)
 - [DSL](#dsl)
@@ -32,6 +31,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [Performance Testing](#performance-testing)
     - [Streaming Protocols](#streaming-protocols)
     - [Mobile Apps](#mobile-apps)
+- [Trainings & Courses](#trainings--courses)
 - [Community](#community)
     - [Blogs](#blogs)
     - [Forums](#forums)
@@ -78,15 +78,6 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [JMeter by Example](https://books.google.com/books?id=iWeJDAEACAAJ) by Sai Matam and Jagdeep Jain ([Leanpub](https://leanpub.com/jmeterbyexample)) - A simple, practical, step-by-step tutorial to measure the performance of websites.
 - [Master Apache JMeter: From load testing to DevOps](https://leanpub.com/master-jmeter-from-load-test-to-devops) by Antonio Gomes Rodrigues, Bruno Demion (Milamber) and Philippe Mouawad ([Leanpub](https://leanpub.com/master-jmeter-from-load-test-to-devops))
 - [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) by Antonio Gomes Rodrigues, Bruno Demion (Milamber) and Philippe Mouawad ([Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops)) *(French)*
-
-## Trainings & Courses
-
-- [JMeter: Performance and Load Testing @ LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing)
-- [JMeter Training Courses @ NobleProg](https://www.nobleprog.co.uk/jmeter-training)
-- [JMeter Training Course @ BlazeMeter](https://info.blazemeter.com/jmeter-training-course)
-- [JMeter Training Academy @ Blazemeter](https://www.blazemeter.com/jmeter-tutorial/)
-- [JMeter Courses collection @ Udemy](https://www.udemy.com/courses/search/?q=jmeter)
-- [JMeter Training Course @ ABSoft Trainings](http://www.absofttrainings.com/jmeter-training-course-and-tutorials/)
 
 ## Best Practices
 
@@ -242,6 +233,18 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [How to build a JMeter plugin utilising groovy](http://artur.ejsmont.org/blog/content/how-to-build-a-jmeter-plugin-utilising-groovy)
 - [How to create a plugin in JMeter](http://stackoverflow.com/questions/20422640/how-to-create-a-plugin-in-jmeter)
 - [Custom JMeter Samplers and Config Elements](http://codyaray.com/2014/07/custom-jmeter-samplers-and-config-elements)
+
+## Trainings & Courses
+
+- [JMeter: Performance and Load Testing](https://www.linkedin.com/learning/jmeter-performance-and-load-testing) @ LinkedIn Learning
+- [JMeter Training Courses](https://www.nobleprog.co.uk/jmeter-training) @ NobleProg
+- [JMeter Training Course](https://info.blazemeter.com/jmeter-training-course) @ BlazeMeter
+- [JMeter Training Academy](https://www.blazemeter.com/jmeter-tutorial/) @ BlazeMeter
+- [JMeter Courses collection](https://www.udemy.com/courses/search/?q=jmeter) @ Udemy
+- [JMeter Training Course](http://www.absofttrainings.com/jmeter-training-course-and-tutorials/) @ ABSoft Trainings
+- [Web Applications (and Mobile Apps) Performance Testing with JMeter](http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/) @ Pragmatic Test Labs
+- [Training courses on Load Testing with Apache JMeter](https://www.ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) @ Ubik Ingrnierie
+- [Apache JMeter Testing Courses](https://qainsights.com/services/) @ QAInsights
 
 ## Community
 
