@@ -218,11 +218,12 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 
 ## Extending JMeter
 
-- [JMeter Developer Manual](http://wiki.apache.org/jmeter/DeveloperManual)
-- [How to write a plugin for JMeter](https://jmeter.apache.org/extending/jmeter_tutorial.pdf)
-- [How to build a JMeter plugin utilising groovy](http://artur.ejsmont.org/blog/content/how-to-build-a-jmeter-plugin-utilising-groovy)
+- [JMeter Developer Manual](https://cwiki.apache.org/confluence/display/jmeter/DeveloperManual)
+- [How to write a plugin for JMeter](https://jmeter.apache.org/usermanual/jmeter_tutorial.html)
+- [How to build a JMeter plugin utilising groovy](https://web.archive.org/web/20180225144718/http://artur.ejsmont.org/blog/content/how-to-build-a-jmeter-plugin-utilising-groovy)
 - [How to create a plugin in JMeter](http://stackoverflow.com/questions/20422640/how-to-create-a-plugin-in-jmeter)
 - [Custom JMeter Samplers and Config Elements](http://codyaray.com/2014/07/custom-jmeter-samplers-and-config-elements)
+- [Implement Custom JMeter Samplers](https://dzone.com/articles/implement-custom-jmeter-samplers)
 
 ## Books
 
@@ -252,16 +253,16 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 
 ### Blogs
 
-- [BlazeMeter Blog](https://www.blazemeter.com/jmeter) - BlazeMeter blog about JMeter and performance testing.
+- [BlazeMeter Blog](https://www.blazemeter.com/jmeter/) - BlazeMeter blog about JMeter and performance testing.
 - [Ubik Load Pack Blog](http://www.ubik-ingenierie.com/blog/category/jmeter/) - UBIK INGENIERIE blog.
 - [TestAutomationGuru Blog](http://www.testautomationguru.com/category/jmeter/) - Technical blog on test automation.
-- [JMeter Tips](http://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications.
 - [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) - JMeter articles in RedLine13 blog.
-- [Smooth Scaling (Flood.io) Blog](https://smoothscaling.com/tagged/tutorial) - Load testing thoughts, stories and ideas from Flood IO.
-- [JMeter Blog @ Shantonu Sarker](http://shantonusarker.blogspot.com.by/p/jmeter.html) - Another blog for performance & automation testing using JMeter.
-- [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert blog (not updated).
-- [OctoPerf Blog](https://octoperf.com/blog) - OctoPerf blog about JMeter and load testing.
-- [Abstracta](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
+- [Flood.io Blog](https://flood.io/blog/) - Load testing thoughts, stories and ideas from Flood IO.
+- [JMeter Blog @ Shantonu Sarker](https://shantonusarker.blogspot.com/p/jmeter.html) - Another blog for performance & automation testing using JMeter.
+- [OctoPerf Blog](https://octoperf.com/categories/jmeter/) - OctoPerf blog about JMeter and load testing.
+- [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
+- [JMeter Tips](http://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications *(not updates more)*.
+- [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert blog *(not updates more)*.
 
 ### Forums
 
