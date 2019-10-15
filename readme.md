@@ -11,12 +11,13 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 
 ## Contents
 
+- [Official Resources](#official-resources)
+- [Distributions](#distributions)
 - [Getting Started](#getting-started)
 - [Tutorials](#tutorials)
 - [Best Practices](#best-practices)
 - [Scripting](#scripting)
 - [DSL](#dsl)
-- [Distributions](#distributions)
 - [CI](#ci)
 - [Distributed Testing](#distributed-testing)
 - [Cloud Services / SaaS](#cloud-services--saas)
@@ -43,6 +44,19 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [License](#license)
 
 
+## Official Resources
+
+- [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
+- [GitHub Repository](https://github.com/apache/jmeter) - Apache JMeter source code repository.
+- [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
+- [Issue Tracking](https://jmeter.apache.org/issues.html) - Apache JMeter issue tracking system.
+- [Mailing Lists](http://jmeter.apache.org//mail2.html) - Apache JMeter mailing lists.
+
+## Distributions
+
+- [Download Apache JMeter](http://jmeter.apache.org/download_jmeter.cgi) - Apache JMeter: Official downloads.
+- [JMeter for Windows](https://sourceforge.net/projects/jmeterforwindows/) - Package for installation JMeter with plugins.
+
 ## Getting Started
 
 - [Getting Started with Apache JMeter @ DZone](https://dzone.com/refcardz/getting-started-with-apache-jmeter)
@@ -60,8 +74,8 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [Concurrent, High Throughput Performance Testing with JMeter](https://planet.jboss.org/post/concurrent_high_throughput_performance_testing_with_jmeter)
 - [Functional Testing with JMeter](https://hub.packtpub.com/functional-testing-jmeter/)
 - [JMeter Resources @ InfoSec Institute](https://resources.infosecinstitute.com/search/?s=jmeter)
-- [JMeter Tutorial @ tutorialspoint.com ](https://www.tutorialspoint.com/jmeter/)
-- [JMeter Tutorial for Load Testing: The ULTIMATE Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
+- [JMeter Tutorial @ tutorialspoint.com](https://www.tutorialspoint.com/jmeter/)
+- [JMeter Tutorial for Load Testing: The Ultimate Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
 - [RESTful API testing with JMeter](https://www.ibm.com/developerworks/cloud/library/cl-jmeter-restful/)
 - [How to Hit Your RESTful Web Service Using JMeter](https://crunchify.com/how-to-hit-your-restful-web-service-using-jmeter-perform-a-simple-load-test/)
 - [JMeter: Load Development LifeCycle](https://gerardnico.com/jmeter/lifecycle)
@@ -83,11 +97,6 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 ## DSL
 
 - [RubyJmeter](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans.
-
-## Distributions
-
-- [Download Apache JMeter](http://jmeter.apache.org/download_jmeter.cgi) - Apache JMeter: Official downloads.
-- [JMeter for Windows](https://sourceforge.net/projects/jmeterforwindows/) - Package for installation JMeter with plugins.
 
 ## CI
 
