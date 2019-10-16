@@ -245,6 +245,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [Pro Apache JMeter: Web Application Performance Testing](https://books.google.com/books?id=YJ4xDwAAQBAJ) by Sai Matam and Jagdeep Jain ([Apress](https://www.apress.com/gp/book/9781484229606))
 - [Master Apache JMeter: From load testing to DevOps](https://books.google.com/books?id=D_amDwAAQBAJ) by Antonio Gomes Rodrigues, Bruno Demion (Milamber) and Philippe Mouawad ([Leanpub](https://leanpub.com/master-jmeter-from-load-test-to-devops), [Packt Publishing](https://www.packtpub.com/programming/master-apache-jmeter-from-load-testing-to-devops))
 - [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) by Antonio Gomes Rodrigues, Bruno Demion (Milamber) and Philippe Mouawad ([Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops)) *(French)*
+- [Advanced JMeter Testing](https://leanpub.com/advanced_jmeter_testing) by Penny Curich ([Leanpub](https://leanpub.com/advanced_jmeter_testing)) - Guide to write custom components for Apache JMeter 5.0.
 
 ## Trainings & Courses
 
