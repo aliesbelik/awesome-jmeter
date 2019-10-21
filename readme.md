@@ -40,8 +40,8 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
     - [Newsletters](#newsletters)
     - [Twitter](#twitter)
     - [Q&A](#qa)
-- [Contributing](#contributing)
-- [License](#license)
+- [Related](#related)
+	- [Awesome Lists](#awesome-lists)
 
 
 ## Official Resources
@@ -271,8 +271,8 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [JMeter Blog @ Shantonu Sarker](https://shantonusarker.blogspot.com/p/jmeter.html) - Another blog for performance & automation testing using JMeter.
 - [OctoPerf Blog](https://octoperf.com/categories/jmeter/) - OctoPerf blog about JMeter and load testing.
 - [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
-- [JMeter Tips](http://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications *(not updates more)*.
-- [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert blog *(not updates more)*.
+- [JMeter Tips](http://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications *(no updates more)*.
+- [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert blog *(no updates more)*.
 
 ### Forums
 
@@ -299,12 +299,24 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - JMeter @ gitter: [![Have questions\issues\problems, join the chat at https://gitter.im/aliesbelik/jmeter-chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aliesbelik/jmeter-chat)
 - [JMeter Slack workspace](http://jmeterusers.slack.com/)
 
+## Related
 
-# Contributing
+### Awesome Lists
+
+- [Awesome](https://github.com/sindresorhus/awesome) - The original awesome list of awesome lists.
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of amazingly awesome awesomeness.
+- [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources.
+- [Awesome Testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
+- [Awesome Web Performance Metrics](https://github.com/csabapalfi/awesome-web-performance-metrics) - Metrics to help understand page speed and user experience.
+- [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization.
+- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems.
+- [Awesome inspectIT](https://github.com/inspectit-labs/awesome-inspectit) - Open source Java app performance management tool.
+
+## Contributing
 
 Contributions are welcome!<br />
 Please take a look at the [contribution guidelines](https://github.com/aliesbelik/awesome-jmeter/blob/master/contributing.md) first.
 
-# License
+## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://github.com/aliesbelik/awesome-jmeter/blob/master/LICENSE.md">CC-BY-4.0</a>.
