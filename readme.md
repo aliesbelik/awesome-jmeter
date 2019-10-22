@@ -325,6 +325,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [Awesome Web Performance Metrics](https://github.com/csabapalfi/awesome-web-performance-metrics) - Metrics to help understand page speed and user experience.
 - [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization.
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems.
+- [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [Awesome inspectIT](https://github.com/inspectit-labs/awesome-inspectit) - Open source Java app performance management tool.
 
 ## Contributing
