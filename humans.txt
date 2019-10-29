@@ -1,0 +1,20 @@
+
+---
+layout: null
+---
+
+/* TEAM */
+	{% for contributor in site.github.contributors %}
+	Name: {{ contributor.login }}
+	Site: {{ contributor.html_url }}
+	{% endfor %}
+
+/* THANKS */
+	Concept: Sindre Sorhus
+
+/* SITE */
+	Last update: {{ site.time | date: "%Y/%m/%d" }}
+	Language: English
+	Standards: HTML5, CSS3
+	Components: Jekyll
+	Software: Sublime Text
