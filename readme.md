@@ -180,6 +180,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [JMeter Report Dashboard](http://jmeter.apache.org/usermanual/generating-dashboard.html) - JMeter supports dashboard report generation to get graphs and statistics from a test plan.
 - [Using InfluxDB & Grafana](http://www.testautomationguru.com/jmeter-real-time-results-influxdb-grafana/) - Real-time results with InfluxDB & Grafana.
     - [JMeter Load Test Dashboard](https://grafana.com/dashboards/1152)
+    - [JMeter Result to InfluxDB](https://github.com/soprasteria/jmeter2influxdb) - Read JMeter results in a csv file and put results in Influxdb database and allows you to create beautiful graphs with Grafana. Read also results from PerfMon JMeter Plugins, JMXMon JMeter Plugins and DBMon JMeter Plugins.
 - [Using ELK](http://ecmarchitect.com/archives/2014/09/09/3932) - Using Elasticsearch, Logstash, and Kibana to visualize JMeter test results.
 - [Using Matplotlib & Python](http://www.metaltoad.com/blog/plotting-your-load-test-jmeter) - Plotting JMeter load test results with Matplotlib plotting tool and Python.
 - [Statistical Aggregate Report](http://rubenlaguna.com/wp/better-jmeter-graphs/) - Custom Statistical Aggregate Report listener for enhanced results visualization.
