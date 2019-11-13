@@ -17,7 +17,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [Tutorials](#tutorials)
 - [Best Practices](#best-practices)
 - [Scripting](#scripting)
-- [DSL](#dsl)
+- [Automation](#automation)
 - [CI](#ci)
 - [Distributed Testing](#distributed-testing)
 - [Cloud Services / SaaS](#cloud-services--saas)
@@ -96,9 +96,20 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) - Using JMeter and Groovy for load testing.
 - [JMeter: forget about BeanShell Sampler](https://habr.com/ru/post/250731/) *(Russian)*
 
-## DSL
+## Automation
 
-- [RubyJMeter](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans.
+### DSL
+
+- [RubyJMeter](https://github.com/flood-io/ruby-jmeter) - A Ruby-based DSL for building JMeter test plans.
+
+### Packages
+
+- [loadtest](https://github.com/tmobile/loadtest) - An R Package for load testing using JMeter.
+
+### Frameworks
+
+- [Lightning](http://automatictester.github.io/lightning/) - Framework to integrate JMeter non-functional tests with CI/CD server.
+- [Taurus](https://gettaurus.org/) - Automation-friendly framework for Continuous Testing.
 
 ## CI
 
