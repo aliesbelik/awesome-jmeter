@@ -115,12 +115,12 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 
 ### Tools & Plugins
 
-- [JMeter Ant Task](http://www.programmerplanet.org/projects/jmeter-ant-task/) - Ant task to automate running JMeter test plans.
+- [JMeter Ant Task](https://github.com/jfifield/ant-jmeter) - Ant task to automate running JMeter test plans.
 - [JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
-- [Jenkins Performance Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin) - Jenkins plugin to capture reports from JMeter and generate graphic charts with the trend report of performance and robustness.
-- [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin)
+- [Jenkins Performance Plugin](https://wiki.jenkins.io/display/JENKINS/Performance+Plugin) - Jenkins plugin to capture reports from JMeter and generate graphic charts with the trend report of performance and robustness.
+- [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin) - TeamCity plugin to organize simplest performance testing in CI *(no updates more)*.
 - Bamboo JMeter Aggregator Plugin: [documentation](https://marketplace.atlassian.com/plugins/jmeterAggregator/server/overview), [sources](https://bitbucket.org/atlassian/bamboo-jmeter-plugin) - Bamboo plugin to collect, assert and graph JMeter test results.
-- [Sonar JMeter Plugin](https://github.com/SonarQubeCommunity/sonar-jmeter) - Plugin to collect JMeter performance tests results and display in Sonar dashboard. *(deprecated)*
+- [Sonar JMeter Plugin](https://github.com/SonarQubeCommunity/sonar-jmeter) - Plugin to collect JMeter performance tests results and display in Sonar dashboard *(deprecated)*.
 - [Lightning](http://automatictester.github.io/lightning/) - Framework to integrate JMeter non-functional tests with CI/CD server.
 - [Taurus](https://gettaurus.org/) - Automation-friendly framework for Continuous Testing.
 
@@ -344,7 +344,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 
 - [JMeter @ Stack Overflow](http://stackoverflow.com/questions/tagged/jmeter)
 - [Skype chat of JMeter enthusiasts](http://is.gd/jmeterchat) *(Russian)*
-- JMeter @ gitter: [![Have questions\issues\problems, join the chat at https://gitter.im/aliesbelik/jmeter-chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aliesbelik/jmeter-chat)
+- [JMeter @ gitter](https://gitter.im/aliesbelik/jmeter-chat)
 - [JMeter Slack workspace](http://jmeterusers.slack.com/)
 
 ## Related
