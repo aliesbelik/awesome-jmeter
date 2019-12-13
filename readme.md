@@ -1,7 +1,7 @@
 # Awesome JMeter 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/aliesbelik/awesome-jmeter/blob/master/contributing.md)
 
-[<img src="jmeter-logo.svg" align="right" width="260">](http://jmeter.apache.org/)
+[<img src="/assets/images/jmeter-logo.svg" align="right" width="260">](http://jmeter.apache.org/)
 
 > A curated collection of resources covering [Apache JMeter](http://jmeter.apache.org/) and related resources and shiny things: plugins, integrations, testing techniques, devops practicies, etc.
 
