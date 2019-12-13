@@ -1,2 +1,31 @@
-theme: jekyll-theme-minimal
-logo: jmeter-logo.svg
+# Site settings
+title: Awesome JMeter
+description: A curated collection of resources covering Apache JMeter and related things.
+url: https://aliesbelik.github.io/awesome-jmeter/
+
+author:
+  name: 'Aliaksandr Belik'
+  email: alies.belik@gmail.com
+  github_username: aliesbelik
+
+# Theme
+remote_theme: pmarsceill/just-the-docs
+
+# Theme settings
+search_enabled: true
+
+# Color scheme currently only supports "dark" or nil (default)
+#color_scheme: "dark"
+
+#logo: "/assets/images/awesome-jmeter.png"
+
+# Aux links for the upper right navigation
+aux_links:
+  "Awesome JMeter on GitHub":
+	- "//github.com/aliesbelik/awesome-jmeter"
+
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2015-2019 Aliaksandr Belik. Distributed by an <a href=\"https://github.com/aliesbelik/awesome-jmeter/tree/master/LICENSE.md\">CC-BY-4.0 license.</a>"
+
+# Google Analytics Tracking
+#ga_tracking: UA-XXXXXXX-XX
