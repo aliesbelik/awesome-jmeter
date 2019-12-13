@@ -1,10 +1,10 @@
 # Site settings
 title: Awesome JMeter
 description: A curated collection of resources covering Apache JMeter and related things.
-url: https://aliesbelik.github.io/awesome-jmeter/
+url: "https://aliesbelik.github.io/awesome-jmeter/"
 
 author:
-  name: 'Aliaksandr Belik'
+  name: "Aliaksandr Belik"
   email: alies.belik@gmail.com
   github_username: aliesbelik
 
@@ -22,7 +22,7 @@ search_enabled: true
 # Aux links for the upper right navigation
 aux_links:
   "Awesome JMeter on GitHub":
-	- "//github.com/aliesbelik/awesome-jmeter"
+    - "//github.com/aliesbelik/awesome-jmeter"
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2015-2019 Aliaksandr Belik. Distributed by an <a href=\"https://github.com/aliesbelik/awesome-jmeter/tree/master/LICENSE.md\">CC-BY-4.0 license.</a>"
