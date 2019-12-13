@@ -1,11 +1,20 @@
-# Awesome JMeter 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/aliesbelik/awesome-jmeter/blob/master/contributing.md)
-
-[<img src="/assets/images/jmeter-logo.svg" align="right" width="260">](http://jmeter.apache.org/)
-
-> A curated collection of resources covering [Apache JMeter](http://jmeter.apache.org/) and related resources and shiny things: plugins, integrations, testing techniques, devops practicies, etc.
+<p align="right">
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a> <a href="https://github.com/aliesbelik/awesome-jmeter/blob/master/contributing.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome"></a>
+</p>
+<br><br>
+<p align="center">
+    <img src="assets/images/awesome-jmeter_square.svg" alt="Awesome JMeter">
+</p>
+<br><br>
+<p align="center">
+    <h1 align="center">Awesome JMeter</h1>
+    <p align="center">A curated collection of resources covering <a href="http://jmeter.apache.org/">Apache JMeter</a> and related stuff and shiny things: plugins, integrations, testing techniques, devops practicies, etc.</p>
+    <br><br><br>
+</p>
 
 The [Apache JMeter](http://jmeter.apache.org/) is open source, pure Java application designed to load test functional behavior and measure performance.
+
+[<img src="assets/images/jmeter-logo.svg" align="right" width="260" alt="Apache JMeter">](http://jmeter.apache.org/)
 
 This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange.com/a/2552/1842) and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) project and improved by these [amazing contributors](https://github.com/aliesbelik/awesome-jmeter/graphs/contributors).
 

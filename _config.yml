@@ -17,7 +17,8 @@ search_enabled: false
 # Color scheme currently only supports "dark" or nil (default)
 #color_scheme: "dark"
 
-logo: "/assets/images/awesome-jmeter_square.png"
+# Set a path/url to a logo that will be displayed INSTEAD of the title
+#logo: "/assets/images/awesome-jmeter_square.png"
 
 # Aux links for the upper right navigation
 aux_links:
