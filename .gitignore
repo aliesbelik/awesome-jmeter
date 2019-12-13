@@ -1,0 +1,31 @@
+# ignore docs files
+_gh_pages
+_site
+.sass-cache
+.ruby-version
+.jekyll-metadata
+
+# always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.zip
+*.vi
+*~
+
+# os or editor folders
+._*
+.DS_Store
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+*.sublime-project
+*.sublime-workspace
+.idea
