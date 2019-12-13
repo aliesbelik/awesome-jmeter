@@ -1,18 +1,18 @@
 # Site settings
-title: Awesome JMeter
-description: A curated collection of resources covering Apache JMeter and related things.
-url: "https://aliesbelik.github.io/awesome-jmeter/"
+title: "Awesome JMeter"
+#description: A curated collection of resources covering Apache JMeter and related things.
+#url: "https://aliesbelik.github.io/awesome-jmeter/"
 
-author:
-  name: "Aliaksandr Belik"
-  email: alies.belik@gmail.com
-  github_username: aliesbelik
+#author:
+#  name: "Aliaksandr Belik"
+#  email: alies.belik@gmail.com
+#  github_username: aliesbelik
 
 # Theme
 remote_theme: pmarsceill/just-the-docs
 
 # Theme settings
-search_enabled: true
+search_enabled: false
 
 # Color scheme currently only supports "dark" or nil (default)
 #color_scheme: "dark"
