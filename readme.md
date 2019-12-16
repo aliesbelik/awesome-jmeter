@@ -376,4 +376,4 @@ Please take a look at the [contribution guidelines](https://github.com/aliesbeli
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://github.com/aliesbelik/awesome-jmeter/blob/master/LICENSE.md">CC-BY-4.0</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under the <a rel="license" href="https://github.com/aliesbelik/awesome-jmeter/blob/master/LICENSE.md">CC-BY-4.0</a>.
