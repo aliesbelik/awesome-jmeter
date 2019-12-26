@@ -6,11 +6,11 @@ Your contributions are always welcome!
 
 * Add one link per Pull Request.
 * Add the link: `- [RESOURCE](LINK) - DESCRIPTION.`
-	* End descriptions with a full stop.
-    * Descriptions are optional but keep they concise if you add any.
+  * End descriptions with a full stop.
+  * Descriptions are optional but keep they concise if you add any.
 * Add a section if needed.
-    * Add the section description.
-    * Add the section title to Table of Contents.
+  * Add the section description.
+  * Add the section title to Table of Contents.
 * Search previous suggestions before making a new one, as yours may be a duplicate.
 * Check your spelling and grammar.
 * Remove any trailing whitespace.

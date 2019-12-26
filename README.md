@@ -1,5 +1,5 @@
 <p align="right">
-    <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a> <a href="https://github.com/aliesbelik/awesome-jmeter/blob/master/contributing.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome"></a>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a> <a href="https://github.com/aliesbelik/awesome-jmeter/blob/master/CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome"></a>
 </p>
 <br>
 <p align="center">
@@ -17,7 +17,7 @@
 
 This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange.com/a/2552/1842) and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) project and improved by these [amazing contributors](https://github.com/aliesbelik/awesome-jmeter/blob/master/CONTRIBUTORS.md).
 
-# Contents
+## Contents
 
 - [Official Resources](#official-resources)
 - [Distributions](#distributions)
@@ -30,11 +30,11 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [Distributed Testing](#distributed-testing)
 - [Cloud Services / SaaS](#cloud-services--saas)
 - [Results Processing](#results-processing)
-    - [Results Analysis](#results-analysis)
-    - [Results Visualisation](#results-visualisation)
+  - [Results Analysis](#results-analysis)
+  - [Results Visualisation](#results-visualisation)
 - [Performance Testing](#performance-testing)
-    - [Streaming Protocols](#streaming-protocols)
-    - [Mobile Apps](#mobile-apps)
+  - [Streaming Protocols](#streaming-protocols)
+  - [Mobile Apps](#mobile-apps)
 - [APM Integration](#apm-integration)
 - [Plugins](#plugins)
 - [IDE Integration](#ide-integration)
@@ -44,14 +44,13 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [Books](#books)
 - [Trainings & Courses](#trainings--courses)
 - [Community](#community)
-    - [Blogs](#blogs)
-    - [Forums](#forums)
-    - [Newsletters](#newsletters)
-    - [Twitter](#twitter)
-    - [Q&A](#qa)
+  - [Blogs](#blogs)
+  - [Forums](#forums)
+  - [Newsletters](#newsletters)
+  - [Twitter](#twitter)
+  - [Q&A](#qa)
 - [Related](#related)
-    - [Awesome Lists](#awesome-lists)
-
+  - [Awesome Lists](#awesome-lists)
 
 ## Official Resources
 
@@ -68,41 +67,41 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 
 ## Getting Started
 
-- [Getting Started with Apache JMeter](https://dzone.com/refcardz/getting-started-with-apache-jmeter) @ DZone
-- [A Simple Load Test with JMeter](https://www.urbaninsight.com/2011/07/18/simple-load-test-with-jmeter) @ Urban Insight
-- [Performance testing with JMeter](https://www.atlassian.com/blog/archives/performance_testing_with_jmete) @ Atlassian
+- [Getting Started with Apache JMeter](https://dzone.com/refcardz/getting-started-with-apache-jmeter)
+- [A Simple Load Test with JMeter](https://www.urbaninsight.com/2011/07/18/simple-load-test-with-jmeter)
+- [Performance testing with JMeter](https://www.atlassian.com/blog/archives/performance_testing_with_jmete)
 
 ## Tutorials
 
-- [JMeter Tutorials](https://artoftesting.com/jmeter-tutorial.html) @ ArtOfTesting.com
-- [Load Testing your Applications with Apache JMeter by Keld H. Hansen](http://www.jguru.com/article/server-side/load-testing-with-apache-jmeter.html) @ jGuru.com
+- [JMeter Tutorials](https://artoftesting.com/jmeter-tutorial.html)
+- [Load Testing your Applications with Apache JMeter](http://www.jguru.com/article/server-side/load-testing-with-apache-jmeter.html) - By Keld H. Hansen.
 - Load Testing with JMeter:
-    - [part 1](https://lincolnloop.com/blog/2011/sep/21/load-testing-jmeter-part-1-getting-started/) - Getting started.
-    - [part 2](https://lincolnloop.com/blog/2011/oct/12/load-testing-jmeter-part-2-headless-testing-and-je/) - Headless testing and Jenkins integration.
-    - [part 3](https://lincolnloop.com/blog/2012/sep/19/load-testing-jmeter-part-3-replaying-apache-logs/) - Replaying Apache logs.
+  - [part 1](https://lincolnloop.com/blog/2011/sep/21/load-testing-jmeter-part-1-getting-started/) - Getting started.
+  - [part 2](https://lincolnloop.com/blog/2011/oct/12/load-testing-jmeter-part-2-headless-testing-and-je/) - Headless testing and Jenkins integration.
+  - [part 3](https://lincolnloop.com/blog/2012/sep/19/load-testing-jmeter-part-3-replaying-apache-logs/) - Replaying Apache logs.
 - [Concurrent, High Throughput Performance Testing with JMeter](https://planet.jboss.org/post/concurrent_high_throughput_performance_testing_with_jmeter)
 - [Functional Testing with JMeter](https://hub.packtpub.com/functional-testing-jmeter/)
-- [JMeter Resources](https://resources.infosecinstitute.com/search/?s=jmeter) @ InfoSec Institute
-- [JMeter Tutorial](https://www.tutorialspoint.com/jmeter/) @ Tutorials Point
+- [JMeter Resources](https://resources.infosecinstitute.com/search/?s=jmeter)
+- [JMeter Tutorial](https://www.tutorialspoint.com/jmeter/)
 - [JMeter Tutorial for Load Testing: The Ultimate Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
 - [RESTful API testing with JMeter](https://www.ibm.com/developerworks/cloud/library/cl-jmeter-restful/)
 - [How to Hit Your RESTful Web Service Using JMeter](https://crunchify.com/how-to-hit-your-restful-web-service-using-jmeter-perform-a-simple-load-test/)
 - [JMeter: Load Development LifeCycle](https://gerardnico.com/jmeter/lifecycle)
-- [Load Testing with Apache JMeter](https://www.digitalocean.com/community/tutorial_series/load-testing-with-apache-jmeter) @ DigitalOcean
-- [JMeter Tutorial](https://www.guru99.com/jmeter-tutorials.html) @ Guru99
-- [JMeter Series](http://blog.sourcepole.com/2011/01/04/jmeter-series/) @ Sourcepole
+- [Load Testing with Apache JMeter](https://www.digitalocean.com/community/tutorial_series/load-testing-with-apache-jmeter)
+- [JMeter Tutorial](https://www.guru99.com/jmeter-tutorials.html)
+- [JMeter Series](http://blog.sourcepole.com/2011/01/04/jmeter-series/)
 
 ## Best Practices
 
 - [JMeter Official Best Practices](http://jmeter.apache.org/usermanual/best-practices.html)
-- [JMeter Best Practices](https://guide.blazemeter.com/hc/en-us/articles/207421405-JMeter-Best-Practices) @ BlazeMeter
-- [Optimize JMeter for Large Scale Tests](https://octoperf.com/blog/2017/10/12/optimize-jmeter-for-large-scale-tests/) @ OctoPerf
+- [JMeter Best Practices](https://guide.blazemeter.com/hc/en-us/articles/207421405-JMeter-Best-Practices)
+- [Optimize JMeter for Large Scale Tests](https://octoperf.com/blog/2017/10/12/optimize-jmeter-for-large-scale-tests/)
 
 ## Scripting
 
 - [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance/) - Most popular scripting mechanisms performance comparison.
 - [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) - Using JMeter and Groovy for load testing.
-- [JMeter: forget about BeanShell Sampler](https://habr.com/ru/post/250731/) *(Russian)*
+- [JMeter: забудьте про BeanShell Sampler](https://habr.com/ru/post/250731/) - JMeter: forget about BeanShell Sampler *(Russian)*.
 
 ## Automation
 
@@ -135,22 +134,26 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 ### Tutorials & Demo
 
 - Jenkins
-    - [Automated performance testing using JMeter and Maven](https://www.atlassian.com/blog/archives/automated_performance_testing_using_jmeter_and_maven)
-    - [Performance Tests with JMeter, Maven and Hudson](https://medium.com/the-server-labs/performance-tests-with-jmeter-maven-and-hudson-d1cbdb3ffad8)
-    - [CI with Jenkins, Git, Maven, Grunt, and JMeter](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
-    - [Continuous automated web tests using Jenkins and JMeter](https://www.linkedin.com/pulse/continuous-automated-web-tests-using-jenkins-jmeter-mahanta)
-    - [Automating JMeter tests with Maven and Jenkins](https://blog.codecentric.de/en/2014/01/automating-jmeter-tests-maven-jenkins/)
-    - How to automate JMeter tests with Maven and Jenkins: [part 1](https://ribblescode.wordpress.com/2012/04/16/how-to-run-jmeter-tests-with-maven/), [part 2](https://ribblescode.wordpress.com/2012/04/16/how-to-automate-jmeter-tests-with-maven-and-jenkins-hudson-8/)
-    - JMeter Continuous Performance Testing (JMeter + Ant + Jenkins): [part 1](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part1/), [part 2](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part2/)
-    - [Continuous Integration 101: How to Run JMeter with Jenkins](https://www.blazemeter.com/blog/continuous-integration-101-how-run-jmeter-jenkins/)
+  - [Automated performance testing using JMeter and Maven](https://www.atlassian.com/blog/archives/automated_performance_testing_using_jmeter_and_maven)
+  - [Performance Tests with JMeter, Maven and Hudson](https://medium.com/the-server-labs/performance-tests-with-jmeter-maven-and-hudson-d1cbdb3ffad8)
+  - [CI with Jenkins, Git, Maven, Grunt, and JMeter](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
+  - [Continuous automated web tests using Jenkins and JMeter](https://www.linkedin.com/pulse/continuous-automated-web-tests-using-jenkins-jmeter-mahanta)
+  - [Automating JMeter tests with Maven and Jenkins](https://blog.codecentric.de/en/2014/01/automating-jmeter-tests-maven-jenkins/)
+  - How to automate JMeter tests with Maven and Jenkins:
+    - [part 1](https://ribblescode.wordpress.com/2012/04/16/how-to-run-jmeter-tests-with-maven/)
+    - [part 2](https://ribblescode.wordpress.com/2012/04/16/how-to-automate-jmeter-tests-with-maven-and-jenkins-hudson-8/)
+  - JMeter Continuous Performance Testing (JMeter + Ant + Jenkins):
+    - [part 1](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part1/)
+    - [part 2](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part2/)
+  - [Continuous Integration 101: How to Run JMeter with Jenkins](https://www.blazemeter.com/blog/continuous-integration-101-how-run-jmeter-jenkins/)
 - Bamboo
-    - [How to Run JMeter in a Continuous Integration Environment with Bamboo](https://www.blazemeter.com/blog/how-run-jmeter-continuous-integration-environment-bamboo/)
+  - [How to Run JMeter in a Continuous Integration Environment with Bamboo](https://www.blazemeter.com/blog/how-run-jmeter-continuous-integration-environment-bamboo/)
 - TeamCity
-    - [How to Run JMeter Tests with TeamCity for Continuous Integration](https://www.blazemeter.com/blog/how-run-jmeter-tests-teamcity-continuous-integration/)
+  - [How to Run JMeter Tests with TeamCity for Continuous Integration](https://www.blazemeter.com/blog/how-run-jmeter-tests-teamcity-continuous-integration/)
 - CircleCI
-    - [How to integrate JMeter into CircleCI](https://www.blazemeter.com/blog/how-to-integrate-jmeter-into-circleci/)
+  - [How to integrate JMeter into CircleCI](https://www.blazemeter.com/blog/how-to-integrate-jmeter-into-circleci/)
 - SonarQube
-    - [JMeter with Sonar](http://testersinaction.blogspot.com.by/2013/05/v-behaviorurldefaultvmlo_24.html)
+  - [JMeter with Sonar](http://testersinaction.blogspot.com.by/2013/05/v-behaviorurldefaultvmlo_24.html)
 
 ## Distributed Testing
 
@@ -158,18 +161,18 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [JMeter Remote Testing](http://jmeter.apache.org/usermanual/remote-test.html)
 - [Setting up a JMeter Cluster for web server load testing](https://www.howtoforge.com/setting-up-jmeter-cluster-for-load-testing/)
 - Dockerized
-    - [Dockerized JMeter](https://gist.github.com/hhcordero/abd1dcaf6654cfe51d0b) - Distributed load testing workflow with Docker and JMeter.
-    - [JMeter Docker Images](https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=jmeter&starCount=0)
-    - [Distributed JMeter testing using Docker](http://srivaths.blogspot.com/2014/08/distrubuted-jmeter-testing-using-docker.html)
-    - [A Docker solution to JMeter + InfluxDB + Grafana performance testing](https://medium.com/@ellenhuang523/a-docker-solution-to-jmeter-influxdb-grafana-performance-testing-568848de7a0f)
+  - [Dockerized JMeter](https://gist.github.com/hhcordero/abd1dcaf6654cfe51d0b) - Distributed load testing workflow with Docker and JMeter.
+  - [JMeter Docker Images](https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=jmeter&starCount=0)
+  - [Distributed JMeter testing using Docker](http://srivaths.blogspot.com/2014/08/distrubuted-jmeter-testing-using-docker.html)
+  - [A Docker solution to JMeter + InfluxDB + Grafana performance testing](https://medium.com/@ellenhuang523/a-docker-solution-to-jmeter-influxdb-grafana-performance-testing-568848de7a0f)
 - Testing in Cloud
-    - Amazon
-        - [jmeter-ec2](http://web.archive.org/web/20120209090437/http://www.http503.com/2012/jmeter-ec2/) - Run JMeter on Amazon’s EC2 Cloud.
-        - [Load Testing with JMeter and Amazon EC2](https://medium.com/@alttaf_untangl/load-testing-with-jmeter-and-amazon-ec2-e143a7350596)
-        - [Performance Testing in the Cloud with JMeter & AWS](http://www.artofsoftwaredevelopment.com/performance/performance-testing-in-the-cloud-with-jmeter-aws)
-        - [JMeter distributed testing with Amazon EC2](https://vedovini.net/2009/08/jmeter-distributed-testing-with-amazon-ec2/)
-    - DigitalOcean
-        - [Lightweight JMeter Cloud](https://docs.google.com/presentation/d/1Yi5C27C3Q0AnT-uw9SRnMeEqXSKLQ8h9O9Jqo1gQiyI/) - Building your own JMeter Cloud using Digital Ocean, JMeter and Docker.
+  - Amazon
+    - [jmeter-ec2](http://web.archive.org/web/20120209090437/http://www.http503.com/2012/jmeter-ec2/) - Run JMeter on Amazon's EC2 Cloud.
+    - [Load Testing with JMeter and Amazon EC2](https://medium.com/@alttaf_untangl/load-testing-with-jmeter-and-amazon-ec2-e143a7350596)
+    - [Performance Testing in the Cloud with JMeter & AWS](http://web.archive.org/web/20190526033436/http://www.artofsoftwaredevelopment.com/performance/performance-testing-in-the-cloud-with-jmeter-aws)
+    - [JMeter distributed testing with Amazon EC2](https://vedovini.net/2009/08/jmeter-distributed-testing-with-amazon-ec2/)
+  - DigitalOcean
+    - [Lightweight JMeter Cloud](https://docs.google.com/presentation/d/1Yi5C27C3Q0AnT-uw9SRnMeEqXSKLQ8h9O9Jqo1gQiyI/) - Building your own JMeter Cloud using Digital Ocean, JMeter and Docker.
 
 ## Cloud Services / SaaS
 
@@ -192,38 +195,37 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [Analyzing JMeter Results](http://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results)
 - [JMeter Result Analysis: The Ultimate Guide](https://octoperf.com/blog/2017/10/19/how-to-analyze-jmeter-results/)
 - [BlazeMeter Sense](https://sense.blazemeter.com/) - Service for storing and analysing performance test results.
-- [JAnalyser](http://epireum.com/page-section/janalyser/) - Browser-based results analysis tool.
+- [JAnalyser](http://janalyser.com/) - Browser-based results analysis tool.
 - [JMeter Result Analysis Plugin](https://github.com/afranken/jmeter-analysis-maven-plugin) - Maven plugin that parses JMeter test results and generates detailed reports with charts.
 - [JMeter Results Analyser](http://sourceforge.net/projects/jmstats/) - Web-based application for collating, analysing and reporting JMeter test results.
 - DB Result Collectors
-    - [JMeter DBCollector Plugin](http://sourceforge.net/projects/jmeterdbcollect/) - Plugin to enable results logging into a database for more effective reporting.
-    - [JMeter MySQLCollector Plugin](http://wiki.apache.org/jmeter/MysqlCollectorPlugin) - Patch to configure listener to log into MySQL database.
+  - [JMeter DBCollector Plugin](http://sourceforge.net/projects/jmeterdbcollect/) - Plugin to enable results logging into a database for more effective reporting.
+  - [JMeter MySQLCollector Plugin](http://wiki.apache.org/jmeter/MysqlCollectorPlugin) - Patch to configure listener to log into MySQL database.
 
 ### Results Visualisation
 
 - Built-in Reporting
-    - [JMeter Report Dashboard](http://jmeter.apache.org/usermanual/generating-dashboard.html) - JMeter supports dashboard report generation to get graphs and statistics from a test plan.
-- Using Graphite & Grafana
-    - *TBD*
+  - [JMeter Report Dashboard](http://jmeter.apache.org/usermanual/generating-dashboard.html) - JMeter supports dashboard report generation to get graphs and statistics from a test plan.
+- Using Graphite & Grafana - *TBD*.
 - Using InfluxDB & Grafana
-    - [Using JMeter with InfluxDB & Grafana](http://www.vinsguru.com/category/influxdb/) - Collection of guides to collect and visualize real-time test-results and server monitoring stats using InfluxDB & Grafana.
-    - [How to Use Grafana to Monitor JMeter Non-GUI Results](https://dzone.com/articles/how-to-use-grafana-to-monitor-jmeter-non-gui-resul)
-    - Grafana Dashboards
-        - [JMeter Load Test Dashboard](https://grafana.com/dashboards/1152) by NovaTec-APM
-        - [JMeter Dashboard using Core InfluxdbBackendListenerClient](https://grafana.com/grafana/dashboards/5496) by Philippe M.
-        - [JMeter Dashboard (3.2 and up)](https://grafana.com/grafana/dashboards/3351) by adrianbanu
-    - [JMeter-InfluxBD-Writer Plugin](https://github.com/NovatecConsulting/JMeter-InfluxDB-Writer) - JMeter plugin to write load test data on-the-fly into InfluxDB.
-    - [JMeter Results to InfluxDB](https://github.com/soprasteria/jmeter2influxdb) - Read JMeter results from csv file and put into InfluxDB database.
+  - [Using JMeter with InfluxDB & Grafana](http://www.vinsguru.com/category/influxdb/) - Collection of guides to collect and visualize real-time test-results and server monitoring stats using InfluxDB & Grafana.
+  - [How to Use Grafana to Monitor JMeter Non-GUI Results](https://dzone.com/articles/how-to-use-grafana-to-monitor-jmeter-non-gui-resul)
+  - Grafana Dashboards
+    - [JMeter Load Test Dashboard](https://grafana.com/dashboards/1152) - By NovaTec-APM.
+    - [JMeter Dashboard using Core InfluxdbBackendListenerClient](https://grafana.com/grafana/dashboards/5496) - By Philippe M.
+    - [JMeter Dashboard (3.2 and up)](https://grafana.com/grafana/dashboards/3351) - By adrianbanu.
+  - [JMeter-InfluxBD-Writer Plugin](https://github.com/NovatecConsulting/JMeter-InfluxDB-Writer) - JMeter plugin to write load test data on-the-fly into InfluxDB.
+  - [JMeter Results to InfluxDB](https://github.com/soprasteria/jmeter2influxdb) - Read JMeter results from csv file and put into InfluxDB database.
 - Using ELK Stack & Grafana
-    - [Using ELK](http://ecmarchitect.com/archives/2014/09/09/3932) - Using Elasticsearch, Logstash, and Kibana to visualize JMeter test results.
-    - [JMeter + ElasticSearch Live Monitoring](https://medium.com/@anthony.gauthier325/jmeter-elasticsearch-live-monitoring-c895c843c51e) - Using the ElasticSearch Backend listener and Grafana/Kibana to monitor results in realtime.
-    - [JMeter ElasticSearch Backend Listener](https://github.com/delirius325/jmeter-elasticsearch-backend-listener) - JMeter plugin to send test results to an ElasticSearch engine.
+  - [Using ELK](http://ecmarchitect.com/archives/2014/09/09/3932) - Using Elasticsearch, Logstash, and Kibana to visualize JMeter test results.
+  - [JMeter + ElasticSearch Live Monitoring](https://medium.com/@anthony.gauthier325/jmeter-elasticsearch-live-monitoring-c895c843c51e) - Using the ElasticSearch Backend listener and Grafana/Kibana to monitor results in realtime.
+  - [JMeter ElasticSearch Backend Listener](https://github.com/delirius325/jmeter-elasticsearch-backend-listener) - JMeter plugin to send test results to an ElasticSearch engine.
 - Custom & Outdated
-    - [Using Matplotlib & Python](http://www.metaltoad.com/blog/plotting-your-load-test-jmeter) - Plotting JMeter load test results with Matplotlib plotting tool and Python.
-    - [Statistical Aggregate Report](http://rubenlaguna.com/wp/better-jmeter-graphs/) - Custom Statistical Aggregate Report listener for enhanced results visualization.
-    - [JChav](https://github.com/d6y/jchav) - JMeter Chart History and Visualisation library.
-    - JMeter Dashboard: [howto](http://seangkuan.blogspot.com.by/2015/06/jmeter-dashboard-realtime-monitoring-of.html), [sources](https://github.com/vincentskooi/JMeterDashboard) - Realtime monitoring of JMeter load test.
-    - [Using CMDRunner & Powershell](http://performancewebautoamtionother.blogspot.com.by/2015/12/jmeter-create-graphs-with-cmdrunner.html) - Create JMeter graphs with CMDRunner with powershell parallel execution.
+  - [Using Matplotlib & Python](http://www.metaltoad.com/blog/plotting-your-load-test-jmeter) - Plotting JMeter load test results with Matplotlib plotting tool and Python.
+  - [Statistical Aggregate Report](http://rubenlaguna.com/wp/better-jmeter-graphs/) - Custom Statistical Aggregate Report listener for enhanced results visualization.
+  - [JChav](https://github.com/d6y/jchav) - JMeter Chart History and Visualisation library.
+  - JMeter Dashboard: [howto](http://seangkuan.blogspot.com.by/2015/06/jmeter-dashboard-realtime-monitoring-of.html), [sources](https://github.com/vincentskooi/JMeterDashboard) - Realtime monitoring of JMeter load test.
+  - [Using CMDRunner & Powershell](http://performancewebautoamtionother.blogspot.com.by/2015/12/jmeter-create-graphs-with-cmdrunner.html) - Create JMeter graphs with CMDRunner with powershell parallel execution.
 
 ## Performance Testing
 
@@ -242,7 +244,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 
 - [Record iOS application HTTP requests](http://www.testautomationguru.com/jmeter-record-ios-application-http-requests/)
 - [BlazeMeter Mobile Recorder](https://guide.blazemeter.com/hc/en-us/articles/207420545-BlazeMeter-Recorder-Mobile-Recorder-)
-- [Performance Testing for Native Mobile Apps](https://www.blazemeter.com/blog/view-webcast-performance-testing-native-mobile-apps) @ BlazeMeter
+- [Performance Testing for Native Mobile Apps](https://www.blazemeter.com/blog/view-webcast-performance-testing-native-mobile-apps)
 
 ## APM Integration
 
@@ -251,8 +253,8 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [Servers Performance Monitoring Plugin](https://jmeter-plugins.org/wiki/PerfMon/) - Server monitoring plugin from [JMeter Plugins](https://jmeter-plugins.org/) project.
 - [CA App Synthetic Monitor](https://asm.ca.com/en/feature/transaction-monitoring-web-application-testing.html) - Transaction monitoring & testing solution with JMeter support.
 - Dynatrace
-	- [Dynatrace and JMeter integration](https://www.dynatrace.com/support/help/setup-and-configuration/integrations/third-party-integrations/test-automation-frameworks/dynatrace-and-jmeter-integration/)
-	- [Integrate web API performance monitoring in JMeter](https://www.dynatrace.com/support/doc/appmon/continuous-delivery-test-automation/test-automation-tutorials/integrate-web-api-performance-monitoring-in-jmeter/)
+  - [Dynatrace and JMeter integration](https://www.dynatrace.com/support/help/setup-and-configuration/integrations/third-party-integrations/test-automation-frameworks/dynatrace-and-jmeter-integration/)
+  - [Integrate web API performance monitoring in JMeter](https://www.dynatrace.com/support/doc/appmon/continuous-delivery-test-automation/test-automation-tutorials/integrate-web-api-performance-monitoring-in-jmeter/)
 - [JMeter integration with AppDynamics](https://docplayer.net/62851982-Jmeter-integration-with-appdynamics.html) - APM & EUM solution with JMeter integration.
 - Performance Remediation using New Relic and JMeter: [part 1](https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-1-3/), [part 2](https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-2-3/)
 
@@ -282,13 +284,13 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 ## JMeter Performance
 
 - [JMeter Performance](https://cwiki.apache.org/confluence/display/jmeter/JMeterPerformance) - JMeter performance evolution across versions.
-- [JMeter Performance and Tuning Tips](http://www.ubik-ingenierie.com/blog/jmeter_performance_tuning_tips/) @ UBIK Ingenierie
-- [JMeter Performance and Tuning Tips](https://blazemeter.com/blog/jmeter-performance-and-tuning-tips) @ BlazeMeter
+- [JMeter Performance and Tuning Tips](http://www.ubik-ingenierie.com/blog/jmeter_performance_tuning_tips/) - By UBIK Ingenierie.
+- [JMeter Performance and Tuning Tips](https://blazemeter.com/blog/jmeter-performance-and-tuning-tips) - By BlazeMeter.
 - [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance/) - Most popular scripting mechanisms performance comparison.
 
 ## Tips & Tricks
 
-- [JMeter tips](http://www.webwob.com/html/jmeter_tips.html) @ WebWob - JMeter tips and tricks scratchpad.
+- [JMeter tips](http://www.webwob.com/html/jmeter_tips.html) - JMeter tips and tricks scratchpad.
 
 ## Books
 
@@ -305,26 +307,26 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 
 ## Trainings & Courses
 
-- [JMeter: Performance and Load Testing](https://www.linkedin.com/learning/jmeter-performance-and-load-testing) @ LinkedIn Learning
-- [JMeter Training Courses](https://www.nobleprog.co.uk/jmeter-training) @ NobleProg
-- [JMeter Training Course](https://info.blazemeter.com/jmeter-training-course) @ BlazeMeter
-- [JMeter Training Academy](https://www.blazemeter.com/jmeter-tutorial/) @ BlazeMeter
-- [JMeter Courses collection](https://www.udemy.com/courses/search/?q=jmeter) @ Udemy
-- [JMeter Training Course](http://www.absofttrainings.com/jmeter-training-course-and-tutorials/) @ ABSoft Trainings
-- [Web Applications (and Mobile Apps) Performance Testing with JMeter](http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/) @ Pragmatic Test Labs
-- [Training courses on Load Testing with Apache JMeter](https://www.ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) @ Ubik Ingenierie
-- [Apache JMeter Testing Courses](https://qainsights.com/services/) @ QAInsights
+- [JMeter: Performance and Load Testing](https://www.linkedin.com/learning/jmeter-performance-and-load-testing) - By LinkedIn Learning.
+- [JMeter Training Courses](https://www.nobleprog.co.uk/jmeter-training) - By NobleProg.
+- [JMeter Training Course](https://info.blazemeter.com/jmeter-training-course) - By BlazeMeter.
+- [JMeter Training Academy](https://www.blazemeter.com/jmeter-tutorial/) - By BlazeMeter.
+- [JMeter Courses collection](https://www.udemy.com/courses/search/?q=jmeter) - By Udemy.
+- [JMeter Training Course](http://www.absofttrainings.com/jmeter-training-course-and-tutorials/) - By ABSoft Trainings.
+- [Web Applications (and Mobile Apps) Performance Testing with JMeter](http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/) - By Pragmatic Test Labs.
+- [Training courses on Load Testing with Apache JMeter](https://www.ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) - By Ubik Ingenierie.
+- [Apache JMeter Testing Courses](https://qainsights.com/services/) - By QAInsights.
 
 ## Community
 
 ### Blogs
 
 - [BlazeMeter Blog](https://www.blazemeter.com/jmeter/) - BlazeMeter blog about JMeter and performance testing.
-- [Ubik Load Pack Blog](http://www.ubik-ingenierie.com/blog/category/jmeter/) - UBIK INGENIERIE blog.
+- [Ubik Load Pack Blog](http://www.ubik-ingenierie.com/blog/category/jmeter/) - Ubik Ingenierie blog.
 - [TestAutomationGuru Blog](http://www.testautomationguru.com/category/jmeter/) - Technical blog on test automation.
 - [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) - JMeter articles in RedLine13 blog.
 - [Flood.io Blog](https://flood.io/blog/) - Load testing thoughts, stories and ideas from Flood IO.
-- [JMeter Blog](https://shantonusarker.blogspot.com/p/jmeter.html) @ Shantonu Sarker - Another blog for performance & automation testing using JMeter.
+- [JMeter Blog](https://shantonusarker.blogspot.com/p/jmeter.html) - Another blog for performance & automation testing using JMeter.
 - [OctoPerf Blog](https://octoperf.com/categories/jmeter/) - OctoPerf blog about JMeter and load testing.
 - [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
 - [JMeter Tips](http://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications *(no updates more)*.
@@ -337,8 +339,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 
 ### Newsletters
 
-- [JMeter](https://www.linkedin.com/learning/search?keywords=jmeter) @ Linkedin
-- [JMeter](https://www.reddit.com/r/jmeter/) @ Reddit
+- [JMeter Community](https://www.reddit.com/r/jmeter/) - By Reddit.
 
 ### Twitter
 
@@ -351,9 +352,9 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 ### Q&A
 
 - [JMeter @ Stack Overflow](http://stackoverflow.com/questions/tagged/jmeter)
-- [Skype chat of JMeter enthusiasts](http://is.gd/jmeterchat) *(Russian)*
-- [JMeter @ gitter](https://gitter.im/aliesbelik/jmeter-chat)
 - [JMeter Slack workspace](http://jmeterusers.slack.com/)
+- [JMeter @ gitter](https://gitter.im/aliesbelik/jmeter-chat)
+- [Чат любителей JMeter](http://is.gd/jmeterchat) - Skype chat of JMeter enthusiasts *(Russian)*.
 
 ## Related
 
@@ -372,7 +373,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 ## Contributing
 
 Contributions are welcome!<br />
-Please take a look at the [contribution guidelines](https://github.com/aliesbelik/awesome-jmeter/blob/master/contributing.md) first.
+Please take a look at the [contribution guidelines](https://github.com/aliesbelik/awesome-jmeter/blob/master/CONTRIBUTING.md) first.
 
 ## License
 

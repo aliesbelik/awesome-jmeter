@@ -5,6 +5,10 @@ _site
 .ruby-version
 .jekyll-metadata
 
+# awesome-lint
+node_modules/
+package-lock.json
+
 # always-ignore extensions
 *.diff
 *.err

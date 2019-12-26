@@ -1,0 +1,25 @@
+{
+  "name": "awesome-jmeter",
+  "description": "A curated collection of resources covering Apache JMeter and related stuff and shiny things",
+  "author": "Aliaksandr Belik",
+  "license": "CC-BY-4.0",
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "devDependencies": {
+    "awesome-lint": "*"
+  },
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "awesome-jmeter",
+    "jmeter",
+    "jmeter-plugin",
+    "load-testing",
+    "performance-testing"
+  ],
+  "bugs": {
+    "url": "https://github.com/aliesbelik/awesome-jmeter/issues"
+  },
+  "homepage": "https://github.com/aliesbelik/awesome-jmeter#readme"
+}
