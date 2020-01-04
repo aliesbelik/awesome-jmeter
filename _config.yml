@@ -22,7 +22,7 @@ aux_links:
     - "//github.com/aliesbelik/awesome-jmeter"
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2015-2019 Aliaksandr Belik. Licensed under the <a href=\"https://github.com/aliesbelik/awesome-jmeter/tree/master/LICENSE.md\">CC-BY-4.0</a>."
+footer_content: "Copyright &copy; 2015-2020 Aliaksandr Belik. Licensed under the <a href=\"https://github.com/aliesbelik/awesome-jmeter/tree/master/LICENSE.md\">CC-BY-4.0</a>."
 
 # Google Analytics tracking
 ga_tracking: UA-154669570-1
