@@ -37,8 +37,9 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
   - [Mobile Apps](#mobile-apps)
 - [APM Integration](#apm-integration)
 - [Plugins](#plugins)
-- [IDE Integration](#ide-integration)
 - [Extending JMeter](#extending-jmeter)
+- [IDE Integration](#ide-integration)
+- [Editors](#editors)
 - [JMeter Performance](#jmeter-performance)
 - [Tips & Tricks](#tips--tricks)
 - [Books](#books)
@@ -265,13 +266,6 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [UBIK Load Pack](https://ubikloadpack.com/) - Productivity extensions for Apache JMeter.
 - [AtlantBH Custom JMeter Components](https://github.com/ATLANTBH/jmeter-components/) - Set of JMeter extensions developed by Atlantbh (currently included into [JMeter Plugins](https://jmeter-plugins.org/) project).
 
-## IDE Integration
-
-- [Intellij IDEA IDE Plugin](https://plugins.jetbrains.com/plugin/7013-jmeter-plugin) - Create run configurations and run JMeter tests from Intellij IDEA.
-- [JMeter + Eclipse HOWTO](https://cwiki.apache.org/confluence/display/jmeter/JMeterAndEclipseHowTo) - Develop the JMeter project with Eclipse IDE.
-- [NetBeans JMeter Kit](http://plugins.netbeans.org/plugin/49923/jmeter) - JMeter integration module for NetBeans IDE.
-- [Using a Load Generator in NetBeans IDE](https://netbeans.org/kb/docs/java/profile-loadgenerator.html)
-
 ## Extending JMeter
 
 - [JMeter Developer Manual](https://cwiki.apache.org/confluence/display/jmeter/DeveloperManual)
@@ -280,6 +274,21 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [How to create a plugin in JMeter](http://stackoverflow.com/questions/20422640/how-to-create-a-plugin-in-jmeter)
 - [Custom JMeter Samplers and Config Elements](http://codyaray.com/2014/07/custom-jmeter-samplers-and-config-elements)
 - [Implement Custom JMeter Samplers](https://dzone.com/articles/implement-custom-jmeter-samplers)
+
+## IDE Integration
+
+- [Intellij IDEA IDE Plugin](https://plugins.jetbrains.com/plugin/7013-jmeter-plugin) - Create run configurations and run JMeter tests from Intellij IDEA.
+- [JMeter + Eclipse HOWTO](https://cwiki.apache.org/confluence/display/jmeter/JMeterAndEclipseHowTo) - Develop the JMeter project with Eclipse IDE.
+- [NetBeans JMeter Kit](http://plugins.netbeans.org/plugin/49923/jmeter) - JMeter integration module for NetBeans IDE.
+- [Using a Load Generator in NetBeans IDE](https://netbeans.org/kb/docs/java/profile-loadgenerator.html)
+
+## Editors
+
+*Alternative editors for JMX files, in addition to standard JMeter GUI and XML editor.*
+
+- [BlocklyJMX Editor](https://jmeter-plugins.org/editor/) - A Web-based viewer and editor for JMeter test plan files (part of [JMeter Plugins](https://jmeter-plugins.org/) project).
+- [JMX Enhancer](https://www.jmxenhancer.com/) - A solution to expedite preparation of JMeter test plans.
+- [jmx.js](http://www.vinodkd.org/jmx.js/) - Web-based editor for JMeter JMX files *(no updates more)*.
 
 ## JMeter Performance
 
