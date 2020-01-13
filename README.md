@@ -284,7 +284,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 
 ## Editors
 
-*Alternative editors for JMX files, in addition to standard JMeter GUI and XML editor.*
+*Alternative editors for JMX files, in addition to standard JMeter GUI and XML editors.*
 
 - [BlocklyJMX Editor](https://jmeter-plugins.org/editor/) - A Web-based viewer and editor for JMeter test plan files (part of [JMeter Plugins](https://jmeter-plugins.org/) project).
 - [JMX Enhancer](https://www.jmxenhancer.com/) - A solution to expedite preparation of JMeter test plans.

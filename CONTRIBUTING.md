@@ -2,9 +2,8 @@
 
 Your contributions are always welcome!
 
+Anyone can contribute to this list, just make sure you follow the below [guidelines](#guidelines).
 For contributing, [open an issue](https://github.com/aliesbelik/awesome-jmeter/issues) and/or [create a pull request](https://github.com/aliesbelik/awesome-jmeter/pulls).
-
-Anyone can contribute to this list, just make sure you follow the below guidelines.
 
 ## Guidelines
 
@@ -21,4 +20,9 @@ Anyone can contribute to this list, just make sure you follow the below guidelin
 * Remove any trailing whitespace.
 * If there is a merge conflict, please rebase and resolve the conflicts and then submit the PR again.
 
-Thank you for suggestions.
+## Code of Conduct
+
+Please note that this project is released with a [Contributor Code of Conduct](CODE-OF-CONDUCT.md).
+By participating in this project you agree to abide by its terms.
+
+Thank you for your contributions.
