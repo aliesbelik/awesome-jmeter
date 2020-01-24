@@ -15,7 +15,7 @@
 
 > The [Apache JMeter](http://jmeter.apache.org/) is open source, pure Java application designed to load test functional behavior and measure performance.
 
-This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange.com/a/2552/1842) and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) project and improved by these [amazing contributors](https://github.com/aliesbelik/awesome-jmeter/blob/master/CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) project and improved by these [amazing contributors](CONTRIBUTORS.md).
 
 ## Contents
 
@@ -262,7 +262,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 ## Plugins
 
 - [JMeter Plugins list](https://docs.google.com/spreadsheets/d/1FYMw3zCMr2Y37QCG_vOyC3HyrLxxi7x5I3khWLj3isU/) - List of available plugins and extensions.
-- [JMeter Plugins](https://jmeter-plugins.org/) - Independent set of plugins for Apache JMeter, a plugin manager references many plugins and simplifies installation
+- [JMeter Plugins](https://jmeter-plugins.org/) - Independent set of plugins for Apache JMeter, with plugin manager references many plugins and simplifies installation.
 - [UBIK Load Pack](https://ubikloadpack.com/) - Productivity extensions for Apache JMeter.
 
 ## Extending JMeter
@@ -324,7 +324,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [Web Applications (and Mobile Apps) Performance Testing with JMeter](http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/) - By Pragmatic Test Labs.
 - [Training courses on Load Testing with Apache JMeter](https://www.ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) - By Ubik Ingenierie.
 - [Apache JMeter Testing Courses](https://qainsights.com/services/) - By QAInsights.
-- [JMeter Getting Started Courses](https://www.pluralsight.com/courses/jmeter-getting-started) - By Pluralsight.
+- [JMeter Getting Started Course](https://www.pluralsight.com/courses/jmeter-getting-started) - By Pluralsight.
 
 ## Community
 
@@ -381,9 +381,9 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 
 ## Contributing
 
-Contributions are welcome!<br />
-Please take a look at the [contribution guidelines](https://github.com/aliesbelik/awesome-jmeter/blob/master/CONTRIBUTING.md) first.
+Contributions are welcome!\
+Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under the <a rel="license" href="https://github.com/aliesbelik/awesome-jmeter/blob/master/LICENSE.md">CC-BY-4.0</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
