@@ -8,7 +8,10 @@ github_username: aliesbelik
 remote_theme: pmarsceill/just-the-docs
 
 # Theme settings
-search_enabled: false
+# Enable or disable the site search
+search_enabled: true
+# Set the search token separator
+search_tokenizer_separator: /[\s/]+/
 
 # Color scheme currently only supports "dark" or nil (default)
 #color_scheme: "dark"

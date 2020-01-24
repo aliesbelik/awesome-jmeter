@@ -4,6 +4,7 @@ _site
 .sass-cache
 .ruby-version
 .jekyll-metadata
+Gemfile*
 
 # awesome-lint
 node_modules/
