@@ -262,9 +262,8 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 ## Plugins
 
 - [JMeter Plugins list](https://docs.google.com/spreadsheets/d/1FYMw3zCMr2Y37QCG_vOyC3HyrLxxi7x5I3khWLj3isU/) - List of available plugins and extensions.
-- [JMeter Plugins](https://jmeter-plugins.org/) - Independent set of plugins for Apache JMeter.
+- [JMeter Plugins](https://jmeter-plugins.org/) - Independent set of plugins for Apache JMeter, a plugin manager references many plugins and simplifies installation
 - [UBIK Load Pack](https://ubikloadpack.com/) - Productivity extensions for Apache JMeter.
-- [AtlantBH Custom JMeter Components](https://github.com/ATLANTBH/jmeter-components/) - Set of JMeter extensions developed by Atlantbh (currently included into [JMeter Plugins](https://jmeter-plugins.org/) project).
 
 ## Extending JMeter
 
@@ -325,6 +324,7 @@ This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange
 - [Web Applications (and Mobile Apps) Performance Testing with JMeter](http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/) - By Pragmatic Test Labs.
 - [Training courses on Load Testing with Apache JMeter](https://www.ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) - By Ubik Ingenierie.
 - [Apache JMeter Testing Courses](https://qainsights.com/services/) - By QAInsights.
+- [JMeter Getting Started Courses](https://www.pluralsight.com/courses/jmeter-getting-started) - By Pluralsight.
 
 ## Community
 
