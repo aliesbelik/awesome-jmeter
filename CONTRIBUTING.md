@@ -1,8 +1,15 @@
+---
+layout: page
+title: Contributing
+nav_order: 2
+permalink: /contributing
+---
+
 # Contributing
 
 Your contributions are always welcome!
 
-Anyone can contribute to this list, just make sure you follow the below [guidelines](#guidelines).\
+Anyone can contribute to this list, just make sure you follow the below [guidelines](#guidelines).<br>
 For contributing, [open an issue](https://github.com/aliesbelik/awesome-jmeter/issues) and/or [create a pull request](https://github.com/aliesbelik/awesome-jmeter/pulls).
 
 ## Guidelines
@@ -22,7 +29,7 @@ For contributing, [open an issue](https://github.com/aliesbelik/awesome-jmeter/i
 
 ## Code of Conduct
 
-Please note that this project is released with a [Contributor Code of Conduct](CODE-OF-CONDUCT.md).\
+Please note that this project is released with a [Contributor Code of Conduct](CODE-OF-CONDUCT.md).<br>
 By participating in this project you agree to abide by its terms.
 
 Thank you for your contributions.

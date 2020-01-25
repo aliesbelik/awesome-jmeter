@@ -1,3 +1,10 @@
+---
+layout: page
+title: Code of Conduct
+nav_order: 4
+permalink: /code-of-conduct
+---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

@@ -372,7 +372,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ## Contributing
 
-Contributions are welcome!\
+Contributions are welcome!<br>
 Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License

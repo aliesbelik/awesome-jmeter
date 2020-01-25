@@ -1,3 +1,9 @@
+---
+layout: page
+title: Contributors
+nav_order: 3
+permalink: /contributors
+---
 
 # Contributors
 
