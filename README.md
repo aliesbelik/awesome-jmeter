@@ -56,6 +56,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 - [Download Apache JMeter](http://jmeter.apache.org/download_jmeter.cgi) - Apache JMeter: Official downloads.
 - [JMeter for Windows](https://sourceforge.net/projects/jmeterforwindows/) - Package for installation JMeter with plugins.
+- [JMeter Bootstrap](https://github.com/cfpb/jmeter-bootstrap) - Solution to setup JMeter and JMeter plugins, suitable to be used as a submodule.
 
 ## Getting Started
 
