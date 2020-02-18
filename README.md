@@ -104,7 +104,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Packages
 
-- [loadtest](https://github.com/tmobile/loadtest) - An R Package for load testing using JMeter.
+- [loadtest](https://github.com/tmobile/loadtest) - An R package for load testing using JMeter.
 
 ### Frameworks
 
@@ -122,7 +122,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - Bamboo JMeter Aggregator Plugin: [documentation](https://marketplace.atlassian.com/apps/5902/jmeter-aggregator-for-bamboo), [sources](https://bitbucket.org/atlassian/bamboo-jmeter-plugin) - Bamboo plugin to collect, assert and graph JMeter test results.
 - [Sonar JMeter Plugin](https://github.com/SonarQubeCommunity/sonar-jmeter) - Plugin to collect JMeter performance tests results and display in Sonar dashboard *(deprecated)*.
 - [Lightning](https://automatictester.github.io/lightning/) - Framework to integrate JMeter non-functional tests with CI/CD server.
-- [Taurus](https://gettaurus.org/) - Automation-friendly framework for Continuous Testing.
+- [Taurus](https://gettaurus.org/docs/JMeter/) - JMeter Executor in Taurus automation framework.
 
 ### Tutorials & Demo
 
@@ -200,8 +200,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Results Visualisation
 
-- Using Graphite & Grafana - *TBD*.
-- Using InfluxDB & Grafana
+- Graphite & Grafana - *TBD*.
+- InfluxDB & Grafana
   - [Using JMeter with InfluxDB & Grafana](https://www.vinsguru.com/category/influxdb/) - Collection of guides to collect and visualize real-time test-results and server monitoring stats using InfluxDB & Grafana.
   - [How to Use Grafana to Monitor JMeter Non-GUI Results](https://dzone.com/articles/how-to-use-grafana-to-monitor-jmeter-non-gui-resul)
   - Grafana Dashboards
@@ -210,11 +210,14 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
     - [JMeter Dashboard (3.2 and up)](https://grafana.com/grafana/dashboards/3351) - By adrianbanu.
   - [JMeter-InfluxBD-Writer Plugin](https://github.com/NovatecConsulting/JMeter-InfluxDB-Writer) - JMeter plugin to write load test data on-the-fly into InfluxDB.
   - [JMeter Results to InfluxDB](https://github.com/soprasteria/jmeter2influxdb) - Read JMeter results from csv file and put into InfluxDB database.
-- Using ELK Stack & Grafana
+- ELK Stack & Grafana
   - [Using ELK](http://ecmarchitect.com/archives/2014/09/09/3932) - Using Elasticsearch, Logstash, and Kibana to visualize JMeter test results.
   - [JMeter + ElasticSearch Live Monitoring](https://medium.com/@anthony.gauthier325/jmeter-elasticsearch-live-monitoring-c895c843c51e) - Using the ElasticSearch Backend listener and Grafana/Kibana to monitor results in realtime.
-  - [JMeter ElasticSearch Backend Listener](https://github.com/delirius325/jmeter-elasticsearch-backend-listener) - JMeter plugin to send test results to an ElasticSearch engine.
-- Custom & Outdated
+- Backend Listener
+  - [jmeter-elasticsearch-backend-listener](https://github.com/delirius325/jmeter-elasticsearch-backend-listener) - JMeter plugin to send test results to an ElasticSearch engine.
+  - [jmeter-backend-azure](https://github.com/adrianmo/jmeter-backend-azure) - JMeter plugin to send test results to Azure Application Insights.
+  - [jmeter-backend-listener-kafka](https://github.com/rahulsinghai/jmeter-backend-listener-kafka) - JMeter plugin to send test results to a Kafka server.
+- Custom & Deprecated
   - [Using Matplotlib & Python](https://www.metaltoad.com/blog/plotting-your-load-test-jmeter) - Plotting JMeter load test results with Matplotlib plotting tool and Python.
   - [Statistical Aggregate Report](http://rubenlaguna.com/wp/better-jmeter-graphs/) - Custom Statistical Aggregate Report listener for enhanced results visualization.
   - [JChav](https://github.com/d6y/jchav) - JMeter Chart History and Visualisation library.
