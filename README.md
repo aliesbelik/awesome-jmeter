@@ -359,6 +359,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 - [JMeter @ Stack Overflow](https://stackoverflow.com/questions/tagged/jmeter)
 - [JMeter Slack workspace](https://jmeterusers.slack.com/)
+- [JMeter Spectrum community](https://spectrum.chat/jmeter)
 - [JMeter @ gitter](https://gitter.im/aliesbelik/jmeter-chat)
 
 ## Related
