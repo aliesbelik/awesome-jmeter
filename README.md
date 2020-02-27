@@ -194,25 +194,28 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JAnalyser](http://janalyser.com/) - Browser-based results analysis tool.
 - [JMeter Result Analysis Plugin](https://github.com/afranken/jmeter-analysis-maven-plugin) - Maven plugin that parses JMeter test results and generates detailed reports with charts.
 - [JMeter Results Analyser](https://sourceforge.net/projects/jmstats/) - Web-based application for collating, analysing and reporting JMeter test results.
-- DB Result Collectors
+- DB Results Collectors
   - [JMeter DBCollector Plugin](https://sourceforge.net/projects/jmeterdbcollect/) - Plugin to enable results logging into a database for more effective reporting.
   - [JMeter MySQLCollector Plugin](https://cwiki.apache.org/confluence/display/jmeter/MysqlCollectorPlugin) - Patch to configure listener to log into MySQL database.
 
 ### Results Visualisation
 
-- Graphite & Grafana - *TBD*.
+- Graphite - *TBD*.
 - InfluxDB & Grafana
   - [Using JMeter with InfluxDB & Grafana](https://www.vinsguru.com/category/influxdb/) - Collection of guides to collect and visualize real-time test-results and server monitoring stats using InfluxDB & Grafana.
   - [How to Use Grafana to Monitor JMeter Non-GUI Results](https://dzone.com/articles/how-to-use-grafana-to-monitor-jmeter-non-gui-resul)
   - Grafana Dashboards
-    - [JMeter Load Test Dashboard](https://grafana.com/grafana/dashboards/1152) - By NovaTec-APM.
-    - [JMeter Dashboard using Core InfluxdbBackendListenerClient](https://grafana.com/grafana/dashboards/5496) - By Philippe M.
-    - [JMeter Dashboard (3.2 and up)](https://grafana.com/grafana/dashboards/3351) - By adrianbanu.
+    - [JMeter Load Test Dashboard](https://grafana.com/grafana/dashboards/1152) - Grafana dashboard shows live load test metrics provided by JMeter (by NovaTec-APM).
+    - [JMeter Dashboard using Core InfluxdbBackendListenerClient](https://grafana.com/grafana/dashboards/5496) - Monitor your Apache JMeter load test in real time with InfluxDB and Grafana (by Philippe M).
+    - [JMeter Dashboard (3.2 and up)](https://grafana.com/grafana/dashboards/3351) - Monitor JMeter load test in real time with InfluxDB and Grafana (by adrianbanu).
+    - [JMeter (via prometheus exporter)](https://grafana.com/grafana/dashboards/2492) - A Grafana dashboard to inspect JMeter metrics via Prometheus exporter (by chiabre).
   - [JMeter-InfluxBD-Writer Plugin](https://github.com/NovatecConsulting/JMeter-InfluxDB-Writer) - JMeter plugin to write load test data on-the-fly into InfluxDB.
   - [JMeter Results to InfluxDB](https://github.com/soprasteria/jmeter2influxdb) - Read JMeter results from csv file and put into InfluxDB database.
-- ELK Stack & Grafana
+- ELK Stack
   - [Using ELK](http://ecmarchitect.com/archives/2014/09/09/3932) - Using Elasticsearch, Logstash, and Kibana to visualize JMeter test results.
   - [JMeter + ElasticSearch Live Monitoring](https://medium.com/@anthony.gauthier325/jmeter-elasticsearch-live-monitoring-c895c843c51e) - Using the ElasticSearch Backend listener and Grafana/Kibana to monitor results in realtime.
+- Prometheus
+  - [jmeter-prometheus-plugin](https://github.com/johrstrom/jmeter-prometheus-plugin) - A Prometheus Listener for Apache JMeter that exposes results in HTTP API.
 - ClickHouse
   - [JMeter Results from ClickHouse](https://grafana.com/grafana/dashboards/9561) - Using the [JMeter Listener pack](https://gitlab.com/testload/jmeter-listener/-/wikis/3.3-ClickHouse-usage), ClickHouse and Grafana to collect and monitor test results.
 - Backend Listener Implementations
