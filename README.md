@@ -111,6 +111,10 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Lightning](https://automatictester.github.io/lightning/) - Framework to integrate JMeter non-functional tests with CI/CD server.
 - [Taurus](https://gettaurus.org/) - Automation-friendly framework for Continuous Testing.
 
+### Other
+
+- [JMeter Load Testing Center](https://github.com/innogames/JMeter-Control-Center) - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
+
 ## CI
 
 ### Tools & Plugins
