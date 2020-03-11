@@ -114,6 +114,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### Other
 
 - [JMeter Load Testing Center](https://github.com/innogames/JMeter-Control-Center) - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
+- [Performance testing framework](https://github.com/serputko/performance-testing-framework) - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 
 ## CI
 
