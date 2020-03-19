@@ -252,6 +252,9 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - HLS JMeter Plugin: [guide v.1](https://www.blazemeter.com/blog/the-new-hls-plugin-for-jmeter-the-complete-guide/), [guide v.2](https://www.blazemeter.com/blog/Introducing-the-HLS-Plugin-2.0/), [sources](https://github.com/Blazemeter/HLSPlugin)
 - Load testing for HLS & MPEG-DASH: [Release 3.0](https://github.com/Blazemeter/HLSPlugin/releases/tag/v3.0), [guide](https://www.blazemeter.com/blog/HLS-3.0-Release/)
 
+### Siebel CRM
+- Load testing for Siebel CRM Correlation's Recorder: [Pre-release](https://github.com/Blazemeter/SiebelPlugin/releases/tag/v0.1.0-beta), [guide](https://www.blazemeter.com/blog/introducing-the-siebel-crm-correlation-plugin-on-jmeter/)
+
 ### Mobile Apps
 
 - [Record iOS application HTTP requests](http://www.testautomationguru.com/jmeter-record-ios-application-http-requests/)
