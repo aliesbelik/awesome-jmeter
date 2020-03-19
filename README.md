@@ -250,6 +250,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [HLS vs. RTMP Live Streaming Load Testing with JMeter](https://www.blazemeter.com/blog/hls-vs-rtmp-live-streaming-load-testing-with-jmeter/)
 - [Load testing HLS with Ruby JMeter](https://flood.io/blog/load-testing-hls-with-ruby-jmeter)
 - HLS JMeter Plugin: [guide v.1](https://www.blazemeter.com/blog/the-new-hls-plugin-for-jmeter-the-complete-guide/), [guide v.2](https://www.blazemeter.com/blog/Introducing-the-HLS-Plugin-2.0/), [sources](https://github.com/Blazemeter/HLSPlugin)
+- Load testing for HLS & MPEG-DASH: [Release 3.0](https://github.com/Blazemeter/HLSPlugin/releases/tag/v3.0), [guide](https://www.blazemeter.com/blog/HLS-3.0-Release/)
 
 ### Mobile Apps
 
