@@ -26,6 +26,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Performance Testing](#performance-testing)
   - [Streaming Protocols](#streaming-protocols)
   - [Mobile Apps](#mobile-apps)
+  - [Correlation](#correlation)
 - [APM Integration](#apm-integration)
 - [Plugins](#plugins)
 - [Extending JMeter](#extending-jmeter)
@@ -244,22 +245,19 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 - [Easy and realistic Load Testing of HTTP Live Streaming (HLS) with Apache JMeter](https://www.ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
 - [Using JMeter to Load Test Live HLS Concurrency of Wowza Streaming Engine](https://www.realeyes.com/blog/wowza-streaming/)
-- [How to Load Test HTTP Live Media Streaming (HLS) with JMeter](https://www.blazemeter.com/blog/how-load-test-http-live-media-streaming-hls-jmeter/)
-- [Monitoring UX Metrics in HLS Load Testing in JMeter](https://www.blazemeter.com/blog/monitoring-ux-metrics-in-hls-load-testing-in-jmeter/)
-- [How to Load Test RTMPT Live Media Streaming with JMeter](https://www.blazemeter.com/blog/how-load-test-rtmpt-live-media-streaming-jmeter/)
-- [HLS vs. RTMP Live Streaming Load Testing with JMeter](https://www.blazemeter.com/blog/hls-vs-rtmp-live-streaming-load-testing-with-jmeter/)
 - [Load testing HLS with Ruby JMeter](https://flood.io/blog/load-testing-hls-with-ruby-jmeter)
-- HLS JMeter Plugin: [guide v.1](https://www.blazemeter.com/blog/the-new-hls-plugin-for-jmeter-the-complete-guide/), [guide v.2](https://www.blazemeter.com/blog/Introducing-the-HLS-Plugin-2.0/), [sources](https://github.com/Blazemeter/HLSPlugin)
-- Load testing for HLS & MPEG-DASH: [Release 3.0](https://github.com/Blazemeter/HLSPlugin/releases/tag/v3.0), [guide](https://www.blazemeter.com/blog/HLS-3.0-Release/)
-
-### Siebel CRM
-- Load testing for Siebel CRM Correlation's Recorder: [Pre-release](https://github.com/Blazemeter/SiebelPlugin/releases/tag/v0.1.0-beta), [guide](https://www.blazemeter.com/blog/introducing-the-siebel-crm-correlation-plugin-on-jmeter/)
+- [Media Live Streaming Load Testing with JMeter](https://www.blazemeter.com/live-streaming/) - Collection of articles by BlazeMeter ([HLS](https://www.blazemeter.com/hls/), [RTMP](https://www.blazemeter.com/rtmp/), WS, podcasts, etc.).
+- [HLS JMeter Plugin](https://github.com/Blazemeter/HLSPlugin)
 
 ### Mobile Apps
 
 - [Record iOS application HTTP requests](http://www.testautomationguru.com/jmeter-record-ios-application-http-requests/)
 - [Load Testing Mobile Apps Made Easy](https://www.blazemeter.com/blog/load-testing-mobile-apps-made-easy/)
 - [Performance Testing for Native Mobile Apps](https://www.blazemeter.com/blog/view-webcast-performance-testing-native-mobile-apps/)
+
+### Correlation
+
+- [Siebel CRM JMeter plugin](https://github.com/Blazemeter/SiebelPlugin)
 
 ## APM Integration
 
