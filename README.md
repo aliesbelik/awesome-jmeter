@@ -125,7 +125,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
 - [Jenkins Performance Plugin](https://plugins.jenkins.io/performance/) - Jenkins plugin to capture reports from JMeter and generate graphic charts with the trend report of performance and robustness.
 - [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin) - TeamCity plugin to organize simplest performance testing in CI *(no updates more)*.
-- Bamboo JMeter Aggregator Plugin: [documentation](https://marketplace.atlassian.com/apps/5902/jmeter-aggregator-for-bamboo), [sources](https://bitbucket.org/atlassian/bamboo-jmeter-plugin) - Bamboo plugin to collect, assert and graph JMeter test results.
+- [Bamboo JMeter Aggregator Plugin](https://marketplace.atlassian.com/apps/5902/jmeter-aggregator-for-bamboo) - Bamboo plugin to collect, assert and graph JMeter test results.
 - [Sonar JMeter Plugin](https://github.com/SonarQubeCommunity/sonar-jmeter) - Plugin to collect JMeter performance tests results and display in Sonar dashboard *(deprecated)*.
 - [Lightning](https://automatictester.github.io/lightning/) - Framework to integrate JMeter non-functional tests with CI/CD server.
 - [Taurus](https://gettaurus.org/docs/JMeter/) - JMeter Executor in Taurus automation framework.
@@ -329,9 +329,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 - [JMeter: Performance and Load Testing](https://www.linkedin.com/learning/jmeter-performance-and-load-testing) - By LinkedIn Learning.
 - [JMeter Training Courses](https://www.nobleprog.co.uk/jmeter-training) - By NobleProg.
-- [JMeter Training Course](https://info.blazemeter.com/jmeter-training-course) - By BlazeMeter.
-- [JMeter Training Academy](https://www.blazemeter.com/university/) - By BlazeMeter.
-- [JMeter Courses collection](https://www.udemy.com/courses/search/?q=jmeter) - By Udemy.
+- [BlazeMeter University](https://www.blazemeter.com/university/) - By BlazeMeter.
+- [JMeter Courses collection](https://www.udemy.com/topic/jmeter/) - By Udemy.
 - [JMeter Training Course](http://www.absofttrainings.com/jmeter-training-course-and-tutorials/) - By ABSoft Trainings.
 - [Web Applications (and Mobile Apps) Performance Testing with JMeter](http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/) - By Pragmatic Test Labs.
 - [Training courses on Load Testing with Apache JMeter](https://www.ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) - By Ubik Ingenierie.
