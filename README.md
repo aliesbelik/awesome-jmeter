@@ -257,7 +257,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Correlation
 
-- [Siebel CRM JMeter plugin](https://github.com/Blazemeter/SiebelPlugin)
+- [Correlation Recorder plugin](https://github.com/Blazemeter/CorrelationRecorder) - JMeter plugin that simplifies the process of recording for applications with Dynamic Variables by providing automatic correlations of variables at recording time.
+- [Siebel CRM plugin](https://github.com/Blazemeter/SiebelPlugin) - JMeter plugin to simplify the scripting of Siebel CRM applications by providing automatic correlations of variables at recording time *(deprecated)*.
 
 ## APM Integration
 
