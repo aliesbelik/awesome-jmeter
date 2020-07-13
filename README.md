@@ -79,7 +79,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter Tutorial for Load Testing: The Ultimate Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
 - [RESTful API testing with JMeter](https://www.ibm.com/developerworks/cloud/library/cl-jmeter-restful/)
 - [How to Hit Your RESTful Web Service Using JMeter](https://crunchify.com/how-to-hit-your-restful-web-service-using-jmeter-perform-a-simple-load-test/)
-- [JMeter: Load Development LifeCycle](https://gerardnico.com/jmeter/lifecycle)
+- [JMeter: Load Development LifeCycle](https://datacadamia.com/jmeter/lifecycle)
 - [Load Testing with Apache JMeter](https://www.digitalocean.com/community/tutorial_series/load-testing-with-apache-jmeter)
 - [JMeter Tutorial](https://www.guru99.com/jmeter-tutorials.html) - By Guru99.
 - [JMeter Series](http://blog.sourcepole.com/2011/01/04/jmeter-series/)
