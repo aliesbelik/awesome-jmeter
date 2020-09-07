@@ -15,6 +15,7 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 - [Anthony Gauthier](https://github.com/delirius325)
 - [Jérome Loisel](https://github.com/jloisel)
 - [Philippe Mouawad](https://github.com/pmouawad)
+- [Luděk Nový](https://github.com/ludeknovy)
 - [Ireneusz Pastusiak](https://github.com/automatictester)
 - [Ricardo Poleo](https://github.com/RicardoPoleo)
 - [Federico Toledo](https://github.com/fltoledo)
