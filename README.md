@@ -32,6 +32,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Performance Testing](#performance-testing)
   - [Streaming Protocols](#streaming-protocols)
   - [Mobile Apps](#mobile-apps)
+  - [Mainframe Environments](#mainframe-environments)
   - [Correlation](#correlation)
 - [APM Integration](#apm-integration)
 - [Plugins](#plugins)
@@ -263,11 +264,15 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Load Testing Mobile Apps Made Easy](https://www.blazemeter.com/blog/load-testing-mobile-apps-made-easy/)
 - [Performance Testing for Native Mobile Apps](https://www.blazemeter.com/blog/view-webcast-performance-testing-native-mobile-apps/)
 
+### Mainframe Environments
+
+- [JMeter RTE Plugin](https://github.com/Blazemeter/RTEPlugin) - JMeter RTE (Remote Terminal Emulator protocol) plugin for testing Mainframe applications.
+
 ### Correlation
 
-- [Correlation Recorder plugin](https://github.com/Blazemeter/CorrelationRecorder) - JMeter plugin that simplifies the process of recording for applications with Dynamic Variables by providing automatic correlations of variables at recording time.
-- [Siebel CRM plugin](https://github.com/Blazemeter/SiebelPlugin) - JMeter plugin to simplify the scripting of Siebel CRM applications by providing automatic correlations of variables at recording time *(deprecated)*.
-- [ULP Auto-correlator plugin](https://www.ubik-ingenierie.com/blog/ubikloadpack-autocorrelator-plugin-help/) - Commercial plugin for Oracle and Vaadin-based applications from [Ubik Load Pack](#plugins).
+- [Correlation Recorder Plugin](https://github.com/Blazemeter/CorrelationRecorder) - JMeter plugin that simplifies the process of recording for applications with Dynamic Variables by providing automatic correlations of variables at recording time.
+- [Siebel CRM Plugin](https://github.com/Blazemeter/SiebelPlugin) - JMeter plugin to simplify the scripting of Siebel CRM applications by providing automatic correlations of variables at recording time *(deprecated)*.
+- [ULP Auto-correlator Plugin](https://www.ubik-ingenierie.com/blog/ubikloadpack-autocorrelator-plugin-help/) - Commercial plugin for Oracle and Vaadin-based applications from [Ubik Load Pack](#plugins).
 
 ## APM Integration
 
