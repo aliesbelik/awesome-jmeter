@@ -1,25 +1,38 @@
 {
-  "name": "awesome-jmeter",
-  "description": "A curated collection of resources covering Apache JMeter and related stuff and shiny things.",
-  "author": "Aliaksandr Belik",
-  "license": "CC-BY-4.0",
-  "scripts": {
-    "test": "awesome-lint"
-  },
-  "devDependencies": {
-    "awesome-lint": "*"
-  },
-  "keywords": [
-    "awesome",
-    "awesome-list",
-    "awesome-jmeter",
-    "jmeter",
-    "jmeter-plugin",
-    "load-testing",
-    "performance-testing"
-  ],
-  "bugs": {
-    "url": "https://github.com/aliesbelik/awesome-jmeter/issues"
-  },
-  "homepage": "https://github.com/aliesbelik/awesome-jmeter#readme"
+    "name": "awesome-jmeter",
+    "description": "A curated collection of resources covering Apache JMeter and related stuff and shiny things.",
+    "license": "CC-BY-4.0",
+    "version": "0.0.1",
+    "homepage": "https://aliesbelik.github.io/awesome-jmeter/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aliesbelik/awesome-jmeter.git"
+    },
+    "bugs": {
+        "url": "https://github.com/aliesbelik/awesome-jmeter/issues"
+    },
+    "author": {
+        "name": "Aliaksandr Belik",
+        "email": "alies.belik@gmail.com",
+        "url": "http://aliesbelik.github.io/"
+    },
+    "scripts": {
+        "test": "awesome-lint"
+    },
+    "devDependencies": {
+        "awesome-lint": "^0.15.2"
+    },
+    "dependencies": {
+        "remark-lint": "^7.0.1",
+        "remark-lint-double-link": "^0.1.3"
+    },
+    "keywords": [
+        "awesome",
+        "awesome-list",
+        "awesome-jmeter",
+        "jmeter",
+        "jmeter-plugin",
+        "load-testing",
+        "performance-testing"
+    ]
 }
