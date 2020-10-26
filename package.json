@@ -20,7 +20,7 @@
         "test": "awesome-lint"
     },
     "devDependencies": {
-        "awesome-lint": "^0.15.2"
+        "awesome-lint": "*"
     },
     "dependencies": {
         "remark-lint": "^7.0.1",

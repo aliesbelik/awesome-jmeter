@@ -193,7 +193,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 - [CA BlazeMeter](https://www.blazemeter.com/) - Performance engineering platform with JMeter and Selenium support.
 - [OctoPerf](https://octoperf.com/) - Saas and On-Premise Load Testing Tool with JMeter and Selenium support.
-- [Tricentis Flood](https://flood.io/) - Load testing service with JMeter, Gatling and Selenium scenarios support.
+- [Tricentis Flood](https://www.flood.io/) - Load testing service with JMeter, Gatling and Selenium scenarios support.
 - [RedLine13](https://redline13.com/) - AWS-based load testing service with JMeter, Gatling and Selenium scenarios support.
 - [LoadRunner Cloud](https://www.microfocus.com/en-us/products/loadrunner-cloud/overview) - Micro Focus cloud-based solution for web and mobile performance testing with JMeter and Gatling support (formerly HP StormRunner Load).
 - [Loadster](https://loadster.app/) - Solution for distributes load testing of web applications and services.
@@ -216,6 +216,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - DB Results Collectors
   - [JMeter DBCollector Plugin](https://sourceforge.net/projects/jmeterdbcollect/) - Plugin to enable results logging into a database for more effective reporting.
   - [JMeter MySQLCollector Plugin](https://cwiki.apache.org/confluence/display/jmeter/MysqlCollectorPlugin) - Patch to configure listener to log into MySQL database.
+- [JMeter SLA Report](https://github.com/sgoeschl/jmeter-sla-report) - JMeter HTML report generator based on JAMon.
 
 ### Results Visualisation
 
@@ -255,7 +256,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 - [Easy and realistic Load Testing of HTTP Live Streaming (HLS) with Apache JMeter](https://www.ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
 - [Using JMeter to Load Test Live HLS Concurrency of Wowza Streaming Engine](https://www.realeyes.com/blog/wowza-streaming/)
-- [Load testing HLS with Ruby JMeter](https://flood.io/blog/load-testing-hls-with-ruby-jmeter)
+- [Load testing HLS with Ruby JMeter](https://www.flood.io/blog/load-testing-hls-with-ruby-jmeter)
 - [Media Live Streaming Load Testing with JMeter](https://www.blazemeter.com/live-streaming/) - Collection of articles by BlazeMeter ([HLS](https://www.blazemeter.com/hls/), [RTMP](https://www.blazemeter.com/rtmp/), WS, podcasts, etc.).
 - [HLS JMeter Plugin](https://github.com/Blazemeter/HLSPlugin)
 
@@ -360,7 +361,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Ubik Load Pack Blog](https://www.ubik-ingenierie.com/blog/category/jmeter/) - Ubik Ingenierie blog.
 - [TestAutomationGuru Blog](http://www.testautomationguru.com/category/jmeter/) - Technical blog on test automation.
 - [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) - JMeter articles in RedLine13 blog.
-- [Flood.io Blog](https://flood.io/blog) - Load testing thoughts, stories and ideas from Flood IO.
+- [Flood.io Blog](https://www.flood.io/blog) - Load testing thoughts, stories and ideas from Flood IO.
 - [JMeter Blog](https://shantonusarker.blogspot.com/p/jmeter.html) - Another blog for performance & automation testing using JMeter.
 - [OctoPerf Blog](https://octoperf.com/categories/jmeter/) - OctoPerf blog about JMeter and load testing.
 - [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
@@ -391,7 +392,6 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 - [JMeter @ Stack Overflow](https://stackoverflow.com/questions/tagged/jmeter)
 - [JMeter Slack workspace](https://jmeterusers.slack.com/)
-- [JMeter Spectrum community](https://spectrum.chat/jmeter)
 - [JMeter @ gitter](https://gitter.im/aliesbelik/jmeter-chat)
 
 ## Related
@@ -415,7 +415,5 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 Contributions are welcome!<br>
 Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
-
-## License
 
 <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by/4.0/88x31.png" /></a>
