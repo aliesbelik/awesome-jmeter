@@ -90,7 +90,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Load Testing with Apache JMeter](https://www.digitalocean.com/community/tutorial_series/load-testing-with-apache-jmeter)
 - [JMeter Tutorial](https://www.guru99.com/jmeter-tutorials.html) - By Guru99.
 - [JMeter Series](http://blog.sourcepole.com/2011/01/04/jmeter-series/)
-- [JMeter and Chaos Engineering](https://www.gremlin.com/community/tutorials/launch-and-halt-gremlin-chaos-engineering-attacks-and-load-testing-from-jmeter/) - Launch Chaos Engineering experiments from JMeter
+- [JMeter and Chaos Engineering](https://www.gremlin.com/community/tutorials/launch-and-halt-gremlin-chaos-engineering-attacks-and-load-testing-from-jmeter/) - Launch Chaos Engineering experiments from JMeter.
 
 ## Best Practices
 
