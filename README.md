@@ -80,7 +80,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - [part 1](https://lincolnloop.com/blog/2011/sep/21/load-testing-jmeter-part-1-getting-started/) - Getting started.
   - [part 2](https://lincolnloop.com/blog/2011/oct/12/load-testing-jmeter-part-2-headless-testing-and-je/) - Headless testing and Jenkins integration.
   - [part 3](https://lincolnloop.com/blog/2012/sep/19/load-testing-jmeter-part-3-replaying-apache-logs/) - Replaying Apache logs.
-- [JMeter Resources](https://resources.infosecinstitute.com/search/?s=jmeter)
+- [JMeter Resources](https://resources.infosecinstitute.com/topic/apache-jmeter-part-1/)
 - [Functional Testing with JMeter](https://hub.packtpub.com/functional-testing-jmeter/)
 - [JMeter Tutorial](https://www.tutorialspoint.com/jmeter/)
 - [JMeter Tutorial for Load Testing: The Ultimate Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
