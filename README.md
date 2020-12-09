@@ -1,15 +1,21 @@
+<!--lint ignore double-link-->
 # Awesome JMeter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<!--lint ignore double-link-->
 A curated collection of resources covering [Apache JMeter](https://jmeter.apache.org/) and related stuff and shiny things: plugins, integrations, testing techniques, devops practicies, etc.
 
+<!--lint ignore double-link-->
 [<img src="assets/images/jmeter-logo.svg" align="right" width="260" alt="Apache JMeter">](https://jmeter.apache.org/)
 
-> The [Apache JMeter](https://jmeter.apache.org/) is open source, pure Java application designed to load test functional behavior and measure performance.
+<!--lint ignore double-link-->
+> [Apache JMeter](https://jmeter.apache.org/) is open source, pure Java application designed to load test functional behavior and measure performance.
 
+<!--lint ignore double-link-->
 This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://awesome.re) project and improved by these [amazing contributors](CONTRIBUTORS.md).
 
 ## Contents
 
+<!--lint ignore double-link-->
 - [Official Resources](#official-resources)
 - [Distributions](#distributions)
 - [Getting Started](#getting-started)
@@ -54,6 +60,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ## Official Resources
 
+<!--lint ignore double-link-->
 - [Apache JMeter Project](https://jmeter.apache.org/) - Apache JMeter official website.
 - [GitHub Repository](https://github.com/apache/jmeter) - Apache JMeter source code repository.
 - [JMeter Wiki](https://cwiki.apache.org/confluence/display/jmeter) - Apache JMeter official documentation.
@@ -273,6 +280,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Correlation
 
+<!--lint ignore double-link-->
 - [Correlation Recorder Plugin](https://github.com/Blazemeter/CorrelationRecorder) - JMeter plugin that simplifies the process of recording for applications with Dynamic Variables by providing automatic correlations of variables at recording time.
 - [Siebel CRM Plugin](https://github.com/Blazemeter/SiebelPlugin) - JMeter plugin to simplify the scripting of Siebel CRM applications by providing automatic correlations of variables at recording time *(deprecated)*.
 - [ULP Auto-correlator Plugin](https://www.ubik-ingenierie.com/blog/ubikloadpack-autocorrelator-plugin-help/) - Commercial plugin for Oracle and Vaadin-based applications from [Ubik Load Pack](#plugins).
@@ -281,6 +289,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 *Integration with Application Performance Monitoring (APM) tools to analyze the performance of application servers, database servers, and web services.*
 
+<!--lint ignore double-link-->
 - [Servers Performance Monitoring Plugin](https://jmeter-plugins.org/wiki/PerfMon/) - Server monitoring plugin from [JMeter Plugins](#plugins) project.
 - [CA App Synthetic Monitor](https://asm.ca.com/en/feature/transaction-monitoring-web-application-testing.html) - Transaction monitoring & testing solution with JMeter support.
 - Dynatrace
@@ -315,6 +324,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 *Alternative editors for JMX files, in addition to standard JMeter GUI and XML editors.*
 
+<!--lint ignore double-link-->
 - [BlocklyJMX Editor](https://jmeter-plugins.org/editor/) - A Web-based viewer and editor for JMeter test plan files (part of [JMeter Plugins](#plugins) project).
 - [JMX Enhancer](https://www.jmxenhancer.com/) - A solution to expedite preparation of JMeter test plans.
 - [jmx.js](http://www.vinodkd.org/jmx.js/) - Web-based editor for JMeter JMX files *(no updates more)*.
@@ -330,6 +340,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter tips](http://www.webwob.com/html/jmeter_tips.html) - JMeter tips and tricks scratchpad.
 
 ## Books
+
 <!--lint ignore double-link-->
 - [Apache JMeter: A Practical Beginner's Guide to Automated Testing and Performance Measurement for Your Websites](https://books.google.com/books?id=nX8oKIEvUcYC) - By Emily H. Halili ([Packt Publishing](https://www.packtpub.com/product/apache-jmeter/9781847192950)).
 - [Performance Testing with JMeter 2.9](https://books.google.com/books?id=fpWmv3wPT64C) - By Bayo Erinle ([Packt Publishing](https://www.packtpub.com/product/performance-testing-with-jmeter-2-9/9781782165842)); guide to test web applications using Apache JMeter with practical, hands-on examples.
@@ -370,6 +381,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert blog *(no updates more)*.
 
 ### Forums
+
 <!--lint ignore double-link-->
 - [JMeter Google Group](https://groups.google.com/forum/#!forum/ptgram24)
 - [JMeterPlugins Google Group](https://groups.google.com/forum/#!forum/jmeter-plugins)
@@ -383,6 +395,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Twitter
 
+<!--lint ignore double-link-->
 - [@ApacheJMeter](https://twitter.com/apachejmeter) - Official Twitter account of the Apache JMeter load testing tool.
 - [@jmeter_plugins](https://twitter.com/jmeter_plugins) - Twitter account of custom plugins project for JMeter load testing tool.
 - [@BlazeMeter](https://twitter.com/BlazeMeter) - Official Twitter account of Blazemeter, performance engineering platform for DevOps, based on JMeter.
