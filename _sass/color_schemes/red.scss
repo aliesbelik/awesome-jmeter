@@ -1,0 +1,27 @@
+/* Typography ______________________________ */
+
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans|Fira+Mono&display=swap);
+
+$body-font-family: "Fira Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+  Roboto, "Helvetica Neue", Arial, sans-serif;
+$mono-font-family: "Fira Mono", "SFMono-Regular", Menlo, Consolas, Monospace;
+//$root-font-size: 16px;         // Base font-size for rems
+//$body-line-height: 1.4;
+//$content-line-height: 1.5;
+//$body-heading-line-height: 1.15;
+
+/* Colors __________________________________ */
+
+//$red-000: #f77e7e;
+//$red-100: #f96e65;
+//$red-200: #e94c4c;
+//$red-300: #dd2e2e;
+
+$sidebar-color: $grey-lt-000;
+
+$link-color: $red-300;
+
+/* Grid system _____________________________ */
+
+$nav-width: 280px;
+$nav-width-md: 280px;

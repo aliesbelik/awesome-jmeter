@@ -1,4 +1,3 @@
-<!--lint ignore double-link-->
 # Awesome JMeter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!--lint ignore double-link-->
