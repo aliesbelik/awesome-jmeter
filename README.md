@@ -38,12 +38,13 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - [Streaming Protocols](#streaming-protocols)
   - [Mobile Apps](#mobile-apps)
   - [Mainframe Environments](#mainframe-environments)
+- [Tools](#tools)
+  - [Plugins](#plugins)
   - [Correlation](#correlation)
+  - [Extending JMeter](#extending-jmeter)
+  - [IDE Integration](#ide-integration)
+  - [Editors](#editors)
 - [APM Integration](#apm-integration)
-- [Plugins](#plugins)
-- [Extending JMeter](#extending-jmeter)
-- [IDE Integration](#ide-integration)
-- [Editors](#editors)
 - [JMeter Performance](#jmeter-performance)
 - [Tips & Tricks](#tips--tricks)
 - [Books](#books)
@@ -277,12 +278,45 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 - [JMeter RTE Plugin](https://github.com/Blazemeter/RTEPlugin) - JMeter RTE (Remote Terminal Emulator protocol) plugin for testing Mainframe applications.
 
+## Tools
+
+### Plugins
+
+- [JMeter Plugins list](https://docs.google.com/spreadsheets/d/1FYMw3zCMr2Y37QCG_vOyC3HyrLxxi7x5I3khWLj3isU/) - List of available plugins and extensions.
+- [JMeter Plugins](https://jmeter-plugins.org/) - Independent set of plugins for Apache JMeter, with plugin manager references many plugins and simplifies installation.
+- [Ubik Load Pack](https://ubikloadpack.com/) - Productivity extensions for Apache JMeter.
+
 ### Correlation
 
 <!--lint ignore double-link-->
 - [Correlation Recorder Plugin](https://github.com/Blazemeter/CorrelationRecorder) - JMeter plugin that simplifies the process of recording for applications with Dynamic Variables by providing automatic correlations of variables at recording time.
 - [Siebel CRM Plugin](https://github.com/Blazemeter/SiebelPlugin) - JMeter plugin to simplify the scripting of Siebel CRM applications by providing automatic correlations of variables at recording time *(deprecated)*.
 - [ULP Auto-correlator Plugin](https://www.ubik-ingenierie.com/blog/ubikloadpack-autocorrelator-plugin-help/) - Commercial plugin for Oracle and Vaadin-based applications from [Ubik Load Pack](#plugins).
+
+### Extending JMeter
+
+- [JMeter Developer Manual](https://cwiki.apache.org/confluence/display/jmeter/DeveloperManual)
+- [How to write a plugin for JMeter](https://jmeter.apache.org/usermanual/jmeter_tutorial.html)
+- [How to build a JMeter plugin utilising groovy](https://web.archive.org/web/20180225144718/http://artur.ejsmont.org/blog/content/how-to-build-a-jmeter-plugin-utilising-groovy)
+- [How to create a plugin in JMeter](https://stackoverflow.com/questions/20422640/how-to-create-a-plugin-in-jmeter)
+- [Custom JMeter Samplers and Config Elements](http://codyaray.com/2014/07/custom-jmeter-samplers-and-config-elements)
+- [Implement Custom JMeter Samplers](https://dzone.com/articles/implement-custom-jmeter-samplers)
+
+### IDE Integration
+
+- [Intellij IDEA IDE Plugin](https://plugins.jetbrains.com/plugin/7013-jmeter-plugin) - Create run configurations and run JMeter tests from Intellij IDEA.
+- [JMeter + Eclipse HOWTO](https://cwiki.apache.org/confluence/display/jmeter/JMeterAndEclipseHowTo) - Develop the JMeter project with Eclipse IDE.
+- [NetBeans JMeter Kit](http://plugins.netbeans.org/plugin/49923/jmeter) - JMeter integration module for NetBeans IDE.
+- [Using a Load Generator in NetBeans IDE](https://netbeans.org/kb/docs/java/profile-loadgenerator.html)
+
+### Editors
+
+*Alternative editors for JMX files, in addition to standard JMeter GUI and XML editors.*
+
+<!--lint ignore double-link-->
+- [BlocklyJMX Editor](https://jmeter-plugins.org/editor/) - A Web-based viewer and editor for JMeter test plan files (part of [JMeter Plugins](#plugins) project).
+- [JMX Enhancer](https://www.jmxenhancer.com/) - A solution to expedite preparation of JMeter test plans.
+- [jmx.js](http://www.vinodkd.org/jmx.js/) - Web-based editor for JMeter JMX files *(no updates more)*.
 
 ## APM Integration
 
@@ -296,37 +330,6 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - [Integrate web API performance monitoring in JMeter](https://www.dynatrace.com/support/doc/appmon/continuous-delivery-test-automation/test-automation-tutorials/integrate-web-api-performance-monitoring-in-jmeter/)
 - [JMeter integration with AppDynamics](https://docplayer.net/62851982-Jmeter-integration-with-appdynamics.html) - APM & EUM solution with JMeter integration.
 - Performance Remediation using New Relic and JMeter: [part 1](https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-1-3/), [part 2](https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-2-3/)
-
-## Plugins
-
-- [JMeter Plugins list](https://docs.google.com/spreadsheets/d/1FYMw3zCMr2Y37QCG_vOyC3HyrLxxi7x5I3khWLj3isU/) - List of available plugins and extensions.
-- [JMeter Plugins](https://jmeter-plugins.org/) - Independent set of plugins for Apache JMeter, with plugin manager references many plugins and simplifies installation.
-- [Ubik Load Pack](https://ubikloadpack.com/) - Productivity extensions for Apache JMeter.
-
-## Extending JMeter
-
-- [JMeter Developer Manual](https://cwiki.apache.org/confluence/display/jmeter/DeveloperManual)
-- [How to write a plugin for JMeter](https://jmeter.apache.org/usermanual/jmeter_tutorial.html)
-- [How to build a JMeter plugin utilising groovy](https://web.archive.org/web/20180225144718/http://artur.ejsmont.org/blog/content/how-to-build-a-jmeter-plugin-utilising-groovy)
-- [How to create a plugin in JMeter](https://stackoverflow.com/questions/20422640/how-to-create-a-plugin-in-jmeter)
-- [Custom JMeter Samplers and Config Elements](http://codyaray.com/2014/07/custom-jmeter-samplers-and-config-elements)
-- [Implement Custom JMeter Samplers](https://dzone.com/articles/implement-custom-jmeter-samplers)
-
-## IDE Integration
-
-- [Intellij IDEA IDE Plugin](https://plugins.jetbrains.com/plugin/7013-jmeter-plugin) - Create run configurations and run JMeter tests from Intellij IDEA.
-- [JMeter + Eclipse HOWTO](https://cwiki.apache.org/confluence/display/jmeter/JMeterAndEclipseHowTo) - Develop the JMeter project with Eclipse IDE.
-- [NetBeans JMeter Kit](http://plugins.netbeans.org/plugin/49923/jmeter) - JMeter integration module for NetBeans IDE.
-- [Using a Load Generator in NetBeans IDE](https://netbeans.org/kb/docs/java/profile-loadgenerator.html)
-
-## Editors
-
-*Alternative editors for JMX files, in addition to standard JMeter GUI and XML editors.*
-
-<!--lint ignore double-link-->
-- [BlocklyJMX Editor](https://jmeter-plugins.org/editor/) - A Web-based viewer and editor for JMeter test plan files (part of [JMeter Plugins](#plugins) project).
-- [JMX Enhancer](https://www.jmxenhancer.com/) - A solution to expedite preparation of JMeter test plans.
-- [jmx.js](http://www.vinodkd.org/jmx.js/) - Web-based editor for JMeter JMX files *(no updates more)*.
 
 ## JMeter Performance
 
@@ -403,9 +406,9 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Q&A
 
-- [JMeter @ Stack Overflow](https://stackoverflow.com/questions/tagged/jmeter)
-- [JMeter Slack workspace](https://jmeterusers.slack.com/)
-- [JMeter @ gitter](https://gitter.im/aliesbelik/jmeter-chat)
+- [`jmeter` on Stack Overflow](https://stackoverflow.com/questions/tagged/jmeter)
+- [`jmeter` on Gitter](https://gitter.im/aliesbelik/jmeter-chat)
+- [`#jmeter` on Slack](https://jmeterusers.slack.com/)
 
 ## Related
 
