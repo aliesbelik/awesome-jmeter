@@ -281,8 +281,9 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### RPC Frameworks
 
-- [JMeter gRPC Plugin](https://github.com/zalopay-oss/jmeter-grpc-plugin) - A JMeter plugin supports load test gRPC.
+- [JMeter gRPC Plugin](https://github.com/zalopay-oss/jmeter-grpc-plugin) - JMeter plugin supports load test gRPC.
 - [JMeter gRPC Request](https://github.com/zalopay-oss/jmeter-grpc-request) - JMeter gRPC Request load test plugin.
+- [JMeter Dubbo Plugin](https://github.com/thubbo/jmeter-plugins-for-apache-dubbo) - JMeter plugin for Apache Dubbo.
 
 ## Tools
 
