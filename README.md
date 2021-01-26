@@ -38,6 +38,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - [Streaming Protocols](#streaming-protocols)
   - [Mobile Apps](#mobile-apps)
   - [Mainframe Environments](#mainframe-environments)
+  - [RPC Frameworks](#rpc-frameworks)
 - [Tools](#tools)
   - [Plugins](#plugins)
   - [Correlation](#correlation)
@@ -277,6 +278,11 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### Mainframe Environments
 
 - [JMeter RTE Plugin](https://github.com/Blazemeter/RTEPlugin) - JMeter RTE (Remote Terminal Emulator protocol) plugin for testing Mainframe applications.
+
+### RPC Frameworks
+
+- [JMeter gRPC Plugin](https://github.com/zalopay-oss/jmeter-grpc-plugin) - A JMeter plugin supports load test gRPC.
+- [JMeter gRPC Request](https://github.com/zalopay-oss/jmeter-grpc-request) - JMeter gRPC Request load test plugin.
 
 ## Tools
 
