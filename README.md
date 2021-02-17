@@ -110,7 +110,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 - [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance/) - Most popular scripting mechanisms performance comparison.
 - [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) - Using JMeter and Groovy for load testing.
-- [JMeter: забудьте про BeanShell Sampler](https://habr.com/ru/post/250731/) - JMeter: forget about BeanShell Sampler. :ru:
+- [JMeter: забудьте про BeanShell Sampler](https://habr.com/ru/post/250731/) - JMeter: forget about BeanShell Sampler 🇷🇺.
 
 ## Automation
 
@@ -142,9 +142,9 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
 - [JMeter Gradle Plugin](https://github.com/jmeter-gradle-plugin/jmeter-gradle-plugin) - Gradle plugin to execute JMeter tests.
 - [Jenkins Performance Plugin](https://plugins.jenkins.io/performance/) - Jenkins plugin to capture reports from JMeter and generate graphic charts with the trend report of performance and robustness.
-- [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin) - TeamCity plugin to organize simplest performance testing in CI. :skull:
+- [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin) - TeamCity plugin to organize simplest performance testing in CI 💀.
 - [Bamboo JMeter Aggregator Plugin](https://marketplace.atlassian.com/apps/5902/jmeter-aggregator-for-bamboo) - Bamboo plugin to collect, assert and graph JMeter test results.
-- [Sonar JMeter Plugin](https://github.com/SonarQubeCommunity/sonar-jmeter) - Plugin to collect JMeter performance tests results and display in Sonar dashboard. :skull:
+- [Sonar JMeter Plugin](https://github.com/SonarQubeCommunity/sonar-jmeter) - Plugin to collect JMeter performance tests results and display in Sonar dashboard 💀.
 - [Lightning](https://automatictester.github.io/lightning/) - Framework to integrate JMeter non-functional tests with CI/CD server.
 - [Taurus JMeter Executor](https://gettaurus.org/docs/JMeter/) - JMeter Executor in Taurus automation framework.
 - [PerfAction for JMeter](https://github.com/marketplace/actions/perfaction-for-jmeter) - GitHub Action to run performance tests using Apache JMeter and its plugins.
@@ -298,7 +298,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 <!--lint ignore double-link-->
 - [Correlation Recorder Plugin](https://github.com/Blazemeter/CorrelationRecorder) - JMeter plugin that simplifies the process of recording for applications with Dynamic Variables by providing automatic correlations of variables at recording time.
-- [Siebel CRM Plugin](https://github.com/Blazemeter/SiebelPlugin) - JMeter plugin to simplify the scripting of Siebel CRM applications by providing automatic correlations of variables at recording time. :snowflake:
+- [Siebel CRM Plugin](https://github.com/Blazemeter/SiebelPlugin) - JMeter plugin to simplify the scripting of Siebel CRM applications by providing automatic correlations of variables at recording time ❄️.
 - [ULP Auto-correlator Plugin](https://www.ubik-ingenierie.com/blog/ubikloadpack-autocorrelator-plugin-help/) - Commercial plugin for Oracle and Vaadin-based applications from [Ubik Load Pack](#plugins).
 
 ### Extending JMeter
@@ -324,7 +324,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 <!--lint ignore double-link-->
 - [BlocklyJMX Editor](https://jmeter-plugins.org/editor/) - A Web-based viewer and editor for JMeter test plan files (part of [JMeter Plugins](#plugins) project).
 - [JMX Enhancer](https://www.jmxenhancer.com/) - A solution to expedite preparation of JMeter test plans.
-- [jmx.js](http://www.vinodkd.org/jmx.js/) - Web-based editor for JMeter JMX files. :skull:
+- [jmx.js](http://www.vinodkd.org/jmx.js/) - Web-based editor for JMeter JMX files 💀.
 
 ## APM Integration
 
@@ -361,7 +361,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter by Example](https://books.google.com/books?id=iWeJDAEACAAJ) - By Sai Matam and Jagdeep Jain ([Leanpub](https://leanpub.com/jmeterbyexample)); a simple, practical, step-by-step tutorial to measure the performance of websites.
 - [Pro Apache JMeter: Web Application Performance Testing](https://books.google.com/books?id=YJ4xDwAAQBAJ) - By Sai Matam and Jagdeep Jain ([Apress](https://www.apress.com/gp/book/9781484229606)).
 - [Master Apache JMeter: From load testing to DevOps](https://books.google.com/books?id=D_amDwAAQBAJ) - By Antonio Gomes Rodrigues, Bruno Demion (Milamber) and Philippe Mouawad ([Leanpub](https://leanpub.com/master-jmeter-from-load-test-to-devops), [Packt Publishing](https://www.packtpub.com/product/master-apache-jmeter-from-load-testing-to-devops/9781839217647)).
-- [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) - By Antonio Gomes Rodrigues, Bruno Demion (Milamber) and Philippe Mouawad ([Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops)). :fr:
+- [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) - By Antonio Gomes Rodrigues, Bruno Demion (Milamber) and Philippe Mouawad ([Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops)) 🇫🇷.
 - [Advanced JMeter Testing](https://leanpub.com/advanced_jmeter_testing) - By Penny Curich ([Leanpub](https://leanpub.com/advanced_jmeter_testing)), guide to write custom components for Apache JMeter 5.0.
 
 ## Trainings & Courses
@@ -381,7 +381,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 - [JMeter Tutorials](https://www.youtube.com/c/AutomationStepByStep/search?query=jmeter) - By Automation Step by Step.
 - [Learn Apache JMeter Series](https://www.youtube.com/playlist?list=PLJ9A48W0kpRIjLkZ32Do9yDZXnnm7_uj_) - By QAInsights.
-- [JMeter / Devops/ CI-CD / Cloud](https://www.youtube.com/c/xavki-linux/search?query=jmeter) - By xavki. :fr:
+- [JMeter / Devops/ CI-CD / Cloud](https://www.youtube.com/c/xavki-linux/search?query=jmeter) - By xavki 🇫🇷.
 
 ## Community
 
@@ -395,8 +395,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter Blog](https://shantonusarker.blogspot.com/p/jmeter.html) - Another blog for performance & automation testing using JMeter.
 - [OctoPerf Blog](https://octoperf.com/categories/jmeter/) - OctoPerf blog about JMeter and load testing.
 - [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
-- [JMeter Tips](http://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications. :skull:
-- [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert blog. :skull:
+- [JMeter Tips](http://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications 💀.
+- [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert blog 💀.
 
 ### Forums
 
@@ -404,8 +404,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter Google Group](https://groups.google.com/forum/#!forum/ptgram24)
 - [JMeterPlugins Google Group](https://groups.google.com/forum/#!forum/jmeter-plugins)
 - [JMeter Nabble Forum](http://www.jmeter-archive.org/)
-- [JMeter SQAforums](http://www.sqaforums.com/postlist.php?Cat=0&Board=UBB54) :skull:
-- [JMeter - Тестирование производительности](https://software-testing.ru/forum/index.php?/forum/206-jmeter-testirovanie-proizvoditelnosti/) - Discussion board by Software-Testing.ru. :ru:
+- [JMeter SQAforums](http://www.sqaforums.com/postlist.php?Cat=0&Board=UBB54) - 💀.
+- [JMeter - Тестирование производительности](https://software-testing.ru/forum/index.php?/forum/206-jmeter-testirovanie-proizvoditelnosti/) - Discussion board by Software-Testing.ru 🇷🇺.
 
 ### Twitter
 
