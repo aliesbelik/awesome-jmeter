@@ -50,6 +50,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Tips & Tricks](#tips--tricks)
 - [Books](#books)
 - [Trainings & Courses](#trainings--courses)
+- [Videos](#videos)
 - [Community](#community)
   - [Blogs](#blogs)
   - [Forums](#forums)
@@ -366,20 +367,22 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ## Trainings & Courses
 
-- [JMeter: Performance and Load Testing (Feb 2019, duration 32min)](https://www.linkedin.com/learning/jmeter-performance-and-load-testing) - By LinkedIn Learning.
-- [JMeter: Advanced JMeter (Jul 2020, duration 57min)](https://www.linkedin.com/learning/advanced-jmeter) - By LinkedIn Learning.
+- [JMeter: Performance and Load Testing (Feb 2019)](https://www.linkedin.com/learning/jmeter-performance-and-load-testing) - By LinkedIn Learning.
+- [Advanced JMeter (Jul 2020)](https://www.linkedin.com/learning/advanced-jmeter) - By LinkedIn Learning.
 - [JMeter Training Courses](https://www.nobleprog.co.uk/jmeter-training) - By NobleProg.
 - [BlazeMeter University](https://www.blazemeter.com/university/) - By BlazeMeter.
 - [JMeter Courses collection](https://www.udemy.com/topic/jmeter/) - By Udemy.
 - [JMeter Training Course](http://www.absofttrainings.com/jmeter-training-course-and-tutorials/) - By ABSoft Trainings.
 - [Web Applications (and Mobile Apps) Performance Testing with JMeter](http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/) - By Pragmatic Test Labs.
 - [Training courses on Load Testing with Apache JMeter](https://www.ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) - By Ubik Ingenierie.
-- [Apache JMeter Testing Courses](https://qainsights.com/services/) - By QAInsights.
-- [JMeter Getting Started Course (Apr 2019, duration 2h 6min)](https://www.pluralsight.com/courses/jmeter-getting-started) - By Pluralsight.
-- Videos tutorials from Youtube
-  - [JMeter tutorials - By Automation Step by Step - Raghav Pal](https://www.youtube.com/results?search_query=+jmeter+%22Automation+Step+by+Step+-+Raghav+Pal)
-  - [JMeter tutorials - By QAInsights - NaveenKumar Namachivayam](https://www.youtube.com/playlist?list=PLJ9A48W0kpRIjLkZ32Do9yDZXnnm7_uj_)
-  - [JMeter and Jenkins for JMeter - By xavki in French](https://www.youtube.com/results?search_query=jmeter+xavki)
+- [Apache JMeter Training](https://qainsights.com/apache-jmeter-training/) - By QAInsights.
+- [JMeter Getting Started Course (Apr 2019)](https://www.pluralsight.com/courses/jmeter-getting-started) - By Pluralsight.
+
+## Videos
+
+- [JMeter Tutorials](https://www.youtube.com/c/AutomationStepByStep/search?query=jmeter) - By Automation Step by Step.
+- [Learn Apache JMeter Series](https://www.youtube.com/playlist?list=PLJ9A48W0kpRIjLkZ32Do9yDZXnnm7_uj_) - By QAInsights.
+- [JMeter / Devops/ CI-CD / Cloud](https://www.youtube.com/c/xavki-linux/search?query=jmeter) - By xavki *(French)*.
 
 ## Community
 
