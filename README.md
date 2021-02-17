@@ -54,7 +54,6 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Community](#community)
   - [Blogs](#blogs)
   - [Forums](#forums)
-  - [Newsletters](#newsletters)
   - [Twitter](#twitter)
   - [Q&A](#qa)
 - [Related](#related)
@@ -405,12 +404,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter Google Group](https://groups.google.com/forum/#!forum/ptgram24)
 - [JMeterPlugins Google Group](https://groups.google.com/forum/#!forum/jmeter-plugins)
 - [JMeter Nabble Forum](http://www.jmeter-archive.org/)
-- [JMeter SQAforums](http://www.sqaforums.com/postlist.php?Cat=0&Board=UBB54)
+- [JMeter SQAforums](http://www.sqaforums.com/postlist.php?Cat=0&Board=UBB54) - *(no updates more)*.
 - [JMeter - Тестирование производительности](https://software-testing.ru/forum/index.php?/forum/206-jmeter-testirovanie-proizvoditelnosti/) - Discussion board by Software-Testing.ru *(Russian)*.
-
-### Newsletters
-
-- [JMeter Community](https://www.reddit.com/r/jmeter/) - By Reddit.
 
 ### Twitter
 
@@ -426,6 +421,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [`jmeter` on Stack Overflow](https://stackoverflow.com/questions/tagged/jmeter)
 - [`jmeter` on Gitter](https://gitter.im/aliesbelik/jmeter-chat)
 - [`#jmeter` on Slack](https://jmeterusers.slack.com/)
+- [`r/jmeter` on Reddit](https://www.reddit.com/r/jmeter/)
 
 ## Related
 
