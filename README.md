@@ -39,6 +39,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - [Mobile Apps](#mobile-apps)
   - [Mainframe Environments](#mainframe-environments)
   - [RPC Frameworks](#rpc-frameworks)
+  - [RESTful API](#restful-api)
 - [Tools](#tools)
   - [Plugins](#plugins)
   - [Correlation](#correlation)
@@ -279,6 +280,11 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter gRPC Request](https://github.com/zalopay-oss/jmeter-grpc-request) - JMeter gRPC Request load test plugin.
 - [JMeter Dubbo Plugin](https://github.com/thubbo/jmeter-plugins-for-apache-dubbo) - JMeter plugin for Apache Dubbo.
 
+### RESTful API
+
+- [RESTful API testing with JMeter](https://www.ibm.com/developerworks/cloud/library/cl-jmeter-restful/)
+- [Rest API Testing with JMeter. Step by Step Guide](https://octoperf.com/blog/2018/04/23/jmeter-rest-api-testing/)
+
 ## Tools
 
 ### Plugins
@@ -399,7 +405,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter Google Group](https://groups.google.com/forum/#!forum/ptgram24)
 - [JMeterPlugins Google Group](https://groups.google.com/forum/#!forum/jmeter-plugins)
 - [JMeter Nabble Forum](http://www.jmeter-archive.org/)
-- [JMeter SQAforums](http://www.sqaforums.com/postlist.php?Cat=0&Board=UBB54) - 💀.
+- [JMeter SQAforums 💀](http://www.sqaforums.com/postlist.php?Cat=0&Board=UBB54)
 - [JMeter - Тестирование производительности](https://software-testing.ru/forum/index.php?/forum/206-jmeter-testirovanie-proizvoditelnosti/) - Discussion board by Software-Testing.ru 🇷🇺.
 
 ### Twitter
