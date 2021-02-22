@@ -391,6 +391,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter Tips](http://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications 💀.
 - [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert blog 💀.
 - [JMeter Series](http://blog.sourcepole.com/2011/01/04/jmeter-series/) - Sourcepole blog 💀.
+- [JMeter Basics](https://thatsabug.com/tags/#jmeter-series) - By João Farias.
 
 ### Forums
 
