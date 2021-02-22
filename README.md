@@ -82,22 +82,15 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ## Tutorials
 
-- [JMeter Tutorials](https://artoftesting.com/jmeter-tutorial)
+- [JMeter Tutorial](https://artoftesting.com/jmeter-tutorial) - By ArtOfTesting.
 - [Load Testing your Applications with Apache JMeter](http://www.jguru.com/article/server-side/load-testing-with-apache-jmeter.html) - By Keld H. Hansen.
-- Load Testing with JMeter:
-  - [part 1](https://lincolnloop.com/blog/2011/sep/21/load-testing-jmeter-part-1-getting-started/) - Getting started.
-  - [part 2](https://lincolnloop.com/blog/2011/oct/12/load-testing-jmeter-part-2-headless-testing-and-je/) - Headless testing and Jenkins integration.
-  - [part 3](https://lincolnloop.com/blog/2012/sep/19/load-testing-jmeter-part-3-replaying-apache-logs/) - Replaying Apache logs.
-- [JMeter Resources](https://resources.infosecinstitute.com/?s=jmeter)
-- [Functional Testing with JMeter](https://hub.packtpub.com/functional-testing-jmeter/)
-- [JMeter Tutorial](https://www.tutorialspoint.com/jmeter/)
-- [JMeter Tutorial for Load Testing: The Ultimate Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html)
-- [RESTful API testing with JMeter](https://www.ibm.com/developerworks/cloud/library/cl-jmeter-restful/)
-- [How to Hit Your RESTful Web Service Using JMeter](https://crunchify.com/how-to-hit-your-restful-web-service-using-jmeter-perform-a-simple-load-test/)
-- [JMeter: Load Development LifeCycle](https://datacadamia.com/jmeter/lifecycle)
-- [Load Testing with Apache JMeter](https://www.digitalocean.com/community/tutorial_series/load-testing-with-apache-jmeter)
-- [JMeter Tutorial](https://www.guru99.com/jmeter-tutorials.html) - By Guru99.
-- [JMeter Series](http://blog.sourcepole.com/2011/01/04/jmeter-series/)
+- [Load Testing with JMeter](https://lincolnloop.com/blog/search/?q=jmeter) - By Brandon Konkle.
+- [JMeter Resources](https://resources.infosecinstitute.com/?s=jmeter) - By Dejan Lukan.
+- [JMeter Tutorial](https://www.tutorialspoint.com/jmeter/) - By Tutorials Point.
+- [JMeter Tutorial for Load Testing: The Ultimate Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html) - By Daniel Gutierrez Diez.
+- [JMeter: Load Development LifeCycle](https://datacadamia.com/jmeter/lifecycle) - By DataCadamia.
+- [Load Testing with Apache JMeter](https://www.digitalocean.com/community/tutorial_series/load-testing-with-apache-jmeter) - By DigitalOcean.
+- [JMeter Tutorial for Beginners](https://www.guru99.com/jmeter-tutorials.html) - By Guru99.
 
 ## Best Practices
 
@@ -397,6 +390,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
 - [JMeter Tips](http://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications 💀.
 - [JMeter Expert Blog](http://jmeter-expert.blogspot.com/) - JMeterExpert blog 💀.
+- [JMeter Series](http://blog.sourcepole.com/2011/01/04/jmeter-series/) - Sourcepole blog 💀.
 
 ### Forums
 
