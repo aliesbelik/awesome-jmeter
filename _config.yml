@@ -7,6 +7,10 @@ github_username: aliesbelik
 # Theme
 remote_theme: pmarsceill/just-the-docs
 
+# Plugins
+plugins:
+  - jemoji
+
 # Theme settings
 # Enable or disable the site search
 search_enabled: true
