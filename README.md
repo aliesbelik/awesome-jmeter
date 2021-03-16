@@ -79,7 +79,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 - [Getting Started with Apache JMeter](https://dzone.com/refcardz/getting-started-with-apache-jmeter)
 - [A Simple Load Test with JMeter](https://www.urbaninsight.com/article/simple-load-test-with-jmeter)
-- [The Beginner's Guide to Performance Testing with Apache JMeter](https://medium.com/better-programming/the-beginners-guide-to-performance-testing-with-apache-jmeter-5cc52c327ff6)
+- [The Beginner's Guide to Performance Testing with Apache JMeter](https://betterprogramming.pub/the-beginners-guide-to-performance-testing-with-apache-jmeter-5cc52c327ff6)
 
 ## Tutorials
 
@@ -283,8 +283,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### RESTful API
 
-- [RESTful API testing with JMeter](https://www.ibm.com/developerworks/cloud/library/cl-jmeter-restful/)
-- [Rest API Testing with JMeter. Step by Step Guide](https://octoperf.com/blog/2018/04/23/jmeter-rest-api-testing/)
+- [REST API Testing with JMeter. Step by Step Guide](https://octoperf.com/blog/2018/04/23/jmeter-rest-api-testing/)
 
 ## Tools
 
@@ -315,7 +314,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Intellij IDEA IDE Plugin](https://plugins.jetbrains.com/plugin/7013-jmeter-plugin) - Create run configurations and run JMeter tests from Intellij IDEA.
 - [JMeter + Eclipse HOWTO](https://cwiki.apache.org/confluence/display/jmeter/JMeterAndEclipseHowTo) - Develop the JMeter project with Eclipse IDE.
 - [NetBeans JMeter Kit](http://plugins.netbeans.org/plugin/49923/jmeter) - JMeter integration module for NetBeans IDE.
-- [Using a Load Generator in NetBeans IDE](https://netbeans.org/kb/docs/java/profile-loadgenerator.html)
+- [Using a Load Generator in NetBeans IDE](https://netbeans.apache.org//kb/docs/java/profile-loadgenerator.html)
 
 ### Editors
 
