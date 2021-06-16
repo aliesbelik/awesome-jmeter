@@ -113,6 +113,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Ruby-JMeter](https://github.com/flood-io/ruby-jmeter) - A Ruby-based DSL for building JMeter test plans.
 - [jmeter-java-dsl](https://github.com/abstracta/jmeter-java-dsl) - Simple API to run JMeter performance tests in an VCS and programmers friendly way.
 - [jmeter-groovy-dsl](https://github.com/smicyk/groovy-jmeter) - The Groovy-JMeter project is simple DSL to write JMeter test plans.
+- [jmeter-as-code](https://github.com/anasoid/jmeter-as-code) - Simple Wrapper on Jmeter to write and execute Jmeter tests with Java.
 
 ### Packages
 
