@@ -16,6 +16,7 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 - [Jérome Loisel](https://github.com/jloisel)
 - [Philippe Mouawad](https://github.com/pmouawad)
 - [Luděk Nový](https://github.com/ludeknovy)
+- [Anas Oufdou](https://github.com/anasoid)
 - [Ireneusz Pastusiak](https://github.com/automatictester)
 - [Ricardo Poleo](https://github.com/RicardoPoleo)
 - [Federico Toledo](https://github.com/fltoledo)
