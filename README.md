@@ -295,9 +295,9 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Plugins
 
-- [JMeter Plugins list](https://docs.google.com/spreadsheets/d/1FYMw3zCMr2Y37QCG_vOyC3HyrLxxi7x5I3khWLj3isU/) - List of available plugins and extensions.
 - [JMeter Plugins](https://jmeter-plugins.org/) - Independent set of plugins for Apache JMeter, with plugin manager references many plugins and simplifies installation.
 - [Ubik Load Pack](https://ubikloadpack.com/) - Productivity extensions for Apache JMeter.
+- GitHub Topics: [jmeter-plugin](https://github.com/topics/jmeter-plugin), [jmeter-plugins](https://github.com/topics/jmeter-plugins) - Explore JMeter plugins tagged with the `jmeter-plugin` or `jmeter-plugins` labels.
 
 ### Correlation
 
@@ -377,7 +377,6 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter Training Courses](https://www.nobleprog.co.uk/jmeter-training) - By NobleProg.
 - [BlazeMeter University](https://www.blazemeter.com/university/) - By BlazeMeter.
 - [JMeter Courses collection](https://www.udemy.com/topic/jmeter/) - By Udemy.
-- [JMeter Training Course](http://www.absofttrainings.com/jmeter-training-course-and-tutorials/) - By ABSoft Trainings.
 - [Web Applications (and Mobile Apps) Performance Testing with JMeter](http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/) - By Pragmatic Test Labs.
 - [Training courses on Load Testing with Apache JMeter](https://www.ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) - By Ubik Ingenierie.
 - [Apache JMeter Training](https://qainsights.com/apache-jmeter-training/) - By QAInsights.
@@ -446,7 +445,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Awesome inspectIT](https://github.com/inspectit-labs/awesome-inspectit) - Open source Java app performance management tool.
 - [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
 - [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty.
-- [Awesome k6](https://github.com/k6io/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
+- [Awesome k6](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 - [Awesome Locust](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load-testing framework written in Python.
 
 ## Contributing
