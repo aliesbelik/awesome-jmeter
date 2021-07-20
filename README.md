@@ -1,4 +1,3 @@
-<!--lint ignore double-link-->
 # Awesome JMeter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!--lint ignore double-link-->
@@ -11,7 +10,7 @@ A curated collection of resources covering [Apache JMeter](https://jmeter.apache
 > [Apache JMeter](https://jmeter.apache.org/) is open source, pure Java application designed to load test functional behavior and measure performance.
 
 <!--lint ignore double-link-->
-This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://awesome.re) project and improved by these [amazing contributors](CONTRIBUTORS.md).
+This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/2552/1842) on Stack Exchange and personal JMeter-related links collection, got further inspiration from [awesome](https://github.com/sindresorhus/awesome) project and improved by these [amazing contributors](CONTRIBUTORS.md).
 
 ## Contents
 
@@ -433,7 +432,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ## Related
 
 ### Awesome Lists
-
+<!--lint ignore double-link-->
 - [Awesome](https://github.com/sindresorhus/awesome) - The original awesome list of awesome lists.
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of amazingly awesome awesomeness.
 - [Awesome Software Quality](https://github.com/ligurio/software-quality-wiki) - A list of free software testing and verification resources.
