@@ -5,11 +5,13 @@ description: A curated collection of resources covering Apache JMeter and relate
 github_username: aliesbelik
 
 # Theme
-remote_theme: pmarsceill/just-the-docs
+# remote_theme: pmarsceill/just-the-docs
+remote_theme: pdmosses/just-the-docs@rec-nav-2
 
 # Plugins
 plugins:
   - jemoji
+  - jekyll-include-cache  
 
 # Theme settings
 # Enable or disable the site search
@@ -27,9 +29,16 @@ color_scheme: "red"
 aux_links:
   "Awesome JMeter on GitHub":
     - "//github.com/aliesbelik/awesome-jmeter"
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+# Sort order for navigation links
+# Capital letters sorted before lowercase
+nav_sort: case_sensitive
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2015-2021 Aliaksandr Belik. Licensed under the <a href=\"https://github.com/aliesbelik/awesome-jmeter/tree/master/LICENSE.md\">CC-BY-4.0</a>."
 
 # Google Analytics tracking
 ga_tracking: UA-154669570-1
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
