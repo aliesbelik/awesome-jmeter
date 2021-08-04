@@ -124,6 +124,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Taurus](https://gettaurus.org/) - Automation-friendly framework for Continuous Testing.
 - [Performance testing framework](https://github.com/serputko/performance-testing-framework) - Framework both for backend load testing with Apache JMeter and frontend load testing with sitespeed.io + webpagetest private instance.
 - [JMeter Load Testing Center](https://github.com/innogames/ltc) - Online web-application/dashboard to run, monitor and analyze results of load tests using JMeter.
+- [MeterSphere](https://github.com/metersphere/metersphere/blob/master/README-EN.md) - MeterSphere is a one-stop open-source enterprise-class continuous testing platform. It covers functions such as tests tracking, interface testing, performance testing, team collaboration and is compatible with open-source standards such as JMeter. 
 
 ### Conversion
 
