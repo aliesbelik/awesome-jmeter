@@ -10,6 +10,7 @@ permalink: /contributors
 Here you have the awesome people who contributed to this list (ordered **alphabetically** by **surname**):
 
 - [Aliaksandr Belik](https://github.com/aliesbelik)
+- [BugKing](https://github.com/wangzhen-fit2cloud)
 - [Vincent Daburon](https://github.com/vdaburon)
 - [Devinsuit](https://github.com/Devinsuit)
 - [Anthony Gauthier](https://github.com/delirius325)
@@ -19,4 +20,5 @@ Here you have the awesome people who contributed to this list (ordered **alphabe
 - [Anas Oufdou](https://github.com/anasoid)
 - [Ireneusz Pastusiak](https://github.com/automatictester)
 - [Ricardo Poleo](https://github.com/RicardoPoleo)
+- [Peter Thaleikis](https://github.com/spekulatius)
 - [Federico Toledo](https://github.com/fltoledo)
