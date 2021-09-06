@@ -7,18 +7,29 @@ permalink: /contributors
 
 # Contributors
 
-Here you have the awesome people who contributed to this list (ordered **alphabetically** by **surname**):
+Here you have the awesome people who contributed to this list:
+
+<div align="center">
+  <a href="https://github.com/aliesbelik/awesome-jmeter/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=aliesbelik/awesome-jmeter"
+      alt="Contributors"
+      width="70%" />
+  </a>
+</div>
+
+> In alphabetical order.
 
 - [Aliaksandr Belik](https://github.com/aliesbelik)
-- [BugKing](https://github.com/wangzhen-fit2cloud)
-- [Vincent Daburon](https://github.com/vdaburon)
-- [Devinsuit](https://github.com/Devinsuit)
-- [Anthony Gauthier](https://github.com/delirius325)
-- [Jérome Loisel](https://github.com/jloisel)
-- [Philippe Mouawad](https://github.com/pmouawad)
-- [Luděk Nový](https://github.com/ludeknovy)
 - [Anas Oufdou](https://github.com/anasoid)
-- [Ireneusz Pastusiak](https://github.com/automatictester)
-- [Ricardo Poleo](https://github.com/RicardoPoleo)
-- [Peter Thaleikis](https://github.com/spekulatius)
+- [Anthony Gauthier](https://github.com/delirius325)
+- [BugKing](https://github.com/wangzhen-fit2cloud)
+- [Devinsuit](https://github.com/Devinsuit)
 - [Federico Toledo](https://github.com/fltoledo)
+- [Ireneusz Pastusiak](https://github.com/automatictester)
+- [Jérome Loisel](https://github.com/jloisel)
+- [Luděk Nový](https://github.com/ludeknovy)
+- [Peter Thaleikis](https://github.com/spekulatius)
+- [Philippe Mouawad](https://github.com/pmouawad)
+- [Ricardo Poleo](https://github.com/RicardoPoleo)
+- [Roger Abelenda](https://github.com/rabelenda)
+- [Vincent Daburon](https://github.com/vdaburon)
