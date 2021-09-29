@@ -226,6 +226,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Results Visualisation
 
+<!--lint ignore double-link-->
 - InfluxDB & Grafana
   - [Using JMeter with InfluxDB & Grafana](https://www.vinsguru.com/category/influxdb/) - Collection of guides to collect and visualize real-time test-results and server monitoring stats using InfluxDB & Grafana.
   - [How to Use Grafana to Monitor JMeter Non-GUI Results](https://dzone.com/articles/how-to-use-grafana-to-monitor-jmeter-non-gui-resul)
@@ -257,6 +258,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - [JChav](https://github.com/d6y/jchav) - JMeter Chart History and Visualisation library.
   - JMeter Dashboard: [howto](http://seangkuan.blogspot.com/2015/06/jmeter-dashboard-realtime-monitoring-of.html), [sources](https://github.com/vincentskooi/JMeterDashboard) - Realtime monitoring of JMeter load test.
   - [Using CMDRunner & Powershell](http://performancewebautoamtionother.blogspot.com/2015/12/jmeter-create-graphs-with-cmdrunner.html) - Create JMeter graphs with CMDRunner with powershell parallel execution.
+  - [JMeter Graph Tool Maven Plugin](https://github.com/vdaburon/jmeter-graph-tool-maven-plugin) - Maven plugin to create graphs and filter results using CMDRunner and Filter Results Tools from [JMeter Plugins](#plugins); usually used along with the [JMeter Maven Plugin](#tools--plugins).
 
 ## Performance Testing
 
