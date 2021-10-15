@@ -1,7 +1,7 @@
 # Awesome JMeter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!--lint ignore double-link-->
-A curated collection of resources covering [Apache JMeter](https://jmeter.apache.org/) and related stuff and shiny things: plugins, integrations, testing techniques, devops practicies, etc.
+A curated collection of resources covering [Apache JMeter](https://jmeter.apache.org/) and related stuff and shiny things: plugins, integrations, testing techniques, DevOps practices, etc.
 
 <!--lint ignore double-link-->
 [<img src="assets/images/jmeter-logo.svg" align="right" width="260" alt="Apache JMeter">](https://jmeter.apache.org/)
@@ -33,7 +33,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Cloud Services / SaaS](#cloud-services--saas)
 - [Results Processing](#results-processing)
   - [Results Analysis](#results-analysis)
-  - [Results Visualisation](#results-visualisation)
+  - [Results Visualization](#results-visualization)
 - [Performance Testing](#performance-testing)
   - [Streaming Protocols](#streaming-protocols)
   - [Mobile Apps](#mobile-apps)
@@ -90,7 +90,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter Resources](https://resources.infosecinstitute.com/?s=jmeter) - By Dejan Lukan.
 - [JMeter Tutorial](https://www.tutorialspoint.com/jmeter/) - By Tutorials Point.
 - [JMeter Tutorial for Load Testing: The Ultimate Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html) - By Daniel Gutierrez Diez.
-- [JMeter: Load Development LifeCycle](https://datacadamia.com/jmeter/lifecycle) - By DataCadamia.
+- [JMeter: Load Development Lifecycle](https://datacadamia.com/jmeter/lifecycle) - By DataCadamia.
 - [Load Testing with Apache JMeter](https://www.digitalocean.com/community/tutorial_series/load-testing-with-apache-jmeter) - By DigitalOcean.
 - [JMeter Tutorial for Beginners](https://www.guru99.com/jmeter-tutorials.html) - By Guru99.
 
@@ -200,7 +200,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 *List of cloud-based load testing services with support of JMeter test plans execution.*
 
 - [CA BlazeMeter](https://www.blazemeter.com/) - Performance engineering platform with JMeter and Selenium support.
-- [OctoPerf](https://octoperf.com/) - Saas and On-Premise Load Testing Tool with JMeter and Selenium support.
+- [OctoPerf](https://octoperf.com/) - SaaS and On-Premise Load Testing Tool with JMeter and Selenium support.
 - [Tricentis Flood](https://www.flood.io/) - Load testing service with JMeter, Gatling and Selenium scenarios support.
 - [RedLine13](https://redline13.com/) - AWS-based load testing service with JMeter, Gatling and Selenium scenarios support.
 - [LoadRunner Cloud](https://www.microfocus.com/en-us/products/loadrunner-cloud/overview) - Micro Focus cloud-based solution for web and mobile performance testing with JMeter and Gatling support (formerly HP StormRunner Load).
@@ -226,7 +226,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - [JMeter MySQLCollector Plugin](https://cwiki.apache.org/confluence/display/jmeter/MysqlCollectorPlugin) - Patch to configure listener to log into MySQL database.
 - [JMeter SLA Report](https://github.com/sgoeschl/jmeter-sla-report) - JMeter HTML report generator based on JAMon.
 
-### Results Visualisation
+### Results Visualization
 
 <!--lint ignore double-link-->
 - InfluxDB & Grafana
@@ -257,7 +257,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - Custom & Deprecated
   - [Using Matplotlib & Python](https://www.metaltoad.com/blog/plotting-your-load-test-jmeter) - Plotting JMeter load test results with Matplotlib plotting tool and Python.
   - [Statistical Aggregate Report](http://rubenlaguna.com/wp/better-jmeter-graphs/) - Custom Statistical Aggregate Report listener for enhanced results visualization.
-  - [JChav](https://github.com/d6y/jchav) - JMeter Chart History and Visualisation library.
+  - [JChav](https://github.com/d6y/jchav) - JMeter Chart History and Visualization library.
   - JMeter Dashboard: [howto](http://seangkuan.blogspot.com/2015/06/jmeter-dashboard-realtime-monitoring-of.html), [sources](https://github.com/vincentskooi/JMeterDashboard) - Realtime monitoring of JMeter load test.
   - [Using CMDRunner & Powershell](http://performancewebautoamtionother.blogspot.com/2015/12/jmeter-create-graphs-with-cmdrunner.html) - Create JMeter graphs with CMDRunner with powershell parallel execution.
   - [JMeter Graph Tool Maven Plugin](https://github.com/vdaburon/jmeter-graph-tool-maven-plugin) - Maven plugin to create graphs and filter results using CMDRunner and Filter Results Tools from [JMeter Plugins](#plugins); usually used along with the [JMeter Maven Plugin](#tools--plugins).
@@ -311,7 +311,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 - [JMeter Developer Manual](https://cwiki.apache.org/confluence/display/jmeter/DeveloperManual)
 - [How to write a plugin for JMeter](https://jmeter.apache.org/usermanual/jmeter_tutorial.html)
-- [How to build a JMeter plugin utilising groovy](https://web.archive.org/web/20180225144718/http://artur.ejsmont.org/blog/content/how-to-build-a-jmeter-plugin-utilising-groovy)
+- [How to build a JMeter plugin utilizing Groovy](https://web.archive.org/web/20180225144718/http://artur.ejsmont.org/blog/content/how-to-build-a-jmeter-plugin-utilising-groovy)
 - [How to create a plugin in JMeter](https://stackoverflow.com/questions/20422640/how-to-create-a-plugin-in-jmeter)
 - [Custom JMeter Samplers and Config Elements](http://codyaray.com/2014/07/custom-jmeter-samplers-and-config-elements)
 - [Implement Custom JMeter Samplers](https://dzone.com/articles/implement-custom-jmeter-samplers)

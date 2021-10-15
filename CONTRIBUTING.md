@@ -17,12 +17,12 @@ For contributing, [open an issue](https://github.com/aliesbelik/awesome-jmeter/i
 * Add one link per Pull Request.
 * Add the link: `- [RESOURCE](LINK) - DESCRIPTION.`
   * End descriptions with a full stop.
-  * Descriptions are optional but keep they concise if you add any.
+  * Descriptions are optional but keep them concise if you add any.
 * Add a section if needed.
   * Add the section description.
   * Add the section title to Table of Contents.
 * Search previous suggestions before making a new one, as yours may be a duplicate.
-* Make sure there are no dead url's in your submission.
+* Make sure there are no dead URLs in your submission.
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
 * If there is a merge conflict, please rebase and resolve the conflicts and then submit the PR again.
