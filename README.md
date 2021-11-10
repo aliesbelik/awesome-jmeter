@@ -209,6 +209,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ## Results Processing
 
 - [JMeter Report Dashboard](https://jmeter.apache.org/usermanual/generating-dashboard.html) - JMeter supports dashboard report generation to get graphs and statistics from a test plan.
+- [JMeter Logstash](https://github.com/anasoid/jmeter-logstash) - Parse JTL Result with Docker and Logstash in real time or after test end, and send data to Elasticsearch or InfluxDb .. to have a nice dashboard and compare differents tests.
 
 ### Results Analysis
 
