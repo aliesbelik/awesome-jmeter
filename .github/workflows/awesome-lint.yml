@@ -1,4 +1,4 @@
-name: Lint with awesome-lint
+name: Awesome Lint
 
 on:
   push:
@@ -8,12 +8,18 @@ on:
 
 jobs:
   test:
-    name: Run awesome linter
+    name: Run Awesome Linter
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - uses: actions/setup-node@v1
+    - name: Checkout
+      uses: actions/checkout@v3
       with:
-        node-version: 12.19.0
-    - run: npm install -g awesome-lint
-    - run: awesome-lint README.md
+        fetch-depth: 0
+    - name: Setup Node
+      uses: actions/setup-node@v3
+      with:
+        node-version: 16.x
+    - name: Install Awesome Lint
+      run: npm install -g awesome-lint
+    - name: Run Awesome Lint
+      run: awesome-lint README.md
