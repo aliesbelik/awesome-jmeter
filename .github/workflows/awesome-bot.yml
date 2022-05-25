@@ -1,0 +1,30 @@
+name: Awesome Bot
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+  schedule:
+  - cron: "0 3 1 * *"
+
+jobs:
+  test:
+    name: Run Awesome Bot
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 3.0
+        bundler-cache: true
+    - name: Install Awesome Bot
+      run: gem install awesome_bot
+    - name: Run Awesome Bot
+      run: awesome_bot README.md --allow-ssl --allow-dupe --allow-redirect --allow 429
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v3
+      if: failure()
+      with:
+        name: ab-results
+        path: ab-results-README.md-filtered.json
