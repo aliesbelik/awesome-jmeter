@@ -208,6 +208,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ## Results Processing
 
 - [JMeter Report Dashboard](https://jmeter.apache.org/usermanual/generating-dashboard.html) - JMeter supports dashboard report generation to get graphs and statistics from a test plan.
+- [Latency Lingo](https://latencylingo.com) - Publish test results to generate hosted, interactive dashboards containing insights.
 
 ### Results Analysis
 
