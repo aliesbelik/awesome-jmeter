@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Code of Conduct
-nav_order: 4
+nav_exclude: true
 permalink: /code-of-conduct
 ---
 

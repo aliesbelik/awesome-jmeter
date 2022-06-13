@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contributors
-nav_order: 3
+nav_exclude: true
 permalink: /contributors
 ---
 

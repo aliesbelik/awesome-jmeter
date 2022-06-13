@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contributing
-nav_order: 2
+nav_exclude: true
 permalink: /contributing
 ---
 
