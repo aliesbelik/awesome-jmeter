@@ -34,6 +34,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/rabelenda"><img src="https://avatars.githubusercontent.com/u/3179183?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Roger Abelenda</b></sub></a><br /><a href="https://github.com/aliesbelik/awesome-jmeter/commits?author=rabelenda" title="Documentation">📖</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/tarikfasun"><img src="https://avatars.githubusercontent.com/u/12715890?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tarık Fasun</b></sub></a><br /><a href="https://github.com/aliesbelik/awesome-jmeter/commits?author=tarikfasun" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/vdaburon"><img src="https://avatars.githubusercontent.com/u/1881617?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vincent Daburon</b></sub></a><br /><a href="https://github.com/aliesbelik/awesome-jmeter/commits?author=vdaburon" title="Documentation">📖</a></td>
   </tr>
 </table>
