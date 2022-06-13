@@ -59,6 +59,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - [Q&A](#qa)
 - [Related](#related)
   - [Awesome Lists](#awesome-lists)
+  - [Other](#other)
 
 ## Official Resources
 
@@ -437,15 +438,15 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 - [Awesome Software Quality](https://github.com/ligurio/software-quality-wiki) - A list of free software testing and verification resources.
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
-- [Awesome Page Speed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics) - Metrics to help understand page speed and user experience.
-- [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization.
-- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems.
-- [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
-- [Awesome inspectIT](https://github.com/inspectit-labs/awesome-inspectit) - Open source Java app performance management tool.
 - [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
 - [Awesome Gatling](https://github.com/aliesbelik/awesome-gatling) - Open-source load and performance testing framework based on Scala, Akka and Netty.
 - [Awesome k6](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
 - [Awesome Locust](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
+
+### Other
+
+- [How They Load Test](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
+- [Load Testing Toolkit](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 
 ## Contributing
 
