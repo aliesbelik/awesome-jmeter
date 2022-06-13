@@ -1,0 +1,146 @@
+{
+  "projectName": "awesome-jmeter",
+  "projectOwner": "aliesbelik",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "CONTRIBUTORS.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "none",
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": true,
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "aliesbelik",
+      "name": "Aliaksandr Belik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1752374?v=4",
+      "profile": "https://github.com/aliesbelik",
+      "contributions": [
+        "doc",
+        "ideas",
+        "infra",
+        "research"
+      ]
+    },
+    {
+      "login": "vdaburon",
+      "name": "Vincent Daburon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1881617?v=4",
+      "profile": "https://github.com/vdaburon",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "fltoledo",
+      "name": "Federico Toledo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/767809?v=4",
+      "profile": "https://github.com/fltoledo",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "anasoid",
+      "name": "Oufdou Anas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10306838?v=4",
+      "profile": "https://github.com/anasoid",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "RicardoPoleo",
+      "name": "Ricardo Poleo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7467545?v=4",
+      "profile": "https://github.com/RicardoPoleo",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "pmouawad",
+      "name": "Philippe Mouawad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3127467?v=4",
+      "profile": "https://github.com/pmouawad",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "anthonygauthier",
+      "name": "Anthony Gauthier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6709533?v=4",
+      "profile": "https://github.com/anthonygauthier",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "automatictester",
+      "name": "Ireneusz Pastusiak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9162833?v=4",
+      "profile": "https://github.com/automatictester",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "jloisel",
+      "name": "Jérome Loisel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3208716?v=4",
+      "profile": "https://github.com/jloisel",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "spekulatius",
+      "name": "Peter Thaleikis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8433587?v=4",
+      "profile": "https://github.com/spekulatius",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "rabelenda",
+      "name": "Roger Abelenda",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3179183?v=4",
+      "profile": "https://github.com/rabelenda",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "wangzhen-fit2cloud",
+      "name": "BugKing",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27671436?v=4",
+      "profile": "https://github.com/wangzhen-fit2cloud",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "ludeknovy",
+      "name": "Ludek Novy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13610612?v=4",
+      "profile": "https://github.com/ludeknovy",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Devinsuit",
+      "name": "Devinsuit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11741306?v=4",
+      "profile": "https://github.com/Devinsuit",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ]
+}
