@@ -103,7 +103,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ## Scripting
 
-- [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-java-jmeter-scripting-its-performance/) - Most popular scripting mechanisms performance comparison.
+- [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-jmeter) - Most popular scripting mechanisms performance comparison.
 - [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) - Using JMeter and Groovy for load testing.
 - [JMeter: забудьте про BeanShell Sampler](https://habr.com/ru/post/250731/) - JMeter: forget about BeanShell Sampler :ru:.
 
@@ -156,13 +156,13 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - [Automating JMeter tests with Maven and Jenkins](https://blog.codecentric.de/en/2014/01/automating-jmeter-tests-maven-jenkins/)
   - How to automate JMeter tests with Maven and Jenkins: [part 1](https://ribblescode.wordpress.com/2012/04/16/how-to-run-jmeter-tests-with-maven/), [part 2](https://ribblescode.wordpress.com/2012/04/16/how-to-automate-jmeter-tests-with-maven-and-jenkins-hudson-8/)
   - JMeter Continuous Performance Testing (JMeter + Ant + Jenkins): [part 1](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part1/), [part 2](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part2/)
-  - [Continuous Integration 101: How to Run JMeter with Jenkins](https://www.blazemeter.com/blog/continuous-integration-101-how-run-jmeter-jenkins/)
+  - [Continuous Integration 101: How to Run JMeter with Jenkins](https://dzone.com/articles/continuous-integration-101-how-to-run-jmeter-with)
 - Bamboo
-  - [How to Run JMeter in a Continuous Integration Environment with Bamboo](https://www.blazemeter.com/blog/how-run-jmeter-continuous-integration-environment-bamboo/)
+  - [How to Run JMeter in a Continuous Integration Environment with Bamboo](https://dzone.com/articles/how-to-run-jmeter-in-a-continuous-integration-envi)
 - TeamCity
   - [How to Run JMeter Tests with TeamCity for Continuous Integration](https://www.blazemeter.com/blog/how-run-jmeter-tests-teamcity-continuous-integration/)
 - CircleCI
-  - [How to integrate JMeter into CircleCI](https://www.blazemeter.com/blog/how-to-integrate-jmeter-into-circleci/)
+  - [How to integrate JMeter into CircleCI](https://www.blazemeter.com/blog/circleci-jmeter)
 - SonarQube
   - [JMeter with Sonar](http://testersinaction.blogspot.com/2013/05/v-behaviorurldefaultvmlo_24.html)
 
@@ -216,7 +216,6 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter Log Analysis](https://cwiki.apache.org/confluence/display/jmeter/LogAnalysis) - Suggestions and recipes for JMeter log analysis.
 - [Analyzing JMeter Results](http://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results)
 - [JMeter Result Analysis: The Ultimate Guide](https://octoperf.com/blog/2017/10/19/how-to-analyze-jmeter-results/)
-- [BlazeMeter Sense](https://sense.blazemeter.com/) - Service for storing and analysing performance test results.
 - [JtlReporter](https://github.com/ludeknovy/jtl-reporter) - Online reporting application to generate reports by uploading JTL file.
 - [JAnalyser](http://janalyser.com/) - Browser-based results analysis tool.
 - [JMeter Result Analysis Plugin](https://github.com/afranken/jmeter-analysis-maven-plugin) - Maven plugin that parses JMeter test results and generates detailed reports with charts.
@@ -275,14 +274,13 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Easy and realistic Load Testing of HTTP Live Streaming (HLS) with Apache JMeter](https://www.ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
 - [Using JMeter to Load Test Live HLS Concurrency of Wowza Streaming Engine](https://www.realeyes.com/blog/wowza-streaming/)
 - [Load testing HLS with Ruby JMeter](https://www.flood.io/blog/load-testing-hls-with-ruby-jmeter)
-- [Media Live Streaming Load Testing with JMeter](https://www.blazemeter.com/live-streaming/) - Collection of articles by BlazeMeter ([HLS](https://www.blazemeter.com/hls/), [RTMP](https://www.blazemeter.com/rtmp/), WS, podcasts, etc.).
+- [How to Test Video Streaming with JMeter](https://www.blazemeter.com/blog/video-streaming-testing)
 - [HLS JMeter Plugin](https://github.com/Blazemeter/HLSPlugin)
 
 ### Mobile Apps
 
 - [Record iOS application HTTP requests](http://www.testautomationguru.com/jmeter-record-ios-application-http-requests/)
-- [Load Testing Mobile Apps Made Easy](https://www.blazemeter.com/blog/load-testing-mobile-apps-made-easy/)
-- [Performance Testing for Native Mobile Apps](https://www.blazemeter.com/blog/view-webcast-performance-testing-native-mobile-apps/)
+- [Load Testing Mobile Apps Made Easy](https://www.blazemeter.com/blog/mobile-app-load-testing)
 
 ### Mainframe Environments
 
@@ -353,7 +351,6 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 - [JMeter Performance](https://cwiki.apache.org/confluence/display/jmeter/JMeterPerformance) - JMeter performance evolution across versions.
 - [JMeter Performance and Tuning Tips](https://www.ubik-ingenierie.com/blog/jmeter_performance_tuning_tips/) - By Ubik Ingenierie.
-- [JMeter Performance and Tuning Tips](https://www.blazemeter.com/blog/jmeter-performance-and-tuning-tips) - By BlazeMeter.
 - How to speed up JMeter: [part 1](https://performancelabus.com/how-to-speed-up-jmeter-part-1/), [part 2](https://performancelabus.com/how-to-speed-up-jmeter-part-2/)
 
 ## Tips & Tricks
@@ -395,7 +392,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Blogs
 
-- [BlazeMeter Blog](https://www.blazemeter.com/jmeter/) - BlazeMeter blog about JMeter and performance testing.
+- [BlazeMeter Blog](https://www.blazemeter.com/blog) - BlazeMeter blog about JMeter and performance testing.
 - [Ubik Load Pack Blog](https://www.ubik-ingenierie.com/blog/category/jmeter/) - Ubik Ingenierie blog.
 - [TestAutomationGuru Blog](http://www.testautomationguru.com/category/jmeter/) - Technical blog on test automation.
 - [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) - JMeter articles in RedLine13 blog.
@@ -451,4 +448,4 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ## Contributing
 
 Contributions are welcome!<br>
-Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
+Please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
