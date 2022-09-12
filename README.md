@@ -131,6 +131,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### Conversion
 
 - [swaggerjmx](https://github.com/Pactortester/swaggerjmx) - Tool to convert Swagger UI specification into JMeter test plans.
+- [postman2jmx](https://github.com/Loadium/postman2jmx) - Postman collection to JMeter jmx file converter.
+- [convert-postman-jmeter](https://github.com/sercheo87/convert-postman-jmeter) - Convert Postman projects to JMeter.
 
 ## CI
 
