@@ -93,6 +93,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter: Load Development Lifecycle](https://datacadamia.com/jmeter/lifecycle) - By DataCadamia.
 - [Load Testing with Apache JMeter](https://www.digitalocean.com/community/tutorial_series/load-testing-with-apache-jmeter) - By DigitalOcean.
 - [JMeter Tutorial for Beginners](https://www.guru99.com/jmeter-tutorials.html) - By Guru99.
+- [JMeter Online Courses](https://skillcombo.com/topic/jmeter/) - A curated list of Jmeter online courses.
 
 ## Best Practices
 
