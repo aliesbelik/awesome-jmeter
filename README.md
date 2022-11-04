@@ -33,7 +33,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Cloud Services / SaaS](#cloud-services--saas)
 - [Results Processing](#results-processing)
   - [Results Analysis](#results-analysis)
-  - [Results Visualization](#results-visualization)
+  - [Reporting & Visualization](#reporting--visualization)
 - [Performance Testing](#performance-testing)
   - [Streaming Protocols](#streaming-protocols)
   - [Mobile Apps](#mobile-apps)
@@ -227,7 +227,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - [JMeter MySQLCollector Plugin](https://cwiki.apache.org/confluence/display/jmeter/MysqlCollectorPlugin) - Patch to configure listener to log into MySQL database.
 - [JMeter SLA Report](https://github.com/sgoeschl/jmeter-sla-report) - JMeter HTML report generator based on JAMon.
 
-### Results Visualization
+### Reporting & Visualization
 
 <!--lint ignore double-link-->
 - InfluxDB & Grafana
@@ -261,6 +261,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - [jmeter-datadog-backend-listener](https://github.com/DataDog/jmeter-datadog-backend-listener) - Send JMeter test results to Datadog.
   - [jmeter-dynatrace-plugin](https://github.com/dynatrace-oss/jmeter-dynatrace-plugin) - A JMeter Backend listener implementation to send the recorded load test metrics via the Dynatrace MINT metric ingest to the configured Dynatrace monitoring environment.
   - [jmeter-backend-newrelic](https://github.com/darrensmithwtc/jmeter-backend-newrelic) - A JMeter plugin to send test results to New Relic Metrics API.
+- AWS CloudWatch
+  - [jmeter-cw-logs](https://github.com/concurrencylabs/jmeter-cw-logs) - CloudFormation template for publishing JMeter test results to AWS CloudWatch Logs.
 - Custom & Deprecated
   - [Using Matplotlib & Python](https://www.metaltoad.com/blog/plotting-your-load-test-jmeter) - Plotting JMeter load test results with Matplotlib plotting tool and Python.
   - [Statistical Aggregate Report](https://rubenlaguna.com/post/2007-01-02-better-jmeter-graphs/) - Custom Statistical Aggregate Report listener for enhanced results visualization.
