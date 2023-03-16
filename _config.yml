@@ -5,7 +5,7 @@ description: A curated collection of resources covering Apache JMeter and relate
 github_username: aliesbelik
 
 # Theme
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 # Plugins
 plugins:
