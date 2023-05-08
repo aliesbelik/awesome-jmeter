@@ -267,6 +267,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - [jmeter-datadog-backend-listener](https://github.com/DataDog/jmeter-datadog-backend-listener) - Send JMeter test results to Datadog.
   - [jmeter-dynatrace-plugin](https://github.com/dynatrace-oss/jmeter-dynatrace-plugin) - A JMeter Backend listener implementation to send the recorded load test metrics via the Dynatrace MINT metric ingest to the configured Dynatrace monitoring environment.
   - [jmeter-backend-newrelic](https://github.com/darrensmithwtc/jmeter-backend-newrelic) - A JMeter plugin to send test results to New Relic Metrics API.
+  - [ubik-load-pack-observability-plugin](https://www.ubik-ingenierie.com/blog/ubik-load-pack-observability-plugin) - Allows you to monitor your JMeter CLI performance test from your favorite browser without having to start JMeter in GUI mode.
 - AWS CloudWatch
   - [jmeter-cw-logs](https://github.com/concurrencylabs/jmeter-cw-logs) - CloudFormation template for publishing JMeter test results to AWS CloudWatch Logs.
 - Custom & Deprecated
