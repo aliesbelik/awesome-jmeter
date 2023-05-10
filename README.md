@@ -216,6 +216,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Results Analysis
 
+<!--lint ignore double-link-->
 - [JMeter Log Analysis](https://cwiki.apache.org/confluence/display/jmeter/LogAnalysis) - Suggestions and recipes for JMeter log analysis.
 - [Analyzing JMeter Results](https://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results)
 - [JMeter Result Analysis: The Ultimate Guide](https://octoperf.com/blog/2017/10/19/how-to-analyze-jmeter-results/)
@@ -227,11 +228,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - [JMeter MySQLCollector Plugin](https://cwiki.apache.org/confluence/display/jmeter/MysqlCollectorPlugin) - Patch to configure listener to log into MySQL database.
 - [JMeter SLA Report](https://github.com/sgoeschl/jmeter-sla-report) - JMeter HTML report generator based on JAMon.
 - [JMeter JUnit Reporter](https://github.com/tilln/jmeter-junit-reporter) - Apache JMeter plugin for generating JUnit Reports in XML format, based on custom KPIs (Key Performance Indicators).
-- [JMeter Graph Tool Maven Plugin](https://github.com/vdaburon/jmeter-graph-tool-maven-plugin) - Maven plugin to create graphs and filter results using CMDRunner and Filter Results Tools from jmeter-plugins.org; often used along with the jmeter-maven-plugin.<br>
-  Usally this plugins are use with JMeter Graph Tool Maven Plugin :
-  - [JMeter Report Csv File To Html Table](https://github.com/vdaburon/JMReportCsvToHtml) - Reads a csv file and generates an html div block as an html table with an embedded stylesheet.
-  - [Create a Html Page to Display JMeter Files Results](https://github.com/vdaburon/CreateHtmlForFilesInDirectory) - Generating an HTML page that references or includes various files (png, jpeg, csv, log, zip, gzip, xml, jtl, html).
-  - [Create a Gitlab Wiki Page to Display JMeter Files Results](https://github.com/vdaburon/CreateGitlabWikiPageForFilesInDirectory) - Generating a Gitlab Wiki Page that references or includes various files (files from analysed JMeter load test results : png, jpeg, csv, log, zip, gzip, xml, jtl, html).
+- [JMeter Graph Tool Maven Plugin](https://github.com/vdaburon/jmeter-graph-tool-maven-plugin) - Maven plugin to create graphs and filter results using CMDRunner and Filter Results Tools from [JMeter Plugins](#plugins); usually used along with the [JMeter Maven Plugin](#tools--plugins) and  set of ["companion" plugins](https://github.com/vdaburon/jmeter-graph-tool-maven-plugin#compagnion-tools).
 
 ### Reporting & Visualization
 
@@ -255,6 +252,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - Prometheus
   - [jmeter-prometheus-plugin](https://github.com/johrstrom/jmeter-prometheus-plugin) - A Prometheus Listener for Apache JMeter that exposes results in HTTP API.
   - [jmeter-prometheus-listener](https://github.com/kolesnikovm/jmeter-prometheus-listener) - Apache JMeter Backend Listener implementation for Prometheus metrics exporting.
+  - [ulp-observability-plugin](https://github.com/ubikingenierie/ulp-observability-plugin) - Allows you to monitor your JMeter CLI performance test from your favorite browser without having to start JMeter in GUI mode.
 - ClickHouse
   - [JMeter Results from ClickHouse](https://grafana.com/grafana/dashboards/9561-jmeter-results-from-clickhouse-eng/) - Using the [JMeter Listener pack](https://gitlab.com/testload/jmeter-listener/-/wikis/3.3-ClickHouse-usage), ClickHouse and Grafana to collect and monitor test results.
   - [jmeter-clickhouse-listener](https://gitlab.com/testload-group/jmeter-clickhouse-listener) - JMeter plugin allows to write load test data on-the-fly to ClickHouse.
@@ -267,7 +265,6 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - [jmeter-datadog-backend-listener](https://github.com/DataDog/jmeter-datadog-backend-listener) - Send JMeter test results to Datadog.
   - [jmeter-dynatrace-plugin](https://github.com/dynatrace-oss/jmeter-dynatrace-plugin) - A JMeter Backend listener implementation to send the recorded load test metrics via the Dynatrace MINT metric ingest to the configured Dynatrace monitoring environment.
   - [jmeter-backend-newrelic](https://github.com/darrensmithwtc/jmeter-backend-newrelic) - A JMeter plugin to send test results to New Relic Metrics API.
-  - [ubik-load-pack-observability-plugin](https://www.ubik-ingenierie.com/blog/ubik-load-pack-observability-plugin) - Allows you to monitor your JMeter CLI performance test from your favorite browser without having to start JMeter in GUI mode.
 - AWS CloudWatch
   - [jmeter-cw-logs](https://github.com/concurrencylabs/jmeter-cw-logs) - CloudFormation template for publishing JMeter test results to AWS CloudWatch Logs.
 - Custom & Deprecated
