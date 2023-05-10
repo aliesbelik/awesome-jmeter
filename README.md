@@ -227,11 +227,11 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - [JMeter MySQLCollector Plugin](https://cwiki.apache.org/confluence/display/jmeter/MysqlCollectorPlugin) - Patch to configure listener to log into MySQL database.
 - [JMeter SLA Report](https://github.com/sgoeschl/jmeter-sla-report) - JMeter HTML report generator based on JAMon.
 - [JMeter JUnit Reporter](https://github.com/tilln/jmeter-junit-reporter) - Apache JMeter plugin for generating JUnit Reports in XML format, based on custom KPIs (Key Performance Indicators).
-- [JMeter Graph Tool Maven Plugin](https://github.com/vdaburon/jmeter-graph-tool-maven-plugin) - Maven plugin to create graphs and filter results using CMDRunner and Filter Results Tools from [JMeter Plugins](#plugins); often used along with the [JMeter Maven Plugin](#tools--plugins).<br>
+- [JMeter Graph Tool Maven Plugin](https://github.com/vdaburon/jmeter-graph-tool-maven-plugin) - Maven plugin to create graphs and filter results using CMDRunner and Filter Results Tools from jmeter-plugins.org; often used along with the jmeter-maven-plugin.<br>
   Usally this plugins are use with JMeter Graph Tool Maven Plugin :
   - [JMeter Report Csv File To Html Table](https://github.com/vdaburon/JMReportCsvToHtml) - Reads a csv file and generates an html div block as an html table with an embedded stylesheet.
-  - [Create a Html Page to Display JMeter Files Results](https://github.com/vdaburon/CreateHtmlForFilesInDirectory) - Generating an HTML page that references or includes various files (png, jpeg, csv, log, zip, gzip, xml, jtl, html ...).
-  - [Create a Gitlab Wiki Page to Display JMeter Files Results](https://github.com/vdaburon/CreateGitlabWikiPageForFilesInDirectory) - Generating a Gitlab Wiki Page that references or includes various files (files from analysed JMeter load test results : png, jpeg, csv, log, zip, gzip, xml, jtl, html ...).
+  - [Create a Html Page to Display JMeter Files Results](https://github.com/vdaburon/CreateHtmlForFilesInDirectory) - Generating an HTML page that references or includes various files (png, jpeg, csv, log, zip, gzip, xml, jtl, html).
+  - [Create a Gitlab Wiki Page to Display JMeter Files Results](https://github.com/vdaburon/CreateGitlabWikiPageForFilesInDirectory) - Generating a Gitlab Wiki Page that references or includes various files (files from analysed JMeter load test results : png, jpeg, csv, log, zip, gzip, xml, jtl, html).
 
 ### Reporting & Visualization
 
