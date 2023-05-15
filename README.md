@@ -228,6 +228,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - [JMeter MySQLCollector Plugin](https://cwiki.apache.org/confluence/display/jmeter/MysqlCollectorPlugin) - Patch to configure listener to log into MySQL database.
 - [JMeter SLA Report](https://github.com/sgoeschl/jmeter-sla-report) - JMeter HTML report generator based on JAMon.
 - [JMeter JUnit Reporter](https://github.com/tilln/jmeter-junit-reporter) - Apache JMeter plugin for generating JUnit Reports in XML format, based on custom KPIs (Key Performance Indicators).
+- [JMeter JUnit KPI Reporter From JMeter CSV Report](https://github.com/vdaburon/JUnitReportKpiJMeterReportCsv) - Read KPI declarations in a CSV file and apply the KPI assertion on a JMeter Report CSV file (Aggregate, Summary or Synthesis Report) and generates a result file in JUnit XML format. Usually used along with the [JMeter Graph Tool Maven Plugin](https://github.com/vdaburon/jmeter-graph-tool-maven-plugin).
+- [JMeter JUnit KPI Reporter From JMeter Dashboard Statistics Json File](https://github.com/vdaburon/JUnitReportKpiJMeterDashboardStats) - Read KPI declarations in a CSV file and apply the KPI assertion on a JMeter Dashboard Statistics Json file and generates a result file in JUnit XML format. Usually used along with the [JMeter Maven Plugin](#tools--plugins).
 - [JMeter Graph Tool Maven Plugin](https://github.com/vdaburon/jmeter-graph-tool-maven-plugin) - Maven plugin to create graphs and filter results using CMDRunner and Filter Results Tools from [JMeter Plugins](#plugins); usually used along with the [JMeter Maven Plugin](#tools--plugins) and  set of ["companion" plugins](https://github.com/vdaburon/jmeter-graph-tool-maven-plugin#compagnion-tools).
 
 ### Reporting & Visualization
