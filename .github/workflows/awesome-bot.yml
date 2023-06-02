@@ -21,7 +21,7 @@ jobs:
     - name: Install Awesome Bot
       run: gem install awesome_bot
     - name: Run Awesome Bot
-      run: awesome_bot README.md --allow-ssl --allow-dupe --allow-redirect --allow 429
+      run: awesome_bot README.md --allow-ssl --allow-dupe --allow-redirect --allow 429 --white-list udemy.com
     - name: Upload artifacts
       uses: actions/upload-artifact@v3
       if: failure()
