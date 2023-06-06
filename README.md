@@ -327,6 +327,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [How to create a plugin in JMeter](https://stackoverflow.com/questions/20422640/how-to-create-a-plugin-in-jmeter)
 - [Custom JMeter Samplers and Config Elements](http://codyaray.com/2014/07/custom-jmeter-samplers-and-config-elements)
 - [Implement Custom JMeter Samplers](https://dzone.com/articles/implement-custom-jmeter-samplers)
+- [Hello JMeter plugin](https://github.com/Bugazelle/hello-jmeter-plugin) - A brief, clear & fast guide to create your first JMeter plugin.
 
 ### IDE Integration
 
