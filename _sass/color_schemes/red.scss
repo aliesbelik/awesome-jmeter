@@ -17,11 +17,14 @@ $mono-font-family: "Fira Mono", "SFMono-Regular", Menlo, Consolas, Monospace;
 //$red-200: #e94c4c;
 //$red-300: #dd2e2e;
 
+$base-color: $red-300;
+$link-color: $base-color;
+$btn-primary-color: $base-color;
 $sidebar-color: $grey-lt-000;
-
-$link-color: $red-300;
 
 /* Grid system _____________________________ */
 
-$nav-width: 280px;
-$nav-width-md: 280px;
+// 1rem == 16px
+$nav-width: 20rem;
+$nav-width-md: 18rem;
+//$content-width: 60rem;

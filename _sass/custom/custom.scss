@@ -1,0 +1,28 @@
+.side-bar {
+    @include mq(lg) {
+        width: $nav-width;
+        min-width: $nav-width;
+    }
+}
+
+.main {
+    @include mq(lg) {
+        margin-left: $nav-width;
+        margin-right: 30px;
+        max-width: 1920px;
+        //max-width: none;
+    }
+}
+
+.site-title
+{
+    color: $red-300;
+}
+
+blockquote {
+    //background-color: $grey-lt-000;
+    @extend .text-grey-dk-000;
+    border-left: 4px solid $red-300;
+    margin-inline-start: 24px;
+    margin-inline-end: 24px;
+}
