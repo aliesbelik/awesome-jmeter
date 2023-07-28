@@ -1,7 +1,7 @@
 # Site settings
 title: Awesome JMeter
 description: A curated collection of resources covering Apache JMeter and related things.
-#url: "https://aliesbelik.github.io/awesome-jmeter/"
+url: "https://aliesbelik.github.io/awesome-jmeter/"
 github_username: aliesbelik
 
 # Theme
@@ -14,8 +14,9 @@ plugins:
 # Theme settings
 # Enable or disable the site search
 search_enabled: true
+#search:
 # Set the search token separator
-search_tokenizer_separator: /[\s/]+/
+#  tokenizer_separator: /[\s/]+/
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: "red"
@@ -28,8 +29,12 @@ aux_links:
   "Awesome JMeter on GitHub":
     - "//github.com/aliesbelik/awesome-jmeter"
 
+#nav_external_links:
+#  - title: Awesome JMeter on GitHub
+#    url: https://github.com/aliesbelik/awesome-jmeter
+
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2015-2023 Aliaksandr Belik. Licensed under the <a href=\"https://github.com/aliesbelik/awesome-jmeter/tree/master/LICENSE.md\">CC-BY-4.0</a>."
 
 # Google Analytics tracking
-ga_tracking: UA-154669570-1
+ga_tracking: G-GEX05Q48X3
