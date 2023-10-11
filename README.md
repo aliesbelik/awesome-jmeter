@@ -232,6 +232,10 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - SLA and KPIs
   - [JMeter SLA Report](https://github.com/sgoeschl/jmeter-sla-report) - JMeter HTML report generator based on JAMon.
   - [JMeter JUnit Reporter](https://github.com/tilln/jmeter-junit-reporter) - Apache JMeter plugin for generating JUnit Reports in XML format, based on custom KPIs (Key Performance Indicators).
+  - Tools to validate results from KPIs:
+    - [JUnit KPI Reporter from JMeter CSV Report](https://github.com/vdaburon/JUnitReportKpiJMeterReportCsv) - Tool to generate JUnit Report based on custom KPIs applied to the JMeter Report CSV file.
+    - [JUnit KPI Reporter from JMeter Dashboard Statistics JSON File](https://github.com/vdaburon/JUnitReportKpiJMeterDashboardStats) - Tool to generate JUnit Report based on custom KPIs applied to the JMeter Dashboard Statistics JSON file.
+    - [JUnit Report Compare 2 JMeter Report CSV Files](https://github.com/vdaburon/JUnitReportKpiCompareJMeterReportCsv) - Tool to compare 2 load tests using JMeter Report CSV files and create a JUnit Report based on custom KPIs.
 
 ### Reporting & Visualization
 
