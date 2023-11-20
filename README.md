@@ -41,6 +41,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - [RPC Frameworks](#rpc-frameworks)
   - [RESTful API](#restful-api)
 - [Tools](#tools)
+  - [Utilities](#utilities)
   - [Plugins](#plugins)
   - [Correlation](#correlation)
   - [Extending JMeter](#extending-jmeter)
@@ -175,6 +176,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter Remote Testing](https://jmeter.apache.org/usermanual/remote-test.html)
 - [Setting up a JMeter Cluster for web server load testing](https://www.howtoforge.com/setting-up-jmeter-cluster-for-load-testing/)
 - Dockerized
+  - [JMeter Docker Extension](https://hub.docker.com/extensions/qainsights/jmeter-docker-extension) - Docker extension to run JMeter tests from Docker Desktop
   - [Dockerized JMeter](https://gist.github.com/hhcordero/abd1dcaf6654cfe51d0b) - Distributed load testing workflow with Docker and JMeter.
   - [JMeter Docker Images](https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=jmeter&starCount=0)
   - [Distributed JMeter testing using Docker](https://srivaths.blogspot.com/2014/08/distrubuted-jmeter-testing-using-docker.html)
@@ -311,6 +313,9 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [REST API Testing with JMeter. Step by Step Guide](https://octoperf.com/blog/2018/04/23/jmeter-rest-api-testing/)
 
 ## Tools
+
+### Utilities
+- [Hamster](https://github.com/QAInsights/hamster) - swiftly launch your JMeter test plans from Mac menubar
 
 ### Plugins
 
