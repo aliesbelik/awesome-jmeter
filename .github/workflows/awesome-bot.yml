@@ -23,7 +23,7 @@ jobs:
     - name: Run Awesome Bot
       run: awesome_bot README.md --allow-ssl --allow-dupe --allow-redirect --allow 429 --white-list udemy.com
     - name: Upload artifacts
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       if: failure()
       with:
         name: ab-results
