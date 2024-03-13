@@ -134,6 +134,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [postman2jmx](https://github.com/Loadium/postman2jmx) - Postman collection to JMeter jmx file converter.
 - [convert-postman-jmeter](https://github.com/sercheo87/convert-postman-jmeter) - Convert Postman projects to JMeter.
 - [fiddler2jmeter](https://github.com/dperfly/fiddler2jmeter) - Fiddler or Charles to JMeter script convertor.
+- [vdn@github - har-convertor-jmeter-tool](https://github.com/vdaburon/har-convertor-jmeter-plugin) - Apache JMeter Plugin to convert a HAR file to a JMeter script and Record XML file.
 
 ## CI
 
