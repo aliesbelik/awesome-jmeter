@@ -97,7 +97,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ## Best Practices
 
 - [JMeter Official Best Practices](https://jmeter.apache.org/usermanual/best-practices.html)
-- [Optimize JMeter for Large Scale Tests](https://octoperf.com/blog/2017/10/12/optimize-jmeter-for-large-scale-tests/)
+- [Optimize JMeter for Large Scale Tests](https://blog.octoperf.com/optimize-jmeter-for-large-scale-tests/)
 - [Concurrent, High Throughput Performance Testing with JMeter](https://howtojboss.wordpress.com/2012/07/31/concurrent-high-throughput-performance-testing-with-jmeter/)
 
 ## Scripting
@@ -225,7 +225,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 <!--lint ignore double-link-->
 - [JMeter Log Analysis](https://cwiki.apache.org/confluence/display/jmeter/LogAnalysis) - Suggestions and recipes for JMeter log analysis.
 - [Analyzing JMeter Results](https://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results)
-- [JMeter Result Analysis: The Ultimate Guide](https://octoperf.com/blog/2017/10/19/how-to-analyze-jmeter-results/)
+- [JMeter Result Analysis: The Ultimate Guide](https://blog.octoperf.com/jmeter-result-analysis-the-ultimate-guide/)
 - [JtlReporter](https://github.com/ludeknovy/jtl-reporter) - Online reporting application to generate reports by uploading JTL file.
 - [JMeter Result Analysis Plugin](https://github.com/afranken/jmeter-analysis-maven-plugin) - Maven plugin that parses JMeter test results and generates detailed reports with charts.
 - [JMeter Results Analyser](https://sourceforge.net/projects/jmstats/) - Web-based application for collating, analysing and reporting JMeter test results.
@@ -312,7 +312,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### RESTful API
 
-- [REST API Testing with JMeter. Step by Step Guide](https://octoperf.com/blog/2018/04/23/jmeter-rest-api-testing/)
+- [REST API Testing with JMeter. Step by Step Guide](https://blog.octoperf.com/rest-api-testing-with-jmeter-step-by-step-guide/)
 
 ## Tools
 
@@ -422,7 +422,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) - JMeter articles in RedLine13 blog.
 - [Flood.io Blog](https://www.flood.io/blog) - Load testing thoughts, stories and ideas from Flood IO.
 - [JMeter Blog](https://shantonusarker.blogspot.com/p/jmeter.html) - Another blog for performance & automation testing using JMeter.
-- [OctoPerf Blog](https://octoperf.com/categories/jmeter/) - OctoPerf blog about JMeter and load testing.
+- [OctoPerf Blog](https://blog.octoperf.com/categories/jmeter/) - OctoPerf blog about JMeter and load testing.
 - [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
 - [JMeter Basics](https://thatsabug.com/tags/#jmeter-series) - By João Farias.
 - [Azure Load Testing Blog](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Azure%20Load%20Testing) - By Microsoft Tech Community.
