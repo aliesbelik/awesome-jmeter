@@ -430,7 +430,6 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### Forums
 
 <!--lint ignore double-link-->
-- [JMeter Google Group](https://groups.google.com/forum/#!forum/ptgram24)
 - [JMeterPlugins Google Group](https://groups.google.com/forum/#!forum/jmeter-plugins)
 
 ### Twitter
