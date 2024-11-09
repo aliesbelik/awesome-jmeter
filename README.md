@@ -342,6 +342,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### IDE Integration
 
 - [Intellij IDEA IDE Plugin](https://plugins.jetbrains.com/plugin/7013-jmeter-plugin) - Create run configurations and run JMeter tests from Intellij IDEA.
+- [JMeter Viewer](https://github.com/anboralabs/intellij-jmeter) - Open JMeter test plans inside Intellij IDE.
 - [JMeter + Eclipse HOWTO](https://cwiki.apache.org/confluence/display/jmeter/JMeterAndEclipseHowTo) - Develop the JMeter project with Eclipse IDE.
 - [Using a Load Generator in NetBeans IDE](https://netbeans.apache.org/tutorial/main/kb/docs/java/profile-loadgenerator/)
 
