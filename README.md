@@ -366,6 +366,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [CA App Synthetic Monitor](https://asm.saas.broadcom.com/en/feature/transaction-monitoring-web-application-testing.html) - Transaction monitoring & testing solution with JMeter support.
 - Performance Remediation using New Relic and JMeter: [part 1](https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-1-3/), [part 2](https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-2-3/)
 - [Elastic APM integration](https://github.com/vdaburon/jmeter-elastic-apm) - Manages the integration of Elastic Application Performance Monitoring API in Apache JMeter script.
+- [OpenTelemetry Elastic APM integration](https://github.com/vdaburon/otel-apm-jmeter-plugin) - Apache JMeter tool plugin to Manage the integration of OpenTelemetry from Elastic Application Performance Monitoring in a JMeter script.
 
 ## JMeter Performance
 
