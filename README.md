@@ -209,7 +209,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Perforce BlazeMeter](https://www.blazemeter.com/) - Performance engineering platform with JMeter and Selenium support.
 - [OctoPerf](https://octoperf.com/) - SaaS and On-Premise Load Testing Tool with JMeter and Selenium support.
 - [RedLine13](https://redline13.com/) - AWS-based load testing service with JMeter, Gatling and Selenium scenarios support.
-- [LoadRunner Cloud](https://www.opentext.com/products/core-performance-engineering) - OpenText cloud-based solution for web and mobile performance testing with JMeter and Gatling support (formerly Micro Focus LoadRunner Cloud, formerly HP StormRunner Load).
+- [OpenText Core Performance Engineering](https://www.opentext.com/products/core-performance-engineering) - OpenText cloud-based solution for web and mobile performance testing with JMeter and Gatling support (formerly Open Text LoadRunner Cloud, formerly Micro Focus LoadRunner Cloud, formerly HP StormRunner Load).
 - [Loadium](https://loadium.com/) - AWS-based load testing service with JMeter and Selenium support.
 - [Azure Microsoft](https://azure.microsoft.com/en-us/products/load-testing/) - Azure Load Testing Service use Apache JMeter.
 
@@ -366,6 +366,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [CA App Synthetic Monitor](https://asm.saas.broadcom.com/en/feature/transaction-monitoring-web-application-testing.html) - Transaction monitoring & testing solution with JMeter support.
 - Performance Remediation using New Relic and JMeter: [part 1](https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-1-3/), [part 2](https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-2-3/), [part 3](https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-3-of-3/)
 - [Elastic APM integration](https://github.com/vdaburon/jmeter-elastic-apm) - Manages the integration of Elastic Application Performance Monitoring API in Apache JMeter script.
+- [OpenTelemetry Elastic APM integration](https://github.com/vdaburon/otel-apm-jmeter-plugin) - Apache JMeter tool plugin to manage the OpenTelemetry Elastic Application Performance Monitoring (OTEL ELASTIC APM) in JMeter script
 
 ## JMeter Performance
 
