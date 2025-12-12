@@ -93,6 +93,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Load Testing with Apache JMeter](https://www.digitalocean.com/community/tutorial-series/load-testing-with-apache-jmeter) - By Mitchell Anicas @ DigitalOcean.
 - [JMeter Tutorial for Beginners](https://www.guru99.com/jmeter-tutorials.html) - By Guru99.
 - [JMeter Tutorials](https://qaautomation.expert/2023/12/07/jmeter-tutorials/) - By QA Automation Expert.
+- [Web App Load Testing Using Maven Plugins for Apache JMeter, and Analyzing the Results](https://dzone.com/articles/running-load-test-web-app-using-maven-plugins) - By Vincent DABURON.
 
 ## Best Practices
 
