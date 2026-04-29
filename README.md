@@ -106,6 +106,10 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-jmeter) - Most popular scripting mechanisms performance comparison.
 - [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) - Using JMeter and Groovy for load testing.
 
+## AI
+
+- [Feather Wand](https://jmeter.ai)
+
 ## Automation
 
 ### DSL
