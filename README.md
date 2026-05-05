@@ -154,7 +154,6 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [PerfAction for JMeter](https://github.com/marketplace/actions/perfaction-for-jmeter) - GitHub Action to run performance tests using Apache JMeter and its plugins.
 - [Apache JMeter GitHub Action](https://github.com/marketplace/actions/apache-jmeter) - A GitHub Action for carrying out Apache JMeter performance tests.
 
-
 ### Tutorials & Demo
 
 - Jenkins
@@ -362,8 +361,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### AI
 
-- [Feather Wand](https://jmeter.ai) - an AI agent in JMeter with Claude Code, Codex, OpenCode, and Gemini integration
-
+- [Feather Wand](https://jmeter.ai) - An AI agent in JMeter with Claude Code, Codex, OpenCode, and Gemini integration.
 
 ## APM Integration
 
