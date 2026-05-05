@@ -47,6 +47,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - [IDE Integration](#ide-integration)
   - [Editors](#editors)
   - [Utilities](#utilities)
+  - [AI](#ai)
 - [APM Integration](#apm-integration)
 - [JMeter Performance](#jmeter-performance)
 - [Tips & Tricks](#tips--tricks)
@@ -357,6 +358,10 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### Utilities
 
 - [Hamster](https://github.com/QAInsights/hamster) - Swiftly launch your JMeter test plans from Mac menubar.
+
+### AI
+
+- [Feather Wand](https://jmeter.ai) - An AI agent in JMeter with Claude Code, Codex, OpenCode, and Gemini integration.
 
 ## APM Integration
 
