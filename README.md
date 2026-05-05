@@ -47,6 +47,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - [IDE Integration](#ide-integration)
   - [Editors](#editors)
   - [Utilities](#utilities)
+  - [AI](#ai)
 - [APM Integration](#apm-integration)
 - [JMeter Performance](#jmeter-performance)
 - [Tips & Tricks](#tips--tricks)
@@ -106,10 +107,6 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Beanshell vs JSR223 vs Java JMeter Scripting](https://www.blazemeter.com/blog/beanshell-vs-jsr223-vs-jmeter) - Most popular scripting mechanisms performance comparison.
 - [Testing with Groovy](https://static.packt-cdn.com/downloads/Testingwithgroovy.pdf) - Using JMeter and Groovy for load testing.
 
-## AI
-
-- [Feather Wand](https://jmeter.ai)
-
 ## Automation
 
 ### DSL
@@ -156,6 +153,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Taurus JMeter Executor](https://gettaurus.org/docs/JMeter/) - JMeter Executor in Taurus automation framework.
 - [PerfAction for JMeter](https://github.com/marketplace/actions/perfaction-for-jmeter) - GitHub Action to run performance tests using Apache JMeter and its plugins.
 - [Apache JMeter GitHub Action](https://github.com/marketplace/actions/apache-jmeter) - A GitHub Action for carrying out Apache JMeter performance tests.
+
 
 ### Tutorials & Demo
 
@@ -361,6 +359,11 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### Utilities
 
 - [Hamster](https://github.com/QAInsights/hamster) - Swiftly launch your JMeter test plans from Mac menubar.
+
+### AI
+
+- [Feather Wand](https://jmeter.ai) - an AI agent in JMeter with Claude Code, Codex, OpenCode, and Gemini integration
+
 
 ## APM Integration
 
