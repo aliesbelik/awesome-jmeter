@@ -320,6 +320,8 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter Plugins](https://jmeter-plugins.org/) - Independent set of plugins for Apache JMeter, with plugin manager references many plugins and simplifies installation.
 - [Ubik Load Pack](https://ubikloadpack.com/) - Productivity extensions for Apache JMeter.
 - GitHub Topics: [jmeter-plugin](https://github.com/topics/jmeter-plugin), [jmeter-plugins](https://github.com/topics/jmeter-plugins) - Explore JMeter plugins tagged with the `jmeter-plugin` or `jmeter-plugins` labels.
+- [Mock Jutsu](https://github.com/altansayan/mock-jutsu-jmeter) - Custom functions plugin to generate 390+ format-valid mock data types (IBAN, TCKN, Luhn, VIN, NHS, SWIFT, MRZ and more) directly in JMeter test plans. Zero
+  external dependencies.
 
 ### Correlation
 
