@@ -13,9 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v7
+      uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
     - name: Setup Ruby
-      uses: ruby/setup-ruby@v1
+      uses: ruby/setup-ruby@14594264cd68ce8a2345dd349bc3d138a4ef85c8 # v1.327.0
       with:
         ruby-version: 3.0
         bundler-cache: true
@@ -24,7 +24,7 @@ jobs:
     - name: Run Awesome Bot
       run: awesome_bot README.md --allow-ssl --allow-dupe --allow-redirect --allow 403,429 --white-list dzone.com,medium.com,packtpub.com,stackoverflow.com,udemy.com
     - name: Upload artifacts
-      uses: actions/upload-artifact@v7
+      uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
       if: failure()
       with:
         name: ab-results
