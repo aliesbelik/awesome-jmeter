@@ -168,6 +168,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "motareksamir",
+      "name": "Mohamed Tarek",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2890985?v=4",
+      "profile": "https://thetesttherapist.com/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitType": "docs"
