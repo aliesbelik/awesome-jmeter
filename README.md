@@ -95,6 +95,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter Tutorial for Beginners](https://www.guru99.com/jmeter-tutorials.html) - By Guru99.
 - [JMeter Tutorials](https://qaautomation.expert/2023/12/07/jmeter-tutorials/) - By QA Automation Expert.
 - [Web App Load Testing Using Maven Plugins for Apache JMeter, and Analyzing the Results](https://dzone.com/articles/running-load-test-web-app-using-maven-plugins) - By Vincent DABURON.
+- [JMeter vs k6 vs Gatling Guide](https://qapractices.com/documentation/jmeter-vs-k6-vs-gatling-guide/) - Practical comparison of JMeter, k6 and Gatling for load testing.
 
 ## Best Practices
 
