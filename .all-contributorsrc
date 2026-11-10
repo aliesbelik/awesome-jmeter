@@ -177,6 +177,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "MathiasPaulenko",
+      "name": "Mathias Paulenko Echeverz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36444344?v=4",
+      "profile": "https://mathiaspaulenko.com/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitType": "docs"
